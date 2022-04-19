@@ -1,4 +1,4 @@
 GIT_USER=mybeliefs \
-  CURRENT_BRANCH=main \
-  DEPLOY_BRANCH=docsite-pages
+  DEPLOYMENT_BRANCH=docsite-pages \
+  USE_SSH=true \
   yarn deploy
