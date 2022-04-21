@@ -10,7 +10,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/mybeliefs.png',
   organizationName: 'mybeliefs', 
   projectName: 'mybeliefs.github.io', 
  
@@ -27,7 +27,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         blog: false, 
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/customTheme2.css'),
         },
       }),
     ],
@@ -40,7 +40,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/mybeliefs.png',
         },
         items: [
           {
