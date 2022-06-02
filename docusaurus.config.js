@@ -22,8 +22,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          // Please change this to your repo.
-          editUrl: 'https://github.com/mybeliefs.github.io/edit/main/',
+          breadcrumbs: true, // the default
         },
         blog: false, 
         theme: {
@@ -37,7 +36,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'MyBeliefs Site',
         logo: {
           alt: 'My Site Logo',
           src: 'img/mybeliefs.png',
@@ -45,7 +44,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'why-i-believe',
             position: 'right',
             label: 'Thoughts',
           },
@@ -55,29 +54,27 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Thoughts',
-                to: '/',
-              },
-            ],
-          },
-          {
-            title: 'Whatever',
             items: [
               {
                 label: 'Site',
-                href: 'https://mybeliefs.github.io/',
+                to: 'https://mybeliefs.github.io/',
               },
             ],
           },
           {
-            title: 'More',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/mybeliefs/mybeliefs.github.io',
+                label: 'Discussions',
+                to: 'https://github.com/mybeliefs/mybeliefs.github.io/discussions',
+              },
+            ],
+          },
+ 
+          {
+            items: [
+              {
+                label: 'Contact',
+                to: 'mailto:mark.mybeliefs@gmail.com',
               },
             ],
           },
