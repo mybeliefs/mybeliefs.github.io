@@ -5,7 +5,7 @@ sidebar_position: 1
 # Overview
 There are **27 books** of the New Testament.
 
-## Gospels and Acts (5)
+## Gospels (4)
 
 ### Matthew (28)
 #### Overview
@@ -66,9 +66,6 @@ New:
 - `Luke 12:25` *“Who of you by worrying can add a single hour to his life?”* (NIV)
 - `Luke 14:11`  *“For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.”* (ESV)
 
-
-
-
 ### John (21)
 #### Overview
 - Written between 70 A.D. and 100 A.D.
@@ -105,6 +102,7 @@ New:
 - `John 10:27-28`  *“My sheep listen to my voice; I know them, and they follow me. 28 I give them eternal life, and they shall never perish; no one will snatch them out of my hand.”*
 - `John 14:6` *“A am the way and the truth and the life. No one comes to the Father except through me”*
 
+## History (1)
 
 ### Acts (28)
 #### Overview
@@ -114,7 +112,7 @@ New:
 #### Outline
 TBD
 
-## Paul's letters to Churches (9)
+## Paul's Letters to Churches (9)
 
 ### Romans (16)
 - The system of salvation for all mankind. 
@@ -124,7 +122,7 @@ TBD
 - `Romans 3:22-24` This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile, 23 for all have sinned and fall short of the glory of God, 24 and all are justified freely by his grace through the redemption that came by Christ Jesus. (NIV)
 - `Romans 4:5` However, to the man who does not work but trusts God who justifies the wicked, his faith is credited as righteousness. (NIV)
 - `Romans 6:23` For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord. (NIV)
-- `Romans 8:28`  And we know that for those who love God all things work together for good, for those who are called according to his purpose. (ESV)
+- `Romans 8:28-29`  And we know that for those who love God all things work together for good, for those who are called according to his purpose. 29 For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. (ESV)
 
 ### 1 Corinthians (16)
 - Without the Holy Spirit, these truths are viewed as foolishness (ch. 1)
@@ -202,7 +200,7 @@ New:
 3. Antichrist (ch. 2)
 3. Work (ch. 3)
 
-## Paul's letters to People (4)
+## Paul's Letters to People (4)
 ### 1 Timothy (6)
 - False doctrine, Law for the disobedient, Came to save sinners (ch 1)
 - God wants all men to be saved, Only one mediator: Jesus Christ, Women roles and behavior (ch 2)

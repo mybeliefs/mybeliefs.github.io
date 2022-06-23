@@ -29,8 +29,6 @@ sidebar_position: 4
 - Focus is on believing that Jesus is the Christ
 - Focused on the last 21 days of Christ’s life 
 
-
-
 ### Bible Project
 
 - Bible Project Part 1 - https://bibleproject.com/explore/john/
