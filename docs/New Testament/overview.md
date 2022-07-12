@@ -168,6 +168,12 @@ TBD
 5. Pure living, Giving thanks, Loving your wife (ch. 5)
 6. Children and Parents, Armor of God (ch. 6)
 
+#### Verses
+- `4:26-27` - *In your anger do not sin. Do not let the sun go down while you are still angry, 27 and do not give the devil a foothold.* (NIV)
+- `4:29` -  *Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.* (NIV)
+- `5:3-4` -*But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God’s holy people. 4 Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving.* (NIV)
+- `5:13` - *But when anything is exposed by the light, it becomes visible,*
+
 ### Philippians (4)
 1. To live is Christ to die is gain, Conduct yourself worthy (ch. 1)
 2. Think of others, Christ the servant, without arguing and complaining (ch. 2)
