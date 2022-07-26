@@ -114,6 +114,8 @@ TBD
 
 ## Paul's Letters to Churches (9)
 
+Note - Prison letters were Ephesians, Philippians, Colossians, and Philemon
+
 ### Romans (16)
 - The system of salvation for all mankind. 
 - Justification by faith. 
@@ -141,12 +143,12 @@ TBD
 - Made strong in weakness (ch. 12)
 
 ### Galatians (6)
-1. Warning about turning to a false gospel (ch. 1)
-2. It is by grace through faith alone that we are justified (ch. 2)
-3. The righteous shall live by faith (ch. 3)
-4. No longer a slave to the law, but God’s children, heirs (ch. 4)
-5. Can’t be justified by the law. Do not use your freedom to sin. Fruits of the Spirit (ch. 5)
-6. Do not grow weary of doing good (ch. 6)
+1. Warning about turning to a false gospel 
+2. It is by grace through faith alone that we are justified 
+3. The righteous shall live by faith 
+4. No longer a slave to the law, but God’s children, heirs 
+5. Can’t be justified by the law. Do not use your freedom to sin. Fruits of the Spirit 
+6. Do not grow weary of doing good 
 
 #### Verses
 `Fruits of the Spirit` - Galatians 5:22-23 
@@ -161,12 +163,12 @@ TBD
 9. Self-control
 
 ### Ephesians (6)
-1. Chose us before the creation (ch. 1)
-2. By grace we have been saved (ch. 2)
-3. Gentiles are also heirs, access with confidence, love of Christ (ch. 3)
-4. Unity, righteous living, new self (ch. 4)
-5. Pure living, Giving thanks, Loving your wife (ch. 5)
-6. Children and Parents, Armor of God (ch. 6)
+1. Chose us before the creation 
+2. By grace we have been saved 
+3. Gentiles are also heirs, access with confidence, love of Christ 
+4. Unity, righteous living, new self 
+5. Pure living, Giving thanks, Loving your wife 
+6. Children and Parents, Armor of God 
 
 #### Verses
 - `4:26-27` - *In your anger do not sin. Do not let the sun go down while you are still angry, 27 and do not give the devil a foothold.* (NIV)
@@ -175,11 +177,13 @@ TBD
 - `5:13` - *But when anything is exposed by the light, it becomes visible,*
 
 ### Philippians (4)
-1. To live is Christ to die is gain, Conduct yourself worthy (ch. 1)
-2. Think of others, Christ the servant, without arguing and complaining (ch. 2)
-3. Righteousness depends on faith, they walk as enemies of the Cross (ch. 3)
-4. Anxious about nothing, present your request, peace of God, gives me strength (ch. 4)
-- 4:13 - I can do all things through him who strengthens me.
+1. To live is Christ to die is gain, Conduct yourself worthy 
+2. Think of others, Christ the servant, without arguing and complaining
+3. Righteousness depends on faith, they walk as enemies of the Cross 
+4. Anxious about nothing, present your request, peace of God, gives me strength 
+
+#### Verses
+- `4:13` - I can do all things through him who strengthens me.
 
 #### Verses
 New:
@@ -188,52 +192,80 @@ New:
 
 
 ### Colossians (4)
-1. Who Christ is, but now we are holy and blameless (ch. 1)
-2. Not taken captive by deceptive philosophy, made alive in Christ (ch. 2)
-3. Put away old self, put on a new self (ch. 3)
-4. Wisdom toward outsiders, speech always be gracious (ch. 4)
+1. Who Christ is, but now we are holy and blameless 
+2. Not taken captive by deceptive philosophy, made alive in Christ 
+3. Put away old self, put on a new self 
+4. Wisdom toward outsiders, speech always be gracious 
 
 ### 1 Thessalonians (5)
-1. They are examples to other believers (ch. 1)
-2. Paul’s ministry to the Thessalonians (ch. 2)
-3. Encouraging Report (ch. 3)
-4. Holiness, live properly before others, dead in Christ shall rise (ch. 4)
-5. Encourage others, Be patient, Do good, Rejoice, Pray, Give Thanks (ch. 5)
-  - 5:17 - pray without ceasing
+1. They are examples to other believers 
+2. Paul’s ministry to the Thessalonians 
+3. Encouraging Report 
+4. Holiness, live properly before others, dead in Christ shall rise 
+5. Encourage others, Be patient, Do good, Rejoice, Pray, Give Thanks 
+
+#### Verses
+New:
+  - `5:17` - pray without ceasing
 
 ### 2 Thessalonians (3)
-1. Eternal destruction (ch. 1)
-3. Antichrist (ch. 2)
-3. Work (ch. 3)
+1. Eternal destruction 
+3. Antichrist 
+3. Work 
 
 ## Paul's Letters to People (4)
-### 1 Timothy (6)
-- False doctrine, Law for the disobedient, Came to save sinners (ch 1)
-- God wants all men to be saved, Only one mediator: Jesus Christ, Women roles and behavior (ch 2)
-- Requirements for Elders and Deacons (ch 3)
-- Some will be deceived, godless myths, train yourself to be godly (ch 4)
-- Provide for your family, Honor Elders (ch 5)
-- Warning about bad teachers, Pursue righteousness, Rich ready to share (ch 6)
 
-### 2 Timothy (4)
-- Spirit not of fear; saved for a Holy Life (ch. 1)
-- Avoid foolish discussion, able to teach, not quarrelsome, always be kind (ch. 2)
-- Godlessness last days, Godly life will be persecuted, Scripture God-breathed (ch. 3)
-- Bad doctrine (ch. 4)
+### [1 Timothy (6)](Paul%20to%20People/1%20timothy)
 
-### Titus (3)
-- Elder qualification, many empty talkers, deny him by their works (ch 1) 
-- How to Live, sound faith, integrity (ch 2)
-- Speak evil of no one, Show perfect courtesy, He saved us, Warn a divisive person (ch 3)
+- A personal letter to Timothy by Paul
+- Instructions concerning the care of the church 
+- Written to Timothy concerning the church at Ephesus, during a 4th missionary trip
+- Timothy traveled with Paul of some of his missions
+- Was with Paul during his 1st imprisonment 
+- Paul had high regard for Timothy ... name him co-sender of six of his letters 
+- Timothy was not an apostle
+- A problem at the Ephesus church was (1) Gnosticism (ancient pseudo-religion) (2) Judaism and (3) Asceticism (spiritual goals such as abstinence from worldly pleasures)
+- Theme: 
+  1. God the Savior 
+  2. Doctrine 
+  3. Godliness 
+  4. Controversies 
+  5. Trustworthy sayings 
+
+#### Verses
+New:
+- `6:7-8` - brought into the world with nothing, will leave with nothing. 6:8 - If we have food and clothing be content
+- `6:11` But as for you, man of God, flee these things. Pursue righteousness, godliness, faith, love, steadfastness, gentleness. 
+
+
+### [2 Timothy (4)](Paul%20to%20People/2%20timothy)
+
+- Pastoral letter
+- Paul wrote this letter, his last letter shortly before his death
+- After 4th missionary trip, in prison (Acts 28), in a cold dungeon
+- Knew his work and life were basically done
+
+
+### [Titus (3)](Paul%20to%20People/titus)
+- Paul wrote this letter
+- Pastoral letter 
+- Written to Titus, helper in Paul’s ministry, a Gentile
+- Titus was given lots of assignments during the founding of the Church
+- Crete was an island that Paul introduced Christianity to, along with Titus
+- Titus stayed behind to continue working at Crete
+- Crete people were known for their dishonesty, gluttony, and laziness
+
 
 #### Verses
 - `Titus 3:5` he saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit
 - `Titus 3:7` so that, having been justified by his grace, we might become heirs having the hope of eternal life.
 
-### Philemon (1)
-- Paul asks Philemon to accept Onesimus (O.nes.a.mus) like a brother, who is a runaway slave
-
-Note - Prison letters were Ephesians, Philippians, Colossians, and Philemon
+### [Philemon](Paul%20to%20People/philemon)
+- A letter was written by Paul to Philemon (only individual letter written by Paul in NT)
+- Philemon is a believer and a slave owner
+- One of his slaves, Onesimus (O.nes.a.mus), stole from him and ran away.
+- This is punishable by death
+- Paul meets Onesimus, who becomes a Christian
 
 ## General Letters (8)
 ### Hebrews (13)
