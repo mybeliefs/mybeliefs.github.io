@@ -268,36 +268,37 @@ New:
 - Paul meets Onesimus, who becomes a Christian
 
 ## General Letters (8)
-### Hebrews (13)
-1. The Son is God
-2. The message of Salvation, Faithful High Priest
-3. Jesus greater than Moses, Do not harden your heart
-4. God’s rest, God’s word is living and active
-5. Jesus our High Priest
-6. Move beyond basics, continue supporting other believers
-7. Perfect Priest
-8. New covenant
-9. Christ replaces the Tabernacle
-10. Christ’s Sacrifice Once for All
-11. Can’t please God without Faith
-12. Reverence towards God, Live in peace with all men, Be holy
-13. Show love to others, Avoid strange teachings, Share with others 
+
+### [Hebrews (13)](General%20Letters/hebrews#overview)
+
+- Author unknown - maybe Barnabas or Apollos
+- The author was a Jewish Christian, well versed in the OT (Greek translation)
+- Written before 70 AD - no mention of the destruction of the temple
+- `Theme`: Jesus Christ is greater than any angel, priest, or old covenant practice (sacrificial system) or old testament hero (Moses). 
+- Teaches Christians to endure and not abandon their faith
+- The audience was facing persecution 
+- Also addressing Jewish converts being tempted to Judaize the gospel
+- Christ is superior to the old covenant 
+- 8 expositions (background) of passages in the OT:  
+
 
 #### Verses
 
 - `Hebrews 12:28-29` Therefore let us be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to God acceptable worship, with reverence and awe, 29 for our God is a consuming fire. (ESV)
 
 New:
-- `Hebrew 11:6` And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him.
+- `Hebrew 11:6` And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him. (ESV)
 
 
-### James (5)
-- Quick to listen, lack wisdom ask, be doers of the word
-- Do not show favoritism, faith apart from works is dead
-- Controlling the Tongue, Wisdom from above
-- Come near to God, Do not speak evil of other believers, All boasting is evil
--Let your yes be yes, Trouble pray, Happy sing
-
+### [James (5)](General%20Letters/james)
+- Mostly likely the oldest brother of Jesus (not the apostle); Jesus had many brothers
+- Did not believe in Jesus at first
+- James was an important leader of the early Church
+- Still mostly Jews as believers
+- Might be the earliest(40-50 A.D.) of all the NT writing (except for Galatians)
+- Jewish in nature
+- Similar to OT wisdom writings such as Proverbs
+  
 #### Verses
 
 - `James 1:19-20` Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger; 20 for the anger of man does not produce the righteousness of God. (ESV)
@@ -307,24 +308,28 @@ New:
 - `James 1:26-27` If anyone considers himself religious and yet does not keep a tight rein on his tongue, he deceives himself and his religion is worthless. 27 Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself from being polluted by the world
 
 
-### 1 Peter (5)
-- Hope, Be Holy, Love
-- Live holy, Respect others, Suffering, He bore our sins
-- Respect wife, Always ready to share hope with gentleness
-- Be self-controlled, Love each other, Use gifts to serve
-- Humble, Cast our anxiety on Him
+### [1 Peter (5)](General%20Letters/1%20peter)
+- Peter the author; might have used Silas to record the letter (i.e. better grammar)
+- Writing to those dispersed throughout modern-day Turkey
+- Series of exhortations
 
-### 2 Peter (3)
-- Supplement your faith with Holiness
-- False Teachers, God will judge
-- Coming again, Patient not wanting anyone to perish
+### [2 Peter (3)](General%20Letters/2%20peter)
+- Peter the author
+- Written near the end of his life
+- Some similarities with Jude (maybe Jude borrow some of the content, or used the same source)
+- 1st letter dealt with opposition from the outside. This 2nd letter focuses on opposition from within -- false teachers 
 
-### 1 John (5)
-- Do not walk in the dark, Jesus purifies us from sin, confess he forgives
-- Must walk as Jesus did, Do not love the world
-- We do not keep on sinning, love is an action
-- Love one another, perfect love drives out fear
-- Have the Son have eternal life, Ask according to his will, Born of God does not keep sinning
+
+### [1 John (5)](General%20Letters/1%20john)
+
+- John (son of Zebedee); also wrote 2 & 3 John, the gospel of John, and Revelations 
+- Was an apostle; previously was a fisherman
+- The letter is directed toward believers
+- Addressing the early form of Gnostic teaching
+    - Spirit is good; matter is entirely evil (i.e. the body)
+    - Salvation is to escape the body, through special knowledge
+    - Christ was not really a man 
+    - Lead to throwing off all moral restraints
 
 #### Verses
 
@@ -335,15 +340,25 @@ New:
 New:
 - `1 John 2:15-17` Don’t love the world’s ways. Don’t love the world’s goods. Love of the world squeezes out love for the Father. Practically everything that goes on in the world—wanting your own way, wanting everything for yourself, wanting to appear important—has nothing to do with the Father. It just isolates you from him. The world and all its wanting, wanting, wanting is on the way out—but whoever does what God wants is set for eternity. (The Message)
 
+### [2 John (1)](General%20Letters/2%20john)
 
-### 2 John (1)
+- John the author 
 - Do not abide in the teachings of Christ do not have God
 
-### 3 John (1)
-- Diotrephes (Die.ot.tra.phe) against them, Imitate what is good
+### [3 John (1)](General%20Letters/3%20john)
 
-### Jude (1)
-- Beware of corrupt teachers
+- John the author 
+- Teachers sent out by John were rejected by a dictatorial leader named Diotrephes (Die.ot.tra.phe)
+- The letter is written to encourage Gaius a supporter of John
+
+### [Jude (1)](General%20Letters/jude)
+
+- The author half brother of Jesus (had 4 brothers)
+- Neither James nor Jude ever describes themselves as a brother to Jesus, others do
+- Written to believers very familiar with the Old Testament scriptures and “other” literature
+- References other material outside the bible (i.e. the book of Moses)
+- Uses OT and other Jewish literature to demonstrate how rebellious people/leaders receive divine judgment
+  
 
 ## Prophecy (1)
 ### Relations (22)

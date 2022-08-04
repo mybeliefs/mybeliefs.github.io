@@ -6,7 +6,7 @@ title: Titus
 # Titus
 
 - https://www.esv.org/titus/
-- https://www.biblegateway.com/passage/?search=titus+1&version=ESV
+- https://www.biblegateway.com/passage/?search=titus&version=ESV
 - [Introduction to Titus](https://www.esv.org/resources/esv-global-study-bible/introduction-to-titus/)
 
 ## Overview
