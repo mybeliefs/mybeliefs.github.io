@@ -7,10 +7,11 @@ title: 2nd Thessalonians
 
 - https://www.esv.org/2thessalonians/
 - https://www.biblegateway.com/passage/?search=2thessalonians+1&version=ESV
+- [Introduction to 2nd Thessalonians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-2-thessalonians/)
+
 
 ## Overview
 
-- [Introduction to 2nd Thessalonians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-2-thessalonians/)
 - Paul wrote this letter after 1 Thessalonians (~ 6 months). The church had come to believe the “2nd coming had already occurred”.
 - Gave clarification to the 2nd coming
 - Some had even stopped working because of thinking 2nd coming occurred 

@@ -7,10 +7,10 @@ title: Colossians
 
 - https://www.esv.org/colossians/
 - https://www.biblegateway.com/passage/?search=colossians+1&version=ESV
+- [Introduction to Colossians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-colossians/)
 
 ## Overview
 
-- [Introduction to Colossians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-colossians/)
 - Paul wrote this letter during 1st imprisonment in Rome (all prison letters were written then). Prison letters (4): Ephesians, Philippians, Colossians, and Philemon 
 - A mixture of an extreme form of Judaism and early Gnosticism (ancient religions that taught to shun the physical world, ruled by a lesser divinity)
 - Thus Christ is completely adequate

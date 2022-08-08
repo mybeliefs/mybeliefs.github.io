@@ -7,18 +7,15 @@ title: Galatians
 
 - https://www.esv.org/galatians/
 - https://www.biblegateway.com/passage/?search=galatians+1&version=ESV
-  
+- [Introduction to Galatians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-galatians/)  
 
 ## Overview
 
-- [Introduction to Galatians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-galatians/)
 - Paul wrote this letter around 50AD (15-20 years after the death of Christ)
 - Certain Jewish Christians believed in many OT practices (i.e. circumcision). A group of teachers were insisting that Gentile Christians practice traditional ceremonial customs of the law of Moses, just as they did (dietary, circumcision, etc.) 
 - Questioned Paul’s authority .. he was softening the message for Gentiles. 
 - It is by <ins>grace through faith alone</ins> that we are justified (not the bondage of legalism)
 - The basic message of this book (and Romans) brought about the **Protestant Reformation**
-
-
 
 ### Bible Project
 TBD

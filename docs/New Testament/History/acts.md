@@ -5,14 +5,12 @@ title: Acts
 
 # Acts
 
-
 - https://www.esv.org/acts/
 - https://www.biblegateway.com/passage/?search=Acts+1&version=ESV
-
+- [Introduction to Acts](https://www.esv.org/resources/esv-global-study-bible/introduction-to-acts/)
 
 ## Overview
 
-- [Introduction to Acts](https://www.esv.org/resources/esv-global-study-bible/introduction-to-acts/)
 - The author is Luke (who was a doctor) 
 - Written for Theophilus (as Luke). Probably a person of importance also might be a publisher
 - A bridge between the Gospels and the apostle's letters

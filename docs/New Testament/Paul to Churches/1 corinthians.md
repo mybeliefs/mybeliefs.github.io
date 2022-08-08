@@ -7,10 +7,10 @@ title: 1st Corinthians
 
 - https://www.esv.org/1corinthians/
 - https://www.biblegateway.com/passage/?search=1corinthians+1&version=ESV
-  
-## Overview
-
 - [Introduction to 1st Corinthians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-corinthians/)
+
+
+## Overview
 - Paul wrote this letter - A.D 53, 54, or 55
 - Corinth was a thriving city ... well situated for land and sea trade
 - Corinth was influenced by Greek culture ... <ins>wisdom</ins> importance, etc.

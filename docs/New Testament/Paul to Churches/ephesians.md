@@ -7,11 +7,10 @@ title: Ephesians
 
 - https://www.esv.org/ephesians/
 - https://www.biblegateway.com/passage/?search=ephesians+1&version=ESV
-  
+- [Introduction to Ephesians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-ephesians/)
 
 ## Overview
 
-- [Introduction to Ephesians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-ephesians/)
 - Paul wrote this letter
 - Wrote while in prison, around the same time as Colossians and Philippians 
 - Ephesus was a very important city (like Rome). Paul made it a focus for about 3 years. 

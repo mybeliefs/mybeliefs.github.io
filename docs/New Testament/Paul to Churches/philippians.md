@@ -7,11 +7,10 @@ title: Philippians
 
 - https://www.esv.org/philippians/
 - https://www.biblegateway.com/passage/?search=phillippians+1&version=ESV
- 
+- [Introduction to Philippians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-philippians/)
 
 ## Overview
 
-- [Introduction to Philippians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-philippians/)
 - Paul wrote this letter from prison, probably in Rome in a rented house 
 - Philippi was a Roman colony ... where citizens of Rome
 - Lots of focus on **joy** .. occurs 16 times 

@@ -6,11 +6,10 @@ sidebar_position: 2
 
 - https://www.esv.org/mark+1/
 - https://www.biblegateway.com/passage/?search=Mark+1&version=ESV
-
+- [Introduction to Mark](https://www.esv.org/resources/esv-global-study-bible/introduction-to-mark/)
 
 ## Overview
 
-- [Introduction to Mark](https://www.esv.org/resources/esv-global-study-bible/introduction-to-mark/)
 - Captures the preaching of Peter
 - Written by John Mark, close associate (attendant) of Peter
 - The intended audience was largely unfamiliar with Jewish customs. Explains customs so the audience can understand that Jesus is part of God’s completion of work for Israel and the entire world.

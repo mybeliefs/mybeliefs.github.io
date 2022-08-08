@@ -8,11 +8,10 @@ title: 2nd Corinthians
 
 - https://www.esv.org/2corinthians/
 - https://www.biblegateway.com/passage/?search=2corinthians+1&version=ESV
-  
+- [Introduction to 2nd Corinthians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-2-corinthians/)
 
 ## Overview
 
-- [Introduction to 2nd Corinthians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-2-corinthians/)
 - Heard that his first letter had not completely accomplished its purpose. A group of men had come to Corinth and presented themselves as apostles. They were challenging Paul’s personal integrity/authority. 
 - Paul wrote this letter; about a year after 1 Cor. Another letter was written .. “severe” to address the situation. 2nd Cor. was written after this. Note, there was most likely a letter even before 1 Cor. - a total of 4 letters. 
 - Most likely a “severe” letter did have some good results. Though there is a harsh tone also in chapters 10-13.

@@ -7,54 +7,44 @@ There are **27 books** of the New Testament.
 
 ## Gospels (4)
 
-### Matthew (28)
-#### Overview
+### [Matthew (28)](Gospels/matthew)
+
+- The author is most likely Matthew, one of the 12 disciples. 
+  - Was a tax collector.
+  - Other gospels use his other name - Levi
+- Contains ~90% of Mark’s gospel account
+- Written in Greek, had a Jewish focus 
 - Written in the late 50s or early 60s A.D.
-- Contains 90% of Mark
-- Most Jewish of the gospels
-- Most quotations from the OT (47)
-- Purpose to prove Jesus was the <u>Messiah</u>
-  
-#### Outline
-- 2 years and under boys were killed, baptized, tempted, calls the disciples (1-4)
-- Sermon on the mount (5-7)
-- Healings, forgives sins, eats with tax collectors, parables, feeds 5k, feeds 4k (8-15)
-- Transfiguration, triumphal entry, clears the temple, parables (16-22)
-- Hypocrites, parables, Lord’s supper, Peter’s denial, crucified, resurrection, great commission (23-28)
+- The purpose was to **prove Jesus was the Messiah**
+  - More quotations (47) from and allusions to the OT than any other NT book
 
 #### Verses
 
 - `Matt 11:28-30` *“Come to me, all you who are weary and burdened, and I will give you rest. 29 Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. 30 For my yoke is easy and my burden is light.”* (NIV)
 
+### [Mark (16)](Gospels/mark)
 
-### Mark (16)
-#### Overview
-- Date ~50s or 60s A.D.
-- Worked with Peter
-- Audience unfamiliar with Jewish customer
-- Focused on what Jesus <u>did</u> versus what he said (listed the most <u>miracles</u>)
+- Captures the preaching of Peter
+- Written by John Mark, close associate (attendant) of Peter
+- The intended audience was largely unfamiliar with Jewish customs. Explains customs so the audience can understand that Jesus is part of God’s completion of work for Israel and the entire world.
+- The events captured take mostly in Palestine
+- This book is used as a source for Matthew and Luke
+- Focuses more on what Jesus did than what he said
+- Date ~ 50s or 60s A.D., likely written in Rome, before the destruction of Jerusalem in A.D. 70
 
-#### Outline
-- Baptized, tempted, calls the disciples, healings, forgives sins, miracles, crowds, accused of being possessed, teaches - with authority (1-5)
-- Hometown rejects him, feeds 5k, feeds 4k, must deny yourself, transfiguration (6-9)
-- Become a servant, triumphal entry, clears the temple, destruction of the temple (10-13)
-- Lord’s supper, Peter denial, crucified, resurrection (14-16)
+### [Luke (24)](Gospels/luke)
 
-
-### Luke (24)
-#### Overview
-- Written ~ 62 A.D.
-- Luke was a physician, educated in Greek culture
-- Narrative aligned to dates in world history
-- The purpose was to explain the “truths” to Theophilus
-
-#### Outline
-- John & Christ’s birth, baptism, John locked up (1-3)
-- Tempted, healings, forgives sins, calls the disciples, feeds 5k, transfiguration (4-9)
-- Sends out 72, how to pray, criticizes Pharisees, don’t worry, bear your cross (10-14)
-- Parables, can’t serve both God and money, faith, pray, hard for rich (15-19)
-- Triumphal entry, clears temple, render to Caesar, destruction of the temple (20-21)
-- Lord’s supper, arrested, Peter denies, the curtain was torn, the empty tomb, the road to Emmaus, goes to heaven (22-24)
+- Author: Luke
+  - was a Gentile by birth
+  - educated in Greek culture, a physician by profession (Col 4:14)
+  - companion of Paul on some missionary trips
+- Date: ~ AD 62
+- Written to explain the truths to Theophilus
+  - the authenticity of the claims of Christianity.
+  - Fulfills Old Testament prophecies relating to the covenant between God and Israel
+- The broader audience are the Gentile Christians
+- Only Gospel writer who relates his narrative to dates in world history
+- Theme (i) Jesus’ Messiahship and (ii) Gentile Christian place in the kingdom is based on Jesus’ teaching
 
 #### Verses
 - `Luke 6:31` *“Do to others as you would have them do to you.”* (NIV)
@@ -66,34 +56,27 @@ New:
 - `Luke 12:25` *“Who of you by worrying can add a single hour to his life?”* (NIV)
 - `Luke 14:11`  *“For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.”* (ESV)
 
-### John (21)
-#### Overview
-- Written between 70 A.D. and 100 A.D.
-- No parables
-- Emphasized on the deity of Jesus
-- Focused on the last 21 days of Christ’s life
-- Purpose Jesus was the Messiah, God in the flesh
+### [John (21)](Gospels/john)
 
-#### Outline
-- Prologue (1)
-  - Without Him, nothing was made
-- Book of Signs (2-12)
-    - Changing Water into Wine (2)
-    - Heals the son of an official (4)
-    - Heals disabled man at the Pool of Bethesda (5) (Ba.thez.da)
-    - Feeds 5k (6)
-    - Walks on the water (6)
-    - Heals man born blind (9)
-    - Raising of Lazarus (11)
-- Book of Glory (13-20)
-    - The Last Supper (13)
-    - Farewell Discourse (14-16)
-    - Prays for disciples and us (17)
-    - Arrested and Trial (18-19:16)
-    - Crucifixion (19)
-    - Resurrection (20)
-- Epilogue (21)
-    - Appearances, Restores Peter (21)
+- The author is the apostle John
+- Written between 70 A.D. and 100 A.D.
+- 21 Chapters; 4 Parts
+  - **Prologue** (1:1-18)
+  - The **Book of Signs** (1:19-12)
+    - Water into wine (ch.1)
+    - Healing a royal official’s son (ch. 4)
+    - Healing a disabled man (ch. 5)
+    - Feeding 5,000 (ch. 6)
+    - Walking on water (ch. 6)
+    - Healing a man born blind (ch. 9)
+    - Raising Lazarus from the dead (ch. 11)
+  - The **Book of Glory** (13-20) - Passion Narrative 
+  - **Epilogue** (21) 
+- Different than the other 3 (Synoptics) whose focus was on the “Kingdom of God”
+- There are <ins>no parables</ins>, focus on the deity of Jesus
+- Focus is on believing that Jesus is the Christ
+- Focused on the last 21 days of Christ’s life 
+
 
 #### Verses
 New:
@@ -104,21 +87,28 @@ New:
 
 ## History (1)
 
-### Acts (28)
-#### Overview
-- Covers the first 30 years of the church. 
-- Author: Luke (the doctor)
+### [Acts (28)](History/acts)
 
-#### Outline
-TBD
+- The author is Luke (who was a doctor) 
+- Written for Theophilus (as Luke). Probably a person of importance also might be a publisher
+- A bridge between the Gospels and the apostle's letters
+- Supplies an account of the life of Paul
+- Accounts for the first 30 years of the church - historical account of Christian origins
+- Covers activity from Jerusalem to Rome
+- 28 chapters
 
 ## Paul's Letters to Churches (9)
 
 Note - Prison letters were Ephesians, Philippians, Colossians, and Philemon
 
-### Romans (16)
-- The system of salvation for all mankind. 
-- Justification by faith. 
+### [Romans (16)](Paul%20to%20Churches/romans)
+
+- Paul wrote this letter ~ A.D. 57
+- Most likely on his 3rd missionary trip while at Corinth
+- Written to the people at a church in Rome .. mostly Gentiles but there were lots of Jews
+- Was not personally connected (had not met them) to the church, thus the content was not specific to their problems 
+- Had not visited the church .. was providing a theological overview
+- Reads like a theological essay versus a letter to a church
 
 #### Verses
 - `Romans 3:22-24` This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile, 23 for all have sinned and fall short of the glory of God, 24 and all are justified freely by his grace through the redemption that came by Christ Jesus. (NIV)
@@ -126,29 +116,29 @@ Note - Prison letters were Ephesians, Philippians, Colossians, and Philemon
 - `Romans 6:23` For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord. (NIV)
 - `Romans 8:28-29`  And we know that for those who love God all things work together for good, for those who are called according to his purpose. 29 For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. (ESV)
 
-### 1 Corinthians (16)
-- Without the Holy Spirit, these truths are viewed as foolishness (ch. 1)
-- Struggling church: immature (ch. 3), immorality (ch. 5), etc. 
-- Freedom and responsibility (ch. 8)
-- Unity, gifts for the church (ch. 12)
-- Love (ch. 13)
-- Resurrection (ch. 15)
+### [1 Corinthians (16)](20Churches/1%20corinthians)
 
-### 2 Corinthians (13)
-- The Gospel saves us .. being transformed (ch. 3 )
-- Everything we go through is but a momentary problem (ch. 4) 
-- We are new, able to approach God (ch. 5)
-- Don’t partner with a non-believer (ch. 6)
-- Be generous (ch. 7,8)
-- Made strong in weakness (ch. 12)
+- Paul wrote this letter - A.D 53, 54, or 55
+- Corinth was a thriving city ... well situated for land and sea trade
+- Corinth was influenced by Greek culture ... <ins>wisdom</ins> importance, etc.
+- Corinth was the center for <ins>open immorality</ins>. Temple prostitution (dedicated to Aphrodite the God of love)
+- Focus on instructing the church in areas of weakness, correct false teaching on the resurrection, and address questions.
 
-### Galatians (6)
-1. Warning about turning to a false gospel 
-2. It is by grace through faith alone that we are justified 
-3. The righteous shall live by faith 
-4. No longer a slave to the law, but God’s children, heirs 
-5. Can’t be justified by the law. Do not use your freedom to sin. Fruits of the Spirit 
-6. Do not grow weary of doing good 
+
+### [2 Corinthians (13)](Paul%20to%20Churches/2%20corinthians)
+
+- Heard that his first letter had not completely accomplished its purpose. A group of men had come to Corinth and presented themselves as apostles. They were challenging Paul’s personal integrity/authority. 
+- Paul wrote this letter; about a year after 1 Cor. Another letter was written .. “severe” to address the situation. 2nd Cor. was written after this. Note, there was most likely a letter even before 1 Cor. - a total of 4 letters. 
+- Most likely a “severe” letter did have some good results. Though there is a harsh tone also in chapters 10-13.
+- The most emotional/personal of all of Paul’s letters
+
+### [Galatians (6)](Paul%20to%20Churches/galatians)
+
+- Paul wrote this letter around 50AD (15-20 years after the death of Christ)
+- Certain Jewish Christians believed in many OT practices (i.e. circumcision). A group of teachers were insisting that Gentile Christians practice traditional ceremonial customs of the law of Moses, just as they did (dietary, circumcision, etc.) 
+- Questioned Paul’s authority .. he was softening the message for Gentiles. 
+- It is by <ins>grace through faith alone</ins> that we are justified (not the bondage of legalism)
+- The basic message of this book (and Romans) brought about the **Protestant Reformation**
 
 #### Verses
 `Fruits of the Spirit` - Galatians 5:22-23 
@@ -162,13 +152,11 @@ Note - Prison letters were Ephesians, Philippians, Colossians, and Philemon
 8. Gentleness
 9. Self-control
 
-### Ephesians (6)
-1. Chose us before the creation 
-2. By grace we have been saved 
-3. Gentiles are also heirs, access with confidence, love of Christ 
-4. Unity, righteous living, new self 
-5. Pure living, Giving thanks, Loving your wife 
-6. Children and Parents, Armor of God 
+### [Ephesians (6)](Paul%20to%20Churches/ephesians)
+
+- Paul wrote this letter
+- Wrote while in prison, around the same time as Colossians and Philippians 
+- Ephesus was a very important city (like Rome). Paul made it a focus for about 3 years. 
 
 #### Verses
 - `4:26-27` - *In your anger do not sin. Do not let the sun go down while you are still angry, 27 and do not give the devil a foothold.* (NIV)
@@ -176,11 +164,13 @@ Note - Prison letters were Ephesians, Philippians, Colossians, and Philemon
 - `5:3-4` -*But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God’s holy people. 4 Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving.* (NIV)
 - `5:13` - *But when anything is exposed by the light, it becomes visible,*
 
-### Philippians (4)
-1. To live is Christ to die is gain, Conduct yourself worthy 
-2. Think of others, Christ the servant, without arguing and complaining
-3. Righteousness depends on faith, they walk as enemies of the Cross 
-4. Anxious about nothing, present your request, peace of God, gives me strength 
+### [Philippians (4)](Paul%20to%20Churches/philippians)
+
+- Paul wrote this letter from prison, probably in Rome in a rented house 
+- Philippi was a Roman colony ... where citizens of Rome
+- Lots of focus on **joy** .. occurs 16 times 
+- Addressed also to overseers and deacons
+- No OT verses are quoted
 
 #### Verses
 - `4:13` - I can do all things through him who strengthens me.
@@ -191,27 +181,31 @@ New:
 - `Philippians 4:6-7` Do not be anxious about anything, but in everything, by prayer and petition, with thanksgiving, present your request to God. 7 And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.
 
 
-### Colossians (4)
-1. Who Christ is, but now we are holy and blameless 
-2. Not taken captive by deceptive philosophy, made alive in Christ 
-3. Put away old self, put on a new self 
-4. Wisdom toward outsiders, speech always be gracious 
+### [Colossians (4)](Paul%20to%20Churches/colossians)
 
-### 1 Thessalonians (5)
-1. They are examples to other believers 
-2. Paul’s ministry to the Thessalonians 
-3. Encouraging Report 
-4. Holiness, live properly before others, dead in Christ shall rise 
-5. Encourage others, Be patient, Do good, Rejoice, Pray, Give Thanks 
+- Paul wrote this letter during 1st imprisonment in Rome (all prison letters were written then). Prison letters (4): Ephesians, Philippians, Colossians, and Philemon 
+- A mixture of an extreme form of Judaism and early Gnosticism (ancient religions that taught to shun the physical world, ruled by a lesser divinity)
+- Thus Christ is completely adequate
+
+### [1 Thessalonians (5)](Paul%20to%20Churches/1%20thessalonians)
+
+- Paul wrote this letter
+- One of Paul’s earliest letters
+- The church was largely Gentile in membership
+- Encouraging the Church, some members had died 
+- Lots of eschatology (end times) content
+
 
 #### Verses
 New:
   - `5:17` - pray without ceasing
 
-### 2 Thessalonians (3)
-1. Eternal destruction 
-3. Antichrist 
-3. Work 
+### [2 Thessalonians (3)](Paul%20to%20Churches/2%20thessalonians)
+
+- Paul wrote this letter after 1 Thessalonians (~ 6 months). The church had come to believe the “2nd coming had already occurred”.
+- Gave clarification to the 2nd coming
+- Some had even stopped working because of thinking 2nd coming occurred 
+
 
 ## Paul's Letters to People (4)
 
@@ -359,9 +353,12 @@ New:
 - References other material outside the bible (i.e. the book of Moses)
 - Uses OT and other Jewish literature to demonstrate how rebellious people/leaders receive divine judgment
   
-
 ## Prophecy (1)
-### Relations (22)
-- Tell readers the final showdown between God and Satan
-- Author: John (Apostle)
+### [Relations (22)](Prophecy/revelation#overview)
+
+- John the Apostle
+- Written when Christians were entering a time of persecution
+- John has been exiled to an Island
+- Some within the church are advocating a policy of compromise
+
 

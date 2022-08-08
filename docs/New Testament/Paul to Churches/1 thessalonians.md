@@ -7,10 +7,11 @@ title: 1st Thessalonians
 
 - https://www.esv.org/1thessalonians/
 - https://www.biblegateway.com/passage/?search=1thessalonians+1&version=ESV
+- [Introduction to 1st Thessalonians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-thessalonians/)
+
 
 ## Overview
 
-- [Introduction to 1st Thessalonians](https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-thessalonians/)
 - Paul wrote this letter
 - One of Paul’s earliest letters
 - The church was largely Gentile in membership
