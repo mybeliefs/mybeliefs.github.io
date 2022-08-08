@@ -116,7 +116,7 @@ Note - Prison letters were Ephesians, Philippians, Colossians, and Philemon
 - `Romans 6:23` For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord. (NIV)
 - `Romans 8:28-29`  And we know that for those who love God all things work together for good, for those who are called according to his purpose. 29 For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. (ESV)
 
-### [1 Corinthians (16)](20Churches/1%20corinthians)
+### [1 Corinthians (16)](Paul%20to%20Churches/1%20corinthians)
 
 - Paul wrote this letter - A.D 53, 54, or 55
 - Corinth was a thriving city ... well situated for land and sea trade
