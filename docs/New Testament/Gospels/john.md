@@ -6,10 +6,11 @@ sidebar_position: 4
 
 - https://www.esv.org/john+1/
 - https://www.biblegateway.com/passage/?search=John+1&version=ESV
+- [Introduction to John](https://www.esv.org/resources/esv-global-study-bible/introduction-to-john/)
+
 
 ## Overview
 
-- [Introduction to John](https://www.esv.org/resources/esv-global-study-bible/introduction-to-john/)
 - The author is the apostle John
 - Written between 70 A.D. and 100 A.D.
 - 21 Chapters; 4 Parts

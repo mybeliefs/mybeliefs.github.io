@@ -6,10 +6,11 @@ sidebar_position: 1
 
 - https://www.esv.org/matthew+1/
 - https://www.biblegateway.com/passage/?search=Matthew+1&version=ESV
+- [Introduction to Matthew](https://www.esv.org/resources/esv-global-study-bible/introduction-to-matthew/)
+
 
 ## Overview
 
-- [Introduction to Matthew](https://www.esv.org/resources/esv-global-study-bible/introduction-to-matthew/)
 - The author is most likely Matthew, one of the 12 disciples. 
   - Was a tax collector.
   - Other gospels use his other name - Levi

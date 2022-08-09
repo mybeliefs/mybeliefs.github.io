@@ -6,10 +6,10 @@ sidebar_position: 3
 
 - https://www.esv.org/luke+1/
 - https://www.biblegateway.com/passage/?search=Luke+1&version=ESV
+- [Introduction to Luke](https://www.esv.org/resources/esv-global-study-bible/introduction-to-luke/)
 
 ## Overview
 
-- [Introduction to Luke](https://www.esv.org/resources/esv-global-study-bible/introduction-to-luke/)
 - Author: Luke
   - was a Gentile by birth
   - educated in Greek culture, a physician by profession (Col 4:14)

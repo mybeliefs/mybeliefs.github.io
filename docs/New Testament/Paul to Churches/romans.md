@@ -3,14 +3,14 @@ sidebar_position: 1
 title: Romans
 ---
 
-
 # Romans
 
 - https://www.esv.org/romans/
 - https://www.biblegateway.com/passage/?search=Romans+1&version=ESV
-
+- [Introduction to Romans](https://www.esv.org/resources/esv-global-study-bible/introduction-to-romans/)
 
 ## Overview
+
 - Paul wrote this letter ~ A.D. 57
 - Most likely on his 3rd missionary trip while at Corinth
 - Written to the people at a church in Rome .. mostly Gentiles but there were lots of Jews
