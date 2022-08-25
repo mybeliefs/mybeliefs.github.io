@@ -26,7 +26,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         blog: false, 
         theme: {
-          customCss: require.resolve('./src/css/customTheme2.css'),
+           customCss: require.resolve('./src/css/customTheme2.css'), 
+          //customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],

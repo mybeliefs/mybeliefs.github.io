@@ -1,3 +1,9 @@
 {
-  "position": 3
+  "label": "Old Testament",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Organization",
+    "description": "Notes on the Old Testament books."
+  }
 }

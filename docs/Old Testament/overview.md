@@ -8,23 +8,42 @@ There are **39 books** of the Old Testament. Organized into 4 different types or
 ## Law (5)
 Also called the *Pentateuch*.
 
-### Genesis (50) 
-The author is Moses.
+### [Genesis (50)](Law/genesis)
 
-- Creation story
-- Cain, Abel
-- Noah and the flood, the tower of Babel
-- Abram, Lot
-- Abraham (name change)
-- Isaac
-- Isaac blesses Jacob
-- Jacob, Leah, and Rachel
-- Jacob meets Esau
-- Joseph sold to Egypt
-- Joseph interpreting dreams
-- Joseph and his family
+- Historically both Jews and Christians held that Moses was the author (1st 5 books)
+- Chapters 1-38 reflect *Mesopotamian* in character, 39-50 more *Egyptian* influence
+  - The original home of the patriarchs was Mesopotamia 
+- General timelines:
+    - 950 years between Adam and Noah (Noah was born 20 years after Adam died)
+    - ~400 years between Noah and Abraham
+    - Abraham & Sarah / Hagar => Isaac => Esau & Jacob => Joseph, 12 brothers
+- General themes:
+    - The origin of nations (1-11) - wicked, selects single to bless others
+    - Election of the Jewish Nation (12-50) - through Abraham
+- General events:
+  - Creation story
+  - Cain, Abel
+  - Noah and the flood, the tower of Babel
+  - Abram, Lot
+  - Abraham (name change)
+  - Isaac
+  - Isaac blesses Jacob
+  - Jacob, Leah, and Rachel
+  - Jacob meets Esau
+  - Joseph sold to Egypt
+  - Joseph interpreting dreams
+  - Joseph and his family
 
-### Exodus (40)
+### [Exodus (40)](Law/exodus)
+
+- Story of redemption from bondage 
+- Author is Moses
+- From Jacob to the exodus ~ 430 years
+    - Jacob's family was ~ 75 people
+    - At the exodus ~ 2 million people (600k men)
+- God reveals his name, attributes, and how to be worshipped
+- At the beginning of the priesthood 
+
 
 #### Verses
 
@@ -41,9 +60,41 @@ The author is Moses.
 10. Do not covet 17
 
 
-### Leviticus (40)
-### Numbers (35)
-### Deuteronomy (34)
+### [Leviticus (27)](Law/leviticus)
+
+- Possibly written near the end of the 40 years of wandering, but given before that
+- Focus on the service of worship at the tabernacle (conducted by the priests)
+- Exodus gave directions for building the temple
+- Leviticus gave **laws and regulations*** for worship 
+    - ceremonial cleanness
+    - moral laws
+    - holy days
+    - sabbath year
+    - Year of Jubilee
+- Instructions are given for the most part at Mount Sinai
+- The theme is about holiness - symbolized by physical perfection
+- A representation of God’s kingdom (theocracy) dealing with everything in Israel’s life
+- Principles of Levitical Legislation
+    - Maintain holiness
+    - Access to God by substitutionary atonement
+    - Worship according to God’s methods
+    - Remain sexually pure
+    - Abstain from commingling the holy and the profane
+    - Religious year to be dominated by 7
+
+### [Numbers (36)](Law/numbers)
+
+- Historical focused (Leviticus stresses purity)
+- Account of the 38-year period of Israel’s wandering in the desert
+- 1st generation who were afraid
+- 2nd generation that will enter the promised land
+- How they did not respond with faith but rather with repeated acts of rebellion
+- Had received the law and built the tabernacle. Now getting ready for a march to the promised land ... until they lose their faith
+
+### [Deuteronomy (34)](Law/deuteronomy)
+
+- Deuteronomy means 2nd law 
+- Focuses on Moses re-stating the law to the next generation
 
 ## History (12)
 Includes:
