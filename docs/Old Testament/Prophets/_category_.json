@@ -1,4 +1,9 @@
 {
   "label": "Prophets",
-  "position": 2
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "title": "Books of the Prophets",
+    "description": "Study Notes"
+  }
 }

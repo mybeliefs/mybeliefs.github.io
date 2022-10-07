@@ -101,20 +101,140 @@ Includes:
 - Theocratic period
 - Monarchical period
 
-### Joshua
-### Judges
-### Ruth
- 
-### 1 Samuel
-### 2 Samuel
-### 1 Kings
-### 2 Kings
-### 1 Chronicles
-### 2 Chronicles
+### [Joshua (24)](History/joshua)
 
-### Ezra
-### Nehemiah
-### Esther
+- Joshua might have written most of the content
+- Finally allowed to enter the promised land ... after being slaves in Egypt (400+ years) and wandering in the desert (40 years).
+- Moses changed his name to Joshua .. meaning “The LORD Saves”. In greek means Jesus. Thus, Jesus came to give his people a final “resting” place.
+- Was one of the 12 spies, along with Caleb, to say lets “go”
+
+### [Judges (21)](History/judges)
+
+- Author unknown, maybe Samuel or his associates 
+- Written during the monarchy
+- Covers the time from the death of Joshua to the start of the kings
+- Judges ruled Israel for ~ 120 years
+- In Canaan Israel quickly forgot the acts of God ... became like the Canaanites 
+    - rejected God’s kingship
+    - stopped fighting the Lord’s batters
+    - turned to the gods of Canaan to secure the blessings of family, flock, etc
+- Recurring cycles of disobedience, oppression, cries for help, and deliverance
+
+### [Ruth (4)](History/ruth)
+
+- Named after a woman (the only other book is Esther)
+- Great grandmother of David
+- During the days of the Judges
+- Ruth is listed in Matthew’s genealogy of Jesus
+- 3 characters: 
+  - `Naomi` - Mother-in-law
+  - `Ruth` - Main character. Stays committed to her mother-in-law
+  - `Boaz` - Noble character. Marries Ruth 
+
+
+### [1 Samuel (31)](History/1%20samuel)
+
+- Captures the history of establishing the monarchy in Israel; history view
+- Saul was similar to Moses ... covenant continuity from Judges to Kings
+- Samuel anointed both Saul and David
+- Originally 1 book in the Hebrew Bible (original collection of Jewish texts)
+- Author unknown; written after Solomon (David’s son)
+- Used other resources (“Book of Jasher”) to compose this book
+
+### [2 Samuel (24)](History/2%20samuel)
+
+- Author unknown; written after Solomon (David’s son)
+- Covers the empire’s expansion under David
+- David was king of Judah for `7 ½ years`, king of all of Israel for `33 years`
+
+### [1 Kings (22)](History/1%20kings)
+
+- History from Solomon to the Babylonian exile. Note that Samuel (1&2) and Kings (1&2) provide a history of the kings from Solomon to the exile. 
+- The author may be Jeremiah, but unknown.
+- Used a variety of sources to compile the book
+- Divided kingdom: Israel (Northern) 10 tribes, and Judah (Southern) centered in Jerusalem 
+  - After Solomon’s death; his son Rehoboam makes bad decisions that divide the kingdom
+  - Jeroboam is an Official rebel and takes over 10 tribes 
+
+### [2 Kings (25)](History/2%20kings)
+
+- Division of the kingdom after **Solomon**: **Jeroboam** (official, Israel, northern tribes) and **Rehoboam**(Judah, southern, son of Solomon)
+- Both sides had `20` kings; 
+  - `Israel` had 9 dynasties 
+  - `Judah` had only 1 line: *the house of David*
+- **Israel**:
+  - All evil kings
+  - Israel's last king was Hoshea. They were taken into captivity by the Assyrians. They left some Israelites and transplanted others captives from foreign lands for intermarriage. Thus, they became the Samaritans (who the Jews ended up hating).
+- **Judah**: 
+  - Note that Judah lasts for an additional 150 years beyond Israel. 
+  - **Good kings (6)**
+    - Joash (became king at 7)
+    - Amaziah
+    - Azariah
+    - Jotham
+    - **Hezekiah** is the godliest. Does lots of reform. But shows off his fortunes to the Babylonians. Holds off the Assyrians who only a few years before had taken Israel into captivity. 
+    - **Josiah** the great-grandson of Hezekiah. Godly reign. Found the Law of Moses. Public reading, vow to follow God. Celebrated Passover. The last of the Godly kings. 
+  - **Manasseh** was very evil. Son of Hezekiah. Idolatry played a big role. Reigned the longest, 55 years. Often persecuted prophets.
+  - **Josiah sons**:
+- 3rd son Jehoahaz becomes king - 3 months reign. Removed by Pharaoh-Neco
+- 2nd son Jehoiakim was then placed on the throne. 11-year reign. Taken captive by Nebuchadnezzar, along with Daniel. But stayed on the throne. Then stopped supporting Babylon. Was harassed in his country by Syrians, etc. 
+- His son Jehoiachin, becomes king until Nebuchadnezzar takes Jerusalem. 
+- Now the 1st son Mattaniah is put on the throne and named changed to Zedekiah. Is a puppet for Nebuchadnezzar.
+- Zedekiah forms an alliance with Egypt which causes Babylon to invade Judah. The temple is burned.  
+- **Prophets**:
+- Elijah was taken up to heaven
+  - Elisha miracles
+  - Fills a poor lady’s vessel
+  - Raise a lady’s dead son
+  - Heals leprosy 
+  - Ax-handle swim in the water
+  - etc 
+
+
+### [1 Chronicles (29)](History/1%20Chronicles)
+
+- The religious history of Judah (the southern kingdom), versus the political history found in Samuel and Kings. Focused on the southern kingdom (Judah). Minimal references to Israel and prophets. 
+- Priestly point of view; focused on Judah (southern tribe)
+- David’s desire and preparation made it possible for Solomon to build the temple
+- Covers roughly the same period as Samuel 1 and 2
+- Written after the Babylonian captivity. Note the northern tribe went to Assyrian captivity, never to return
+- Tradition indicates Ezra wrote Chronicles 
+
+### [2 Chronicles (36)](History/2%20Chronicles)
+
+
+- Written by Ezra the priest
+- It Covers Solomon and the kings of Judah 
+  - Solomon - `39` years (970 BC - 931 BC)
+  - Kings - `~326` years  (931 BD - 605 BC) 
+- Initial chapters cover Solomon’s greatness and the temple.
+- But when his son Rehoboam takes over the kingdom is divided. Solomon’s main official Jeroboam goes to the new king and asked to “lighten the load of the people”. He asks for advice from, the main officials who agreed with Jeroboam, but does not listen to them. Makes it worse. They split and Jeroboam becomes the king of Israel (10 northern tribes). 
+- **Good** kings (did right in the eyes of the Lord)
+  - Asa 
+  - Jehoshaphat
+  - Joash
+  - Amaziah (kind of)
+  - Uzziah
+  - Jonathan
+  - Hezekiah
+  - Josiah
+
+### [Ezra (10)](History/ezra)
+
+- Originally combined with Nehemiah; Ezra author of both & also Chronicles 
+- After the 70 years in Babylon (exile) God brings back his people
+- 1st Group of 50k lead by Zerubbabel; they rebuild the temple
+- The 2nd group of 2k led by Ezra; struggled to rebuild Jerusalem 
+
+### [Nehemiah (13)](History/nehemiah)
+
+- Ezra the author, who was a priest
+- Nehemiah was a layman (cupbearer for a king)
+
+### [Esther (10)](History/esther)
+
+- In the period between the first two returns of the captive Jews as detailed in Ezra and Nehemiah
+
 
 ## Poetry (5)
 ### Job

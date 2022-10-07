@@ -13,7 +13,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/mybeliefs.png',
   organizationName: 'mybeliefs', 
   projectName: 'mybeliefs.github.io', 
- 
+  trailingSlash: false,
   presets: [
     [
       '@docusaurus/preset-classic',

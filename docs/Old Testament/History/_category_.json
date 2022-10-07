@@ -1,4 +1,9 @@
 {
   "label": "History",
-  "position": 3
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Books of History",
+    "description": "Old Testament History books study notes"
+  }
 }
