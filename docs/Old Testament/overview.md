@@ -237,8 +237,13 @@ Includes:
 
 
 ## Poetry (5)
+TBD
+
 ### Job
+TBD
+
 ### Psalms
+TBD
 
 #### Verses
 New:
@@ -246,6 +251,7 @@ New:
 - `Psalm 19:14` Let the words of my mouth and the meditation of my heart be acceptable in your sight, O Lord, my rock and my redeemer. 
 
 ### Proverbs
+TBD
 
 #### Verses
 NIV
@@ -267,11 +273,13 @@ NIV
 New:
 - `Proverbs 2:3-6` and if you call out for insight and cry aloud for understanding, 4 and if you look for it as for silver and search for it as for hidden treasure, 5 then you will understand the fear of the Lord and find the knowledge of God. 6 For the Lord gives wisdom, and from his mouth come knowledge and understanding
 
-
 ### Ecclesiastes
+TBD
 ### Song of Solomon
-
+TBD
 ## Prophets (17)
+TBD
+
 Includes:
 - Major prophets (5)
 - Minor prophets (12)
