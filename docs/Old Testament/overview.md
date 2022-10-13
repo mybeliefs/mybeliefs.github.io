@@ -239,10 +239,10 @@ Includes:
 ## Poetry (5)
 TBD
 
-### Job
+### [Job (42)](Poetry/job)
 TBD
 
-### Psalms
+### [Psalms (150)](Poetry/psalms)
 TBD
 
 #### Verses
@@ -250,7 +250,7 @@ New:
 - `Psalm 19:7-8` The law of the LORD is perfect, reviving the soul; the testimony of the LORD is sure, making wise the simple; 8 the precepts of the LORD are right, rejoicing the heart; the commandment of the LORD is pure, enlightening the eyes; (ESV)
 - `Psalm 19:14` Let the words of my mouth and the meditation of my heart be acceptable in your sight, O Lord, my rock and my redeemer. 
 
-### Proverbs
+### [Proverbs (31)](Poetry/proverbs)
 TBD
 
 #### Verses
@@ -273,9 +273,9 @@ NIV
 New:
 - `Proverbs 2:3-6` and if you call out for insight and cry aloud for understanding, 4 and if you look for it as for silver and search for it as for hidden treasure, 5 then you will understand the fear of the Lord and find the knowledge of God. 6 For the Lord gives wisdom, and from his mouth come knowledge and understanding
 
-### Ecclesiastes
+### [Ecclesiastes (12)](Poetry/ecclesiastes)
 TBD
-### Song of Solomon
+### [Song of Solomon (8)](Poetry/song%20of%20solomon)
 TBD
 ## Prophets (17)
 TBD
@@ -283,11 +283,31 @@ TBD
 Includes:
 - Major prophets (5)
 - Minor prophets (12)
-### Isaiah
-### Jeemiah
-### Lamentations
-### Ezekiel
-### Daniel
+
+### [Isaiah (66)](Prophets/isaiah)
+
+- Name mean “The LORD saves”
+- Was married and had two sons,  prominent family
+- Had access to the Kings and high priest
+- Was a prophet for ~ 60 years; through 5 different kings (only 1 king godly)
+- Wrote during the expansion of the Assyrian empire and decline of Israel ... 700 years before Christ
+- Quoted by NT more than any other book except Psalms
+- Foretold more about Christ than any other book 
+- `Part 1`: Judgement 1-39
+- `Part 2`: Comfort 40-66
+- Almost 50% of the book is prophecy 
+  
+### [Jeremiah (52)](Prophets/jeremiah)
+TBD
+
+### [Lamentations (5)](Prophets/lamentations)
+TBD
+
+### [Ezekiel (48)](Prophets/ezekiel)
+TBD
+
+### [Daniel (12)](Prophets/daniel)
+TBD
 
 ### Hosea (14)
 - Told Israel to <ins>turn</ins> back to God. 
