@@ -309,66 +309,90 @@ TBD
 ### [Daniel (12)](Prophets/daniel)
 TBD
 
-### Hosea (14)
-- Told Israel to <ins>turn</ins> back to God. 
-- Were <ins>prosperous</ins>, relying on their <ins>culture</ins>, and worshiping Baal. 
-- Told to marry an unfaithful wife like Israel. 
-- Before going into exile by the Assyrians (~ 20 years).
-### Joel (3)
-- Warning of coming destruction/ judgment to Judah; locust plague. 
-- Before being captured by Babylon. 
-### Amos (9)
-- Warning to Israel - Destruction coming.
-- Time of prosperity. No social justice. 
-- Before being captured by Assyria. 
-### Obadiah (1)
-- Judgment on Edom (Esau descendants, Jacob’s brother). 
-- Did not help Israel. 
-- Most likely written after the fall of Israel to Assyria. 
-### Jonah (4)
-- Nineveh (Israel’s enemy). Repent or destruction. They repented. 
-- Jonah did not want them to repent. 
-- Before Assyria was a threat to Israel. 
-### Micah (7) 
-- Judgment and forgiveness. 
-- God sees sin and punishes, but steadfast loves prevail. 
-- Prophesied before Assyria (~22 prior) and Babylon carry out judgment.
+### [Hosea (14)](Prophets/hosea)
+
+- Prophesied the latter part of the eighth century 740 B.C. Just before the northern kingdom goes into exile. The fall to the Assyrians happens in 722 B.C.
+- The audience was Ephraim (another name for the northern kingdom, of Israel)
+- Hosea is from the northern kingdom
+- Hosea's ministry is over 60 years, the longest on record 
+- Outwardly Israel is prospering. Syria and Moab had been conquered; commerce increased. But inwardly there was a sin.  
+  - Israel is being spiritually unfaithful worshipping Baal
+  - Looked to Egypt and Assyria for help versus God
+
+### [Joel (3)](Prophets/joel)
+
+- Calls the people of Judah and Jerusalem to lament and return to the Lord during a time of national disaster - locust plague has destroyed both wine and grain. 
+- Joel mentioned in this book and Acts only
+- Written before captivity (pre-exilic) 
+
+### [Amos (9)](Prophets/amos)
+
+- Sheep breeder (not a prophet by profession) who prophesies against Israel during the reigns of Jeroboam (Israel - northern)
+- Universal justice of God, even against Israel
+- Was a time of prosperity for Israel and Amos brings the news that judgment is coming. Assyria would scatter Israel in ~50 years 
+- God brings judgment through the Assyrian captivity (722-721)
+
+### [Obadiah (1)](Prophets/obadiah)
+
+- Most likely written after the fall of the Babylonians in 586 B.C. 
+- Obadiah condemned the Edomites, descendants from Jacob’s brother Esau who were neighbors, for siding with foreign invaders and attaching during the crisis. They should have been helping.
+- Israel was devastated by the exile. 
+- God’s judgment on these other nations. Edom falls ~ 5 years later. 
+- Israel had experienced its judgment already through exile.
+ 
+### [Jonah (4)](Prophets/jonah)
+
+- Jonah preached repentance but hoped for the doom of Israel’s enemy Nineveh (capital of Assyria).
+- Written during the reign of Jeroboam II (northern kingdom)
+- Assyria was not a threat yet to Israel
+
+### [Micah (7)](Prophets/micah) 
+
+- During Judean kings Jotham, Ahaz, and Hezekiah (750-687 B.C.)
+- Public activity ~ 20-25 years
+- Theme: Judgement and Forgiveness
 
 #### Verses
 New:
 - `Micah 6:8` He has shown you, O man, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God. 
 
-### Nahum (3) 
-- Judgment on Nineveh (Assyria) for its oppression of Israel. 
-- Nineveh (capital of the Assyrian Empire), will be destroyed. 
-- A sequel to the book of Jonah.  
-### Habakkuk (3) 
-- A dialogue between the Prophet and God. A struggle. 
-- Judgment on Israel.
-- Why use a bad nation to judge your people (Israel)? 
-- The prediction of the Babylonian invasion. 
-- Ultimately worships and rejoices. 
-- ha.ba.kuk (hav.ba.cut) (have.ba.cuk)
+### [Nahum (3)](Prophets/nahum)  
+
+- Announce the fall of Nineveh and the overthrow of Assyria. 
+- A sequel to the book of Jonah (who repented at that time).
+- Assyria (represented by Nineveh) had captured Israel and is now a threat to Judah. The - Assyrians were brutally cruel. 
+- Mean for Israelite readers living in Judah
+
+### [Habakkuk (3)](Prophets/habakkuk)  
+
+- A dialogue between Habakkuk and God
+- Argues with God about His judgment on Israel, using a worse nation to do it
+- Concludes in rejoicing in the Lord
 
 #### Verses
 New:
 - `Habakkuk 3:17-19` Though the fig tree does not bud and there are no grapes on the vines, though the olive crop fails and the fields produce no food, though there are no sheep in the pen and no cattle in the stalls, 18 yet I will rejoice in the Lord, I will be joyful in God my Savior. 19 The Sovereign Lord is my strength; he makes my feet like the feet of a deer, he enables me to tread on the heights. For the director of music. On my stringed instruments.
 
+### [Zephaniah (3)](Prophets/zephaniah)  
 
-### Zephaniah (3) 
-- Coming judgment on Judah and their enemies. 
-- Although they have seen the destruction of Israel, they still do not repent.
+- Descendant of the king Hezekiah (Judah) 
+- Prophesied during the reign of Josiah (640-609 B.C.), a Judean king who sought to reestablish acceptable worship practices (2 Kings 21:1-26)
 
+### [Haggai (2)](Prophets/haggai)  
 
-### Haggai (2) 
-- Motivate the people to renew their work on the temple. Have permission, and made some progress, but now stalled due to the opposition. 
-- Addressing Jews who moved back into Judea after the Babylonian capture. 
+- Haggai ministered among the Jews who had returned to Judea after some 70 years of exile in Babylon. They are permitted to rebuild the temple. But after opposition from people in the area, it stalls. 
+- Haggai prophesied to motivate the people to renew their work of temple restoration
 
+### [Zechariah (14)](Prophets/zechariah)  
 
-### Zechariah (14) 
-- Like Haggai (but long after), motivates the Jews to complete the rebuilding of the temple. 
-- Have the 8 visions. 
+- Joins Haggai’s efforts to hasten the rebuilding of the temple 
+  - Continue long after Haggai 
+- Postexilic period. The remnant, returning from captivity by Babylon, had settled around Jerusalem  
+- Has 8 visions 
 
-### Malachi (4) 
-- Rebukes the people from departing from real worship
-- They were discouraged; ~80 years after rebuilding the temple, but no prosperity
+### [Malachi (4)](Prophets/malachi)  
+
+- ~ 80 years after Haggai and Zechariah encouraged the rebuilding of the temple
+- Had not experienced the renewal/prosperity stated by the other prophets for rebuilding the temple
+- Faced economic difficulties due to drought and crop failure
+- Lost of hope, worship was a mere form, no substance 
