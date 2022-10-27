@@ -1,4 +1,9 @@
 {
   "label": "Paul's Letters to People",
-  "position": 5
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "title": "Pauls Letters to People(4)",
+    "description": "Paul's 4 Letters to individuals study notes"
+  }
 }
