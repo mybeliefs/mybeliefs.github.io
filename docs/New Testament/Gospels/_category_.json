@@ -1,4 +1,9 @@
 {
   "label": "Gospels",
-  "position": 2
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Gospels (4)",
+    "description": "The Gospels books study notes"
+  }
 }

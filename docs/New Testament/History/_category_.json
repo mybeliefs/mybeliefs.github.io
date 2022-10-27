@@ -1,4 +1,9 @@
 {
-  "label": "History",
-  "position": 3
+  "label": "Early Church",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "History (Acts) (1)",
+    "description": "The start of the Church study notes"
+  } 
 }

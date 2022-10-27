@@ -254,7 +254,7 @@ New:
 - `Titus 3:5` he saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit
 - `Titus 3:7` so that, having been justified by his grace, we might become heirs having the hope of eternal life.
 
-### [Philemon](Paul%20to%20People/philemon)
+### [Philemon (1)](Paul%20to%20People/philemon)
 - A letter was written by Paul to Philemon (only individual letter written by Paul in NT)
 - Philemon is a believer and a slave owner
 - One of his slaves, Onesimus (O.nes.a.mus), stole from him and ran away.

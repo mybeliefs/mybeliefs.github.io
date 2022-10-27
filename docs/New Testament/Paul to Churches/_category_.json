@@ -1,4 +1,9 @@
 {
   "label": "Paul's Letters to Churches",
-  "position": 4
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "title": "Pauls Letters to Churchs(9)",
+    "description": "Paul's 9 Letters to churches study notes"
+  }
 }

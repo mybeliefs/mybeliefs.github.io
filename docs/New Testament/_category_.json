@@ -1,4 +1,9 @@
 {
   "label": "New Testament",
-  "position": 2
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Organization",
+    "description": "Notes on the New Testament books."
+  }
 }
