@@ -89,8 +89,10 @@ The Intertestamental Period (aka 2nd temple) - between Old Testament and New Tes
 
 The Roman empire lost parts AD 406 - 419. Ended **476 CE** (Christian Era)
 
-#### First-Century Judaism (Ch 5)
-#### Jewish Beliefs
+#### First-Century Beliefs (Judaism)
+
+Refer to `Ch 5`
+
 - **The covenant was given to Abraham. Circumcision was a sign and seal of the covenant.**
 - The Law (Torah) was the 1st 5 books (Pentateuch).
 - Old Testament - The Law and Prophets
