@@ -28,7 +28,7 @@ The [Apostles' Creed](https://www.gotquestions.org/apostles-creed.html):
 
 > Who was conceived of the Holy Spirit, born of the Virgin Mary,suffered under Pontius Pilate,
 was crucified, died, and was buried. He descended into hell.
-The third day He arose again from the dead.He ascended into heaven
+The third day He arose again from the dead. He ascended into heaven
 and sits at the right hand of God the Father Almighty, whence He shall come to judge the living and the dead.
 
 > I believe in the Holy Spirit, the holy catholic church,
@@ -74,7 +74,7 @@ An excerpt from Sinclair Ferguson's article on the [Pray of Faith](https://www.l
 There are many areas of my faith that I am now sure about.
 
 - For people who don’t hear the gospel, what happens to them?
-- Is Hell a physical place and eternal for all unbelievers?
+- What is separation from God ... Hell? Is it a physical place?
 - Can people lose their faith?
 - What heaven will be like?
 
@@ -164,9 +164,7 @@ The following are some of the *basics* [^1] of why I believe the resurrection ha
 4. His half-brother James converts who was a skeptic. Jesus appears to him (1 Cor. 15) and he later becomes a leader of the church.
 5. The empty tomb. The movement started in Jerusalem and authorities could have easily stopped the spread by simply showing the corpse.
 
-
 ### History
-
 
 #### Christ's Influence on the Common Era
 Jesus' life initiated the history timeline to be viewed into two separate eras - B.C. (before Christ) and A.D. (Anno Domini - in the year of the Lord). No other person in our history has had this kind of influence.
@@ -184,35 +182,154 @@ The following is a list of some of the *items* [^2] of why I believe that Jesus 
 ### Note
 I can't become an expert (i.e. scholar) on all of these topics. I read and consider what "other experts" claim. And I do have biases ... I want it to be true. Why? Because I am dependent on it. It is my life experience. I am happy and more at peace when I rely on a God that I can't physically see. So there will always be an element of faith required.
 
-:::tip
-There will always be an element of faith required. I am providing reasons to believe. Of course, I want them to be true. Again, based on my experience. But there are reasonable "reasons" not to believe. But I choose faith.
-:::
-
 But, I have experienced the real Christ. Otherwise, my experiences have been fake. And that has not been the case.
+
+:::tip
+There will always be an element of faith required. I am providing reasons to believe. Of course, I want them to be true. Again, based on my experience. But I understand why some people are skeptics. But I choose faith.
+:::
 
 
 ## Difficulties
-There are many difficulties to faith, items that are not understand. I don't believe we can know everything. There will always be an element of faith, but the reasons for faith are strong, which enable me to be ok with things are concern me.
+There are many difficulties to faith, items that are not well understood. I don't believe we can know everything. There will always be an element of faith, but the reasons for faith are strong, which enable me to be ok with things that can be challenging.
 
 The following is a list of topics that I wrestle with. I provide some of my understanding of these items.
 
-### Suffering
-### Problem with Evil
-### Other religions
-### Hell
+### Other Religions
+How can Christianity claim to be the only true religion? What about Jews and Muslims? There are three monotheistic religions that all claim to be exclusive and universal ... *there is only one true God who created the universe.*
 
-- `Hell` - [R.C. Sproul - The Problem with Hell](https://www.youtube.com/watch?v=5YzGYRakRes)
+The central theme for Christians is that Christ rose from the grave. Jews and Muslims do **not** believe this. Muslims believe that Jesus was taken directly to heaven and was not divine. Jews and Atheists hold that Jesus stayed in the grave.
+
+There is only one objective truth, regardless if we believe it or not.
+
+:::caution
+There is only one objective truth, regardless if we believe it or not.
+:::
+
+Jesus claimed to be the only path to God. `John 14:6` - Jesus said to him, *“I am the way, and the truth, and the life. No one comes to the Father except through me."* Jesus claimed to be God and the only way to truth.
+
+This is either true or not. I choose to believe it. It does not make sense to me that each person can have their own truth or that God has revealed himself also in other religions.
+
+### Religious Violence
+Jesus completely changed how we *are to treat others*, including our enemies.
+
+:::info
+"But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also." - [Matthew 5:39](https://www.biblegateway.com/passage/?search=Matthew+5%3A39&version=ESV)
+
+"But I say to you, Love your enemies and pray for those who persecute you," - [Matthew 5:44](https://www.biblegateway.com/passage/?search=Matthew%205%3A44&version=ESV).
+:::
+
+But there is history that can be difficult to reconcile.
+
+#### Christian Crusades
+The crusades took place from 1095 to 1230, started officially by the Latin Church (Pope Urban II). Its purpose was to "reclaim"  Holy Land that have been conquered by Muslims.
+
+> The crusades were terrible. Many people were forced to convert to Christianity. They were unbiblical. [^3]
+
+Without question, there have been acts of violence by Christian-labeled groups (Northern Ireland Catholics vs Protestants, Rwandan genocide in 1994, etc.). But the ethical standards by which we judge these events are given to us by Christianity. [^4]
+
+
+#### Old Testament
+The Old Testament contains instructions to destroy the Canaanities and other surrounding nations. Numerous verses are instructing the "destruction" of groups:
+
+- ... the land that you are entering to take possession of it, ..., then you must devote them to complete destruction ... [Deuteronomy 7:1-2](https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A1-2&version=ESV)
+- ... shall devote them to complete destruction, ... that they may not teach you to do according to all their adominable practices ... - [Deuteronomy 20:16-18](https://www.biblegateway.com/passage/?search=Deuteronomy+20%3A17-18&version=ESV)
+- ... Now go and strike Amalek and devote to destruction all that they have. Do not spare them, but kill both man and woman, child and infant, ox and sheep, camel and donkey. [1 Samuel 15:1-3](https://www.biblegateway.com/passage/?search=1+Samuel+15%3A1-3&version=ESV)
+- Etc.
+
+For me, someone from the 21 century and a westerner, these verses can be difficult to understand. Certainly taken out of context they can be disturbing. Understanding an ancient document, its writing style, culture, etc., takes time and effort.
+
+A few thoughts on this challenging topic:
+
+- In the bigger picture, God is using the Israelites to bring about His salvation. The battles of the book of Joshua, for example, were a part of God’s plan to cleanse the land of evil practices that had enslaved the people of Canaan. The Bible is telling us about God’s mission to restore his rebellious creation and bring all of humanity back to himself. This story continues with the New Testament of Christ's triumphed over death, through the violence of the cross.[^5]
+- Total dismantling of the Canaanite civilzation was necessary to protect Israel against becoming corrupted. This is a critical time in history, judgement is on the land, and God's plans to save the whole world are being enacted.[^6]
+- God is gracious and merciful, He is also a God of holiness and wrath. [^7]
+- The God of the new testament shows similar characteristics. In [Acts 5:4-10](https://www.biblegateway.com/passage/?search=Acts+5%3A4-10&version=ESV), the couple suddenly dies when withholding their proceeds from selling property. The book of Revelations has lots of destruction in it. *The God of the Old and New Testament should be feared, while at the same time is all-loving.*
+- God had morally sufficient reasons for His judgement on Canaan, and Israel was merely the instrument of His justice. Later God uses the nations of Assyria and Babylon to judge Israel. [^8]
+
+:::tip
+If I truly believe that God is the giver of life, then it is His to take away.
+:::
+
+#### Humans Do Bad Things
+Humans, whether associated with organized religion or not, have always done very bad things. And I believe this will continue. Marxism, which is anti-religious, led to millions of atrocious. Communism's purpose was to remove religion and enable justice for its people. But its history indicates that 61 million people were killed in the former Soviet Union and 35 million in the People's Republic of China.
+
+:::warning
+Religious violence is a **fallen** human problem.
+:::
+
+### Suffering
+The question people struggle with is if God is good and all-powerful, why does "pointless suffering and evil" exist? He must not be good and all-powerful, or does not even exists? If God **does not exist**, then *suffering* is just a part of our natural evolution. There is no justice and suffering has no purpose.  It is all part of natural selection.
+
+:::tip
+The *biblical framework* for suffering is about our relationship with God, and *finding Him in our suffering*. The God of the Bible is <u>not</u> about a higher power answering all of our requests for **pleasure** and **comfort** (i.e. vending machine), it is about itimately knowing Him.
+:::
+
+Some thoughts and observations on suffering:
+
+- With time and perspective often "some" of our suffering turns out to have benefits that we would have never experienced otherwise.
+- Christianity provides hope for the future. The Bible promises one day all things will be restored ... made right.
+- We will better understand the purpose someday, but in the context of eternity, suffering will be a pleasant reminder of our past that has been restored.
+- *"Just because you can't see or imagine a good reason why God might allow something to happend doesn't mean there can't be one".* [^9]
+- God came down as a human and also suffered and experienced death by being crucified. *"We still do not know what the answer is. However, we know know what the answer isn't. It can't be that he doesn't love us".* [^9]
+- *"Suffering which appears to be pointless within our limited framework may be seen to be justly permitted within God's wider framework.  Every event that occurs sends a ripple effect through history such that God's morally sufficient reason for permitting it might not emerge until centuries from now, maybe in another land. Only an all-knowing God can grasp the complexities of directing a world of free people toward his envisioned goals. The Christian faith entails doctrines that increase the probability of the co-existence of God and evil"*. [^10]
+  - The chief purpose of life is <u>not happiness</u>, but the knowledge of God.
+  - Mankind is in a state of <u>rebellion against God</u> and his purpose. The terrible human evils in the world are simply testimony to man's depravity in this state of spiritual alienation from God.
+  - In the Christian view, this life is <u>not all there is</u>.
+  - The sufferings of this life cannot even be compared to the <u>knowledge of God</u>.
+  - Jesus also endured a suffering beyond all comprehension. He <u>bore the punishment for the sins of the entire world</u>. None of us can comprehend that suffering.
+
+
+### Hell
+How do we reconcile a loving God sending people to hell for internal punishment? There are a lot of "theories" about hell. The only thing I know about hell is that it is the separation from God's presence and grace. It is giving people what they want - control of their own lives.
+
+:::warning
+Hell is giving people what they want - separation from God's presence and grace.
+:::
+
+- The Bible teaches extensively on hell. [^11]
+- The Bible teaches that heaven and hell are actual realities, but also indicates that all language about them is allusive, metaphorical, and partial. [^12]
+- Hell is a choice people make to control their so-called "freedom from God". It is not like they are in a pit and want out, and they are sorry about everything. This is a caricature. Rather people will not give up control to be in the presence of God.  It is "<u>there will be done</u>".
+- The language used is <u>not</u> literal but indicates separation from God. This is worse. We were created for worshipping the true God. Now everyone experiences "common grace", but when this is gone it becomes hell. "Hell is simply one's freely chosen path going on forever." [^13]
+
+
+:::info
+Whatever **hell** is, we will be in total agreement about who and why people are there. These are the people who wanted their separation from God.
+:::
 
 ### Weird Scriptures
+There are many Bible verses when read out of context can be confusing and evening disturbing. Here are few examples:
+
+- *"But anything in the seas or the rivers that does not have fins and scales, ..., in the waters, is detestable to you."* - Leviticus 11:10 (ESV)
+- *"If a man happens to meet a virgin who is not pledged to be married and rapes her and they are discovered, he shall pay her father fifty shekels of silver. He must marry the young woman, for he has violated her. He can never divorce her as long as he lives."* - Deuteronomy 22:28-29 (NIV)
+- *"... Do not cook a young goat in its mother's milk."* - Exodus 23:19 (NIV)
+
+
+When we read scriptures, we have to remember it was written at a different time and for a specific culture. It requires understanding the context and purpose of the Biblical authors. The Bible is a collection of books capturing the story of God redeeming his people.
+
+- Includes *69 books* written in *3 languages* over *1500 years*.
+- Composed of different genres such as *history*, *law*, *poetry*, *wisdom*, *prophecy*, and *apocalyptic literature*.
+- Most of the "weird" verses we are see are not being understood in the proper context. [^14]
+
+The Bible is both simple and very complex.  It is easy to cherry-pick verses out of context to make statements that are not applicable.
+
+:::tip
+Cherry-picking weird verses out of context can give us trouble. What is required is studying the context and doing background research. Doing this will require time and effort. Also, note there is most likely a long history of perspective on these tricky verses.
+:::
+
 
 ## References
-TBD
-
-- https://www.reasonablefaith.org/
-- https://www.gotquestions.org/
-- [The Reason for God](#references) by Timothy Keller
-- Person of Interest by J. Warner Wallace
-- The Case for the Real Jesus by Lee Strobel
 
 [^1]: Lee Strobel. The Case for the Real Jesus (Grand Rapids, Mich.: Zondervan, 2007), 3:101-126.
 [^2]: J. Warner Wallace. Person of Interest (Grand Rapids, Mich.: Zondervan, 2021), 4:101-126, 4:138, 4:142,152-173, 174-211.
+[^3]: Got Questions. *Your Questions. Biblical Answers*. [Christian Crusades](https://www.gotquestions.org/Christian-crusades.html).
+[^4]: Rebecca McLaughlin. Confronting Christianity. 12 Hard Questions for the World's Largest Religion. (Wheaton, Illinois.: Crossway, 2019), 79.
+[^5]: BibleProject. Blog. [Why Did God Command the Invasion of Canaan in the Book of Joshua?](https://bibleproject.com/blog/why-did-god-command-the-invasion-of-canaan-in-the-book-of-joshua/).
+[^6]: The Gosple Coalition. [Thinking Through Old Testament Violence](https://au.thegospelcoalition.org/article/thinking-old-testament-violence/).
+[^7]: Got Questions. *Your Questions. Biblical Answers*. [Why did God condo such terrible violence in the Old Testament?](https://www.gotquestions.org/Old-Testament-violence.html).
+[^8]: Reasonable Raith with William Lang Graig. Blog. [Slaughter of the Canaanites](https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites).
+[^9]: Timothy Keller. The Reason for God (New York, New York. Penguin Group, 2008), 23, 31.
+[^10]: Reasonable Faith with William Lane Graig. [The Problem of Suffering & Evil | Worldview Apologetics Conference 2017](https://www.reasonablefaith.org/videos/video-lectures/the-problem-of-suffering-evil-worldview-apologetics-conference-2017).
+[^11]: Got Questions. *Your Questions. Biblical Answers*. [Is hell real? Is hell eternal?](https://www.gotquestions.org/hell-real-eternal.html).
+[^12]: Timothy Keller. The Reason for God (New York, New York. Penguin Group, 2008), 237.
+[^13]: Timothy Keller. Blog. [The Importance of Hell](https://timothykeller.com/blog/2008/8/1/the-importance-of-hell). August 1, 2008.
+[^14]: Dan Kimball. How (NOT) To Read the Bible (Grand Rapids, Michigan.: Zondervan, 2020), 57.

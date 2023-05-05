@@ -19,10 +19,22 @@ TBD.
 - `Inerrancy` -
 - `Authority` -
 
-## Denominations
+## Hell
+
+- `Hell` - [R.C. Sproul - The Problem with Hell](https://www.youtube.com/watch?v=5YzGYRakRes)
+- https://www.youtube.com/watch?v=_cnUwbgpNKc - R.C. Sproul
+- https://www.gotquestions.org/eternal-damnation.html - offensive
+- https://www.gotquestions.org/loving-God-send-someone-hell.html
+- `ECT` - Enternal Conscious torment
+- `Annihilationism` - ceasing to exists
+- https://bibleproject.com/podcast/series/heaven-hell/
+- https://timothykeller.com/blog/2008/8/1/the-importance-of-hell
+- https://podcast.gospelinlife.com/?s=Hell
 
 
-## Cults
+## Topics
+- [Women Pastors - got questions](https://www.gotquestions.org/women-pastors.html)
+
 
 ## Other
 
@@ -32,4 +44,4 @@ TBD.
   - https://www.gotquestions.org/New-Apostolic-Reformation.html
   - Annunciate Apostoloic (*ad.pu.stal.lic*)
 
-## World Religions 
+## World Religions
