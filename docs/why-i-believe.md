@@ -73,7 +73,7 @@ An excerpt from Sinclair Ferguson's article on the [Pray of Faith](https://www.l
 ### Not Sure
 There are many areas of my faith that I am now sure about.
 
-- For people who don’t hear the gospel, what happens to them?
+- For people who don’t hear the gospel, what happens to them? Only God knows, and we trust in His perfect righteousness that goes beyond our comprehension. Remember the people of the Old Testament did not know of Jesus or the Bible.
 - What is separation from God ... Hell? Is it a physical place?
 - Can people lose their faith?
 - What heaven will be like?
@@ -316,6 +316,7 @@ The Bible is both simple and very complex.  It is easy to cherry-pick verses out
 Cherry-picking weird verses out of context can give us trouble. What is required is studying the context and doing background research. Doing this will require time and effort. Also, note there is most likely a long history of perspective on these tricky verses.
 :::
 
+See [here](/Apologetics/weird-scriptures) for more perspective on weird scriptures.
 
 ## References
 
