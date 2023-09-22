@@ -55,35 +55,28 @@ References
 - Questions: Concerning the Restoration, the period did Jews from both Israel and Judah move back to Judea? What happened to the Jews captured by the Assyrians?
 
 
-
 ## [Law (5)](/category/law)
 Also called the *Pentateuch*.
 
 ### [Genesis (50)](Law/genesis)
 
 - Historically both Jews and Christians held that Moses was the author (1st 5 books)
-- Chapters 1-38 reflect *Mesopotamian* in character, 39-50 more *Egyptian* influence
-  - The original home of the patriarchs was Mesopotamia
 - General timelines:
-    - 950 years between Adam and Noah (Noah was born 20 years after Adam died)
+    - [930 years between Adam and Noah](https://www.gotquestions.org/how-old-was-Adam-when-he-died.html). Noah was born soon after Adam died (20+ years)
     - ~400 years between Noah and Abraham
-    - Abraham & Sarah / Hagar => Isaac => Esau & Jacob => Joseph, 12 brothers
-- General themes:
-    - The origin of nations (1-11) - wicked, selects single to bless others
-    - Election of the Jewish Nation (12-50) - through Abraham
-- General events:
-  - Creation story
-  - Cain, Abel
-  - Noah and the flood, the tower of Babel
-  - Abram, Lot
-  - Abraham (name change)
-  - Isaac
-  - Isaac blesses Jacob
-  - Jacob, Leah, and Rachel
-  - Jacob meets Esau
-  - Joseph sold to Egypt
-  - Joseph interpreting dreams
-  - Joseph and his family
+    - Chapters 1-38 reflect *Mesopotamian* (mes.uh.po.tame.me.in) in character, 39-50 more *Egyptian* influence. Patriarchs orginally lived in Mesopotamia.
+- **Origin of Nations** (1-11) - wicked, decides to wipe out the world except for Noah
+  - Creation, Garden of Eden, the Fall
+  - The Flood, Convenant, the Tower of Babel
+- **Election of the Jewish Nation** (12-50) - selects a single nation to bless others through Abraham
+  - God chooses Abram (Abramham), Promised child
+  - Near-Sacrifice of Isaac
+  - Isaac married Rebekah, twins Jacob and Esau
+  - Isaac blesses Jacob first (tricked)
+  - Jacob marries Leah and Rachel, 12 Sons born and 1 daughter
+  - Joseph's Dreams, Sold by His Brothers
+  - The Lord blesses Joseph, sent to prison, interprets dreams, becomes 2nd in command
+  - Joseph reunites with his family
 
 ### [Exodus (40)](Law/exodus)
 
