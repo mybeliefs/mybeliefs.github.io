@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Old Testament Research
+title: Old Testament
 ---
 
 References

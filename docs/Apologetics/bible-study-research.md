@@ -1,11 +1,13 @@
 ---
 sidebar_position: 2
-title: Bible Study Research
+title: New Testament
 ---
 
 ## Interpretation
 
-Reference - [How to Read the Bible for All Its Worth](https://www.amazon.com/How-Read-Bible-All-Worth/dp/0310517826) by Gordon Fee and Douglas Stuart
+References
+- [How to Read the Bible for All Its Worth](https://www.amazon.com/How-Read-Bible-All-Worth/dp/0310517826) by Gordon Fee and Douglas Stuart
+- [Why I Trust The Bible](https://www.amazon.com/Why-Trust-Bible-Answers-Questions/dp/0310109949) by William Mounce
 
 ### Notes
 - One theme: 66 books; written over 1600 years; by 40 authors of different ages, 3 continents;
@@ -19,7 +21,7 @@ Reference - [How to Read the Bible for All Its Worth](https://www.amazon.com/How
 ### Terms
 - `Exegesis` (x.sa.jesus) - the study of scripture to discover the original intended meaning
 - `Hermeneutics` (her.men.new.tics) - seeking the contemporary relevance of ancient texts
-- `Genre` (shawn.ra) - a category of music or literature similar in form, style, or subject
+- `Genre` (john.ruh) - a category of music or literature similar in form, style, or subject
 - Theory of translation:
   - *Formal equivalence* - keep as close to the form of the Hebrew or Greek language (NASB)
   - *Functional equivalence* - keep the meaning of the Hebrew or Greek but put their words and idioms into a normal way of saying in English (NIV)
