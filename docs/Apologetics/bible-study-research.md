@@ -3,6 +3,47 @@ sidebar_position: 2
 title: New Testament
 ---
 
+## The Cannon
+There are 27 books on the New Testament.
+
+- `Canon` - books that are considered by Christians as authoritative.
+- `Apocrypha` (a.proc.ka.pha) - books not accepted as part of the canon.
+
+:::info
+The Council of Nicaea (Ni.c.a) in AD 325, called by Constantine, did not determine the canon. Rather the [Nicene Creed](https://www.gotquestions.org/Nicene-creed.html) was written, addressing a group led by a man named Arius who did not believe in the divinity of Christ. Constantine's concern was political unity.
+:::
+
+### Criteria
+The following criteria were used to confirm which books to include: [^1]
+
+- Authorship (Apostolicity) - who wrote the book
+- Orthodoxy - were the teachings consistent with the existing accepted books
+- Catholicity (Cath.a.li.city) - usage of the church as a whole
+
+Always recognized as authoritative: [^1]
+- Matthew, Mark, Luke, John
+- Acts
+- Paul's 13 epistles
+- 1 Peter
+- 1 John
+
+
+Luke's was closely associated with Paul.
+
+### Not so fast
+
+- Hebrew - author was not known
+- James - was concerned with orthodoxy (i.e. works)
+- 2 Peter - greek was so different
+- 2 & 3 John - were very short
+- Jude - referenced to noncanonical book (v9)
+
+:::info
+**AD 367** Easter Letter written by Athanasius, who was the first person to authoritatively list the 27 books [^1].
+:::
+
+Note that there were other book references that were not included in the Canon (i.e. *Wisdom of Solomon, Shepherd of Hermas*).
+
 ## Interpretation
 
 References
@@ -85,6 +126,7 @@ Guidelines for identifying issues/principles that are culturally relative or sti
 - Most were written as letters to individuals (an example not to an individual is Hebrews)
 - Most were written for a specific occasion to the reader(s). The focus was on fixing a behavior, doctrine, etc. The primary purpose was not to describe theology.
 
+
 ## My Process
 
 When I arrived at my office in the morning I spend time studying the scriptures and at times other related resources. I use a GitHub repository and tool called [Docusaurus](https://docusaurus.io/) to capture my notes, observations, etc.
@@ -125,3 +167,7 @@ When I arrived at my office in the morning I spend time studying the scriptures 
 - Thomas had doubts.
 - Paul had poor health.
 - Timothy was timid.
+
+## References
+
+[^1]: William Mounce. Why I Trust The Bible. (Grand Rapids, Mich.: Zondervan, 2021), 101-105, 103, 113.
