@@ -370,7 +370,7 @@ Notes:
 
 - Abraham moved into another region. Again he lied about his wife Sarah being his sister.
 - The king who took Sarah had a dream and was warned not to sleep with Sarah.
-- Abraham prayed to God to open the wombs of the King's wife and femal servants
+- Abraham prayed to God to open the wombs of the King's wife and female servants
 
 
 #### Ch 21
@@ -489,7 +489,7 @@ Notes:
 #### Ch 29
 > Jacob Marries Leah and Rachel, Leah has 4 sons
 
-- Jacob meets Rachel, who was coming to water her father's sheep. She was a shepherdess `29:10``
+- Jacob meets Rachel, who was coming to water her father's sheep. She was a shepherdess `29:10`
 - Jacob kisses Racel and wept aloud `29:11`
 - Jacob meets his uncle Laban (Rebekah’s brother) and stays with him for a month `29:13`
 - After a month said would work 7 years for Rachel ..he was in love with her `29:20`
@@ -557,7 +557,7 @@ Notes:
 - Unfairly treated, decides to return to the land of Canaan
 - But now most pass through the land were Esau lives
 - Is afraid
-- Wrestles with a man all night, turns to be God
+- Wrestles with a man all night, turns out to be God
 - Changes name to Israel which means "God fights"
 
 #### Ch 33

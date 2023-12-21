@@ -5,9 +5,23 @@ sidebar_position: 1
 # Overview
 TBD
 
-`Apologetics` -  Defending the Christain faith; using reasons and evidence.
-- 1 Peter 3:15 -  but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect,
-- https://crossexamined.org/christian-apologetics/
+## Placeholder
+
+### Divine Hiddenness
+
+- Video from [Calvin Ortlund](https://youtu.be/_d-6UhOS0FE?si=ZT-WHY2rx7jNdf4k)
+
+### Terms
+
+- `Apologetics` -  Defending the Christain faith; using reasons and evidence.
+  - 1 Peter 3:15 -  but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect,
+  - https://crossexamined.org/christian-apologetics/
+- `Inerrancy` - Scripture is error-free in the original writings. Reference on explaing [inerrancy](https://www.desiringgod.org/interviews/what-is-inerrancy) from Desiring God.
+- `Autographs` - the original manuscript written by the author
+- `Postmodernism` rejects any one set of absolute truths
+- `Presupposition`.  If you reject the supernatural (miracles) you will reject the Gospel's accounts. If you assume Jesus was a disillusioned Jewish preacher, you will reject the Gospels writing and explain away how the Church deified him.
+- `Naturalism` - A position that assumes there is nothing beyond nature, or the physical existence (i.e. supernatural God).
+
 
 ## Historic Christianity
 

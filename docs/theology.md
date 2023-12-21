@@ -11,6 +11,15 @@ TBD.
   - *"Good theology is based in the belief that God exists, is personal, can be known, and has revealed himself. These presuppositions motivate theologians to devote themselves to a passionate pursuit of knowledge from God’s Word."*
   - *"Fully loving God and obeying the Great Commandment requires actively engaging the mind in the pursuit of truth."*
 
+## Questions
+Capture theology based questions.
+
+- Why did Christ have to die? Couldn't He just have forgiveness us?
+  - Legal payment for sin
+  - Is required by a Holy God
+  - God is really, really, really **Holy**
+
+
 ## Terms
 
 - `Doctrine` - Set of beliefs held and baught by a Church
