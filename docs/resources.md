@@ -24,7 +24,8 @@ The following is list of resources used in my study of scripture and apologetics
 ## Podcasts
 
 - [Think Biblically - Tabot School of Theology - Spotify](https://open.spotify.com/show/4gZECpHCBwJXXF3B6INcmw?si=28541e8077354e90)
-- [Unbelievable - youtube](https://www.youtube.com/@PremierUnbelievable)
+- [Truth Unites - Gavin Ortlund - YouTube](https://www.youtube.com/@TruthUnites)
+- [Unbelievable - YouTube](https://www.youtube.com/@PremierUnbelievable)
 - [The Alisa Childers Podcast - Spotify](https://open.spotify.com/show/5uSv9YOi9xLrM5PahmQl7d)
 
 ## Books

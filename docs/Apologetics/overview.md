@@ -5,6 +5,12 @@ sidebar_position: 1
 # Overview
 TBD
 
+## Placeholder
+
+### Divine Hiddenness
+
+- Video from [Calvin Ortlund](https://youtu.be/_d-6UhOS0FE?si=ZT-WHY2rx7jNdf4k)
+
 ### Terms
 
 - `Apologetics` -  Defending the Christain faith; using reasons and evidence.

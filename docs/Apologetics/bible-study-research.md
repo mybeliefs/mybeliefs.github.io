@@ -7,26 +7,25 @@ title: New Testament
 There are 27 books on the New Testament.
 
 - `Canon` - books that are considered by Christians as authoritative.
-- `Apocrypha` (a.proc.ka.pha) - books not accepted as part of the canon.
+- `Apocrypha` (uh.paa.kruh.fuh) - books not accepted as part of the canon.
 
 :::info
-The Council of Nicaea (Ni.c.a) in AD 325, called by Constantine, did not determine the canon. Rather the [Nicene Creed](https://www.gotquestions.org/Nicene-creed.html) was written, addressing a group led by a man named Arius who did not believe in the divinity of Christ. Constantine's concern was political unity.
+The Council of Nicaea (Ni.c.a) in **AD 325**, called by Constantine, did **not** determine the canon. Rather the [Nicene Creed](https://www.gotquestions.org/Nicene-creed.html) was written, addressing a group led by a man named Arius who did not believe in the divinity of Christ. Constantine's concern was political unity.
 :::
 
 ### Criteria
-The following criteria were used to confirm which books to include: [^1]
+The following criteria were used to confirm which books to include: [^1][p100-105]
 
 - Authorship (Apostolicity) - who wrote the book
 - Orthodoxy - were the teachings consistent with the existing accepted books
 - Catholicity (Cath.a.li.city) - usage of the church as a whole
 
-Always recognized as authoritative: [^1]
+Always recognized as authoritative: [^1][p103]
 - Matthew, Mark, Luke, John
 - Acts
 - Paul's 13 epistles
 - 1 Peter
 - 1 John
-
 
 Luke's was closely associated with Paul.
 
@@ -39,16 +38,81 @@ Luke's was closely associated with Paul.
 - Jude - referenced to noncanonical book (v9)
 
 :::info
-**AD 367** Easter Letter written by Athanasius, who was the first person to authoritatively list the 27 books [^1].
+**AD 367** Easter Letter written by [Athanasius](https://en.wikipedia.org/wiki/Easter_letter), who was the first person to authoritatively list the 27 books. [^1][p113]
 :::
 
 Note that there were other book references that were not included in the Canon (i.e. *Wisdom of Solomon, Shepherd of Hermas*).
 
+## Textual Criticism
+The **original documents** written by the New Testament authors are called `autographs`. We do not have copies of these documents. Copies of these documents were made by individuals called `scribes`. There were no printing presses in the first century. The printing press was invented in 1440 by Johannes Gutenberg. So many copies of copies of the documents were made by scribes by hand.
+
+**Textual criticism** is the process/science of comparing ancient documents and deriving the most actuate text based on all of the manuscripts that have been discovered.
+
+### Manuscripts
+A `manuscript` is a copy of a **book** or a small set of **verses** from a book. The earliest manuscripts were written using scrolls that were long sheets of parchment or papyrus and rolled up for storage. As the church grew pages stitched together, called [codexes](https://en.wikipedia.org/wiki/Codex), were used.
+
+The earliest known New Testament manuscript is the [Rylands Library Papyrus P52](https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52). It contains a fragment of the Gospel of John *18:31-33, 37-38* and is estimated to date back to **125 AD**.
+
+The oldest **complete manuscripts** that contain the entire New Testament date back to the **4th century** are the [Vaticanus (va.ta.k.nus) and Sinaitcus (sin.ni.ta.cus)](https://www.gotquestions.org/Codex-Sinaiticus-Vaticanus.html). These are two of the primary manuscripts used for textual criticism. [^1][p144]
+
+Approximate number of [Greek manuscripts](https://g.co/bard/share/f5e8971ef898) of the New Testament is **5,800**:
+
+Type | Number of manuscripts
+-----| ---------------------
+Complete manuscripts | 260
+Fragments | 5,5540
+
+Manuscripts can be categorized into a `text-type`. A text-type is based on location and common characteristics.
+
+Name | Description | Characteristics | Date
+---- | ----------- | --------------- | ------
+Alexandrian	| Oldest and most reliable. Two of the primary Greek manuscripts used in testual criticism. [^1][p144]| 	Brevity, Accuracy	| 2nd - 4th century AD
+Byzantine	| Most common (~95%) [^1][p145]	| Longer readings Harmonizes the Gospels	| 4th - 10th century AD
+Western	| Free and easy style. The [Latin Vulgate](https://www.gotquestions.org/Latin-Vulgate.html) is based on. [^1][p144] | 	Paraphrased, Expanded, Unique readings	| 2nd - 4th century AD
+Caesarean |	Early text-type |	Mixed readings (Alexandrian & Byzantine)	| 3rd - 5th century AD
+Majority Text |	Term often used for Byzantine	| Common readings, Not the only majority text-type	| 4th - 10th century AD
+
+
+### Variants
+Variants are differences between two copies of a text contained in different manuscripts. There are 138,213 words in the New Testament and based on all of the ~6,000 manuscripts there are about 400,000 variants. But only **1%** are meaningful. [^1][p141]
+
+:::tip
+From the <u>*5,600*</u> Greek manuscripts, there are ~**400,000** variants (out of **138,213** words), with **99%** variants making no difference. The remaining **1%** that are *viable* and *meaningful* does not change a single biblical doctrine. [^1] [p141]
+:::
+
+Notes:
+- Spelling differences make up about 70% (~280k). [^1][p134]
+- Scribes were more willing to *"add"* text than *"remove"* text, often to add clarification. [^1][p133]
+- The *meaningful* (changes meaning) and *viable* (might be original) are **less than 1%** (~4k) [^1][p141]
+- "... probably only **`373`** places where a variant is meaningful and viable". [^1][p153]
+- The King James translation uses the **Byzantine** text-type, which [contains a number of errors and omissions, and it does not always reflect the earliest and most reliable readings](https://g.co/bard/share/e59434b663f2).
+- The two major variants that were <u>not</u> in the autographs: [^1][p146]
+   - `John 7:53-8:11` - The woman caught in adultery (i.e. "Let any one of you who is without sin be the first to throw a stone at her".)
+   - `Mark 16:9-20` - .. they will pick up snakes with their hands
+
+## Translations
+Challenges with translating from the Greek language:
+- a word almost always has multiple meanings
+- a word in one language has <u>no exact</u> equivalent in another language
+- thus, all translations require interpretation
+
+Translation | Category | Approach
+---------| ----------- | -----
+`ESV` | Formal | Adhere as closely as possible to the grammatical structures of the original language, altering the translation only when necessary to convey meaning.
+`NIV` | Dynamic | Tries to discover the author's original intent and then convey the same meaning in the target language.
+`NLT` | Natural Language | Tries to repeat the meaning of the Greek in the most natural English style possible.
+
+:::tip
+Not a single verse translated in the Bible is word for word. [^1][p205]
+:::
+
+---
+
 ## Interpretation
+WIP
 
 References
 - [How to Read the Bible for All Its Worth](https://www.amazon.com/How-Read-Bible-All-Worth/dp/0310517826) by Gordon Fee and Douglas Stuart
-- [Why I Trust The Bible](https://www.amazon.com/Why-Trust-Bible-Answers-Questions/dp/0310109949) by William Mounce
 
 ### Notes
 - One theme: 66 books; written over 1600 years; by 40 authors of different ages, 3 continents;
@@ -170,4 +234,4 @@ When I arrived at my office in the morning I spend time studying the scriptures 
 
 ## References
 
-[^1]: William Mounce. Why I Trust The Bible. (Grand Rapids, Mich.: Zondervan, 2021), 101-105, 103, 113.
+[^1]: William Mounce. Why I Trust The Bible. (Grand Rapids, Mich.: Zondervan, 2021), 100-105, 103, 113, 141, 134, 133, 141, 153, 146, 205.
