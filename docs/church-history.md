@@ -198,7 +198,7 @@ Refer to ch 6.
 ## Apostolic Age: 6 BC-AD 70
 - Major Timeframe - Birth of Jesus, Death of Jesus, death of Stephen, Nero, death of Paul
 - Palestine has ~ 2 million people. Jews represented only half. [^1]
-- [First-century Judaism](./New%20Testament/overview#first-century-beliefs-judaism) groups.
+- [First-century Judaism](#first-century-beliefs-judaism) groups.
 - Many of the converts were Hellenist Jews (from other areas of the Roman Empire). [^2]
 - Christians were barred from synagogue services [^3]
 - AD 70 with the destruction of the temple marked the end of the apostolic age

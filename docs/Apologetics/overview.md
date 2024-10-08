@@ -9,7 +9,15 @@ TBD
 
 ### Divine Hiddenness
 
-- Video from [Calvin Ortlund](https://youtu.be/_d-6UhOS0FE?si=ZT-WHY2rx7jNdf4k)
+- Video from [Gavin Ortlund](https://youtu.be/_d-6UhOS0FE?si=ZT-WHY2rx7jNdf4k)
+
+### Cosmological Argument
+Cosmological arguments attempt to prove God’s existence by **observing the world around us** (the cosmos).
+
+- Why Asking "What Caused God?" Misses the Target - Video from [Gavin Ortlund](https://www.youtube.com/watch?v=vdYiaAeG5E0)
+  - Can not have infinite causes
+  - Does not state that "everything" needs a cause
+- https://www.gotquestions.org/cosmological-argument.html
 
 ### Terms
 
@@ -21,13 +29,14 @@ TBD
 - `Postmodernism` rejects any one set of absolute truths
 - `Presupposition`.  If you reject the supernatural (miracles) you will reject the Gospel's accounts. If you assume Jesus was a disillusioned Jewish preacher, you will reject the Gospels writing and explain away how the Church deified him.
 - `Naturalism` - A position that assumes there is nothing beyond nature, or the physical existence (i.e. supernatural God).
-
+- `Ontological` - The study of the very nature of existence.
 
 ## Historic Christianity
 
 ### Apostle’s Creed
 - ~390 AD, an early statement of the Christian core beliefs
 - Unity for all Christians
+- [The Apostles' Creed - by Gavin Ortlund](https://www.youtube.com/watch?v=VJvzSEElvj4)
 
 > *I believe in God, the Father Almighty, Creator of Heaven and earth;
 and in Jesus Christ, His only Son Our Lord,
@@ -108,3 +117,10 @@ Notes:
 - https://questions.org/
 - https://www.christianthinktank.com/objedex.html
 - https://www.crossway.org/articles/is-the-bibles-teaching-about-homosexuality-offensive/
+
+Hey [^get].
+
+### Foot
+
+[^1]: Mark. P1.
+[^get]: Mark .P3.
