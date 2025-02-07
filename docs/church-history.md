@@ -203,6 +203,25 @@ Refer to ch 6.
 - Christians were barred from synagogue services [^3]
 - AD 70 with the destruction of the temple marked the end of the apostolic age
 
+### Paul's History
+The apostle Paul was imprisoned multiple times during his ministry. According to Clement of Rome, Paul was imprisoned seven times. Paul himself stated that he experienced "far more imprisonments" than his rival apostles, as mentioned in 2 Corinthians 11:23.
+
+Reference [here(P)](https://www.perplexity.ai/search/how-many-times-was-paul-from-t-6wyz_RODQCSdj63cuxO5bw).
+
+
+| Year (AD) | Event | Duration |
+|-----------|-------|----------|
+| 47-48 | First Missionary Journey | 1-2 years |
+| 49-52 | Second Missionary Journey | ~3 years |
+| 51 | Imprisoned in Philippi (during Second Journey) | Brief |
+| 52-57 | Third Missionary Journey | ~5 years |
+| 57 | Arrested in Jerusalem, transferred to Caesarea | - |
+| 57-59 | Imprisoned in Caesarea | 2 years |
+| 59-62 | Journey to Rome and House Arrest in Rome | ~3 years |
+| 62-64 | Released from first Roman imprisonment | - |
+| 67-68 | Final arrest and imprisonment in Rome until martyrdom | ~1 year |
+
+
 ## Catholic Christianity: 70-312
 - Catholic meaning *universal*
 - Started as a small offshoot of Judaism, but by the 4th century there where churches in every large town [^4]

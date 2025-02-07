@@ -10,14 +10,17 @@ title: Acts
 - https://www.bibleref.com/Acts
 
 ## Overview
-- The author is Luke:
-  - a non-Jewish doctor
-  - traveled with Paul
-  - most likely written during Paul's Roman imprisonment (60-62 AD)
+### Outline
+#### Background:
+  - The author is Luke, a non-Jewish doctor
+  - Written before Paul's death, Mid-60 AD
+  - Luke traveled with Paul
   - Written for Theophilus (thee.aw.p.lus)
-- Captures the first **30 years of the church**
-   - Jesus's ascension in 33 AD to Paul's imprisonment in Rome in 62 AD
-- Outline:
+
+#### Purpose:
+  - Captures the first 30 years of the church (Jesus's ascension in 33 AD to Paul's 1st imprisonment in Rome in 62 AD)
+
+#### Chapters (28):
   - `1-7` Ascension, Holy Spirit, Signs and Wonders, New Believers, Stephen death
      - message spreading in Jerusalem
   - `8-12` Conversion of Paul, Peter healings, Acceptance of Gentiles, Peter freed from prison
@@ -28,7 +31,6 @@ title: Acts
      - was in prison for 5 years, 2 of those years in Rome
 
 ![Mediterranean during Acts](./mediterranean-acts.png "Mediterranean World during Acts")
-
 
 ### EVS Introduction
 https://www.esv.org/resources/esv-global-study-bible/introduction-to-acts
@@ -88,7 +90,7 @@ https://bibleproject.com/guides/book-of-acts
 
 - Captures the apostle's activities leading people to faith, locally, regionally, and throughout the Roman empire.
 
-### Outline (28 chapters)
+### Chapters (28)
 
 #### 1-7: Ascension, Holy Spirit, Signs and Wonders, New Believers, Stephen death
 
@@ -134,7 +136,7 @@ https://bibleproject.com/guides/book-of-acts
 None
 
 
-## Observations
+### Observations
 
 - The Holy Spirit's arrival empowered the group to spread the message of Christ dying for their sins.
 - Because of persecution, the gospel spread through the region and beyond.
