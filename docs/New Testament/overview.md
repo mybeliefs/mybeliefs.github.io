@@ -99,15 +99,16 @@ New:
 ## [History (1)](/category/early-church)
 
 ### [Acts (28)](History/acts)
-
-- The author is Luke:
-  - a non-Jewish doctor
-  - traveled with Paul
-  - most likely written during Paul's Roman imprisonment (60-62 AD)
+#### Background:
+  - The author is Luke, a non-Jewish doctor
+  - Written before Paul's death, Mid-60 AD
+  - Luke traveled with Paul
   - Written for Theophilus (thee.aw.p.lus)
-- Captures the first **30 years of the church**
-   - Jesus's ascension in 33 AD to Paul's imprisonment in Rome in 62 AD
-- Outline:
+
+#### Purpose:
+  - Captures the first 30 years of the church (Jesus's ascension in 33 AD to Paul's 1st imprisonment in Rome in 62 AD)
+
+#### Chapters (28):
   - `1-7` Ascension, Holy Spirit, Signs and Wonders, New Believers, Stephen death
      - message spreading in Jerusalem
   - `8-12` Conversion of Paul, Peter healings, Acceptance of Gentiles, Peter freed from prison
@@ -230,56 +231,75 @@ New:
 ## [Paul's Letters to People (4)](/category/pauls-letters-to-people)
 
 ### [1 Timothy (6)](Paul%20to%20People/1%20timothy)
+#### Background:
+  - Paul writes a personal letter to Timothy
+  - Written after Paul's 3rd missionary trip, mid-60 AD
+  - Timothy traveled with Paul on some of his missionary trips
+  - Timothy was with Paul during his 1st imprisonment
 
-- A personal letter to Timothy by Paul
-- Instructions concerning the care of the church
-- Written to Timothy concerning the church at Ephesus, during a 4th missionary trip
-- Timothy traveled with Paul of some of his missions
-- Was with Paul during his 1st imprisonment
-- Paul had high regard for Timothy ... name him co-sender of six of his letters
-- Timothy was not an apostle
-- A problem at the Ephesus church was (1) Gnosticism (ancient pseudo-religion) (2) Judaism and (3) Asceticism (spiritual goals such as abstinence from worldly pleasures)
-- Theme:
-  1. God the Savior
-  2. Doctrine
-  3. Godliness
-  4. Controversies
-  5. Trustworthy sayings
+#### Purpose:
+  - Addressing false teachers in the church
+  - Instructions on how a church should operate
 
-#### Verses
-New:
-- `6:7-8` - brought into the world with nothing, will leave with nothing. 6:8 - If we have food and clothing be content
-- `6:11` But as for you, man of God, flee these things. Pursue righteousness, godliness, faith, love, steadfastness, gentleness.
-
+#### Chapters (6):
+  - `1` Fight false doctrine, Law for the disobedient, Christ came to save sinners
+  - `2` Pray for all people, God wants all men to be saved, Women's roles and behavior
+  - `3` Requirements for Elders and Deacons
+  - `4` Some will be deceived, train yourself to be godly
+  - `5` Provide for your family, Honor Elders
+  - `6` Warning about bad teachers, Pursue righteousness, Rich ready to share
 
 ### [2 Timothy (4)](Paul%20to%20People/2%20timothy)
 
-- Pastoral letter
-- Paul wrote this letter, his last letter shortly before his death
-- After 4th missionary trip, in prison (Acts 28), in a cold dungeon
-- Knew his work and life were basically done
+#### Background:
+- Paul writes a 2nd and his most personal letter to Timothy
+- Wrote letter during his 2nd imprisonment in Rome, ~ 64-65 AD,
+- Paul knew his work and life were coming to an end
 
+#### Purpose:
+- Encouraging Timothy to continue in faithfulness
+
+#### Chapters (4):
+
+- `1` Spirit not of fear, Saved for a Holy Life
+- `2` Avoid foolish discussion, able to teach, not quarrelsome, always be kind
+- `3` Godless people, Godly life will be persecuted, Scripture is God-breathed
+- `4` Bad doctrine
 
 ### [Titus (3)](Paul%20to%20People/titus)
-- Paul wrote this letter
-- Pastoral letter
-- Written to Titus, helper in Paul’s ministry, a Gentile
-- Titus was given lots of assignments during the founding of the Church
+
+#### Background:
+- Paul wrote this pastoral letter to Titus, a co-worker who was a Gentile
+- Written after Paul's 3rd missionary trip, mid-60 AD
 - Crete was an island that Paul introduced Christianity to, along with Titus
 - Titus stayed behind to continue working at Crete
-- Crete people were known for their dishonesty, gluttony, and laziness
 
+#### Purpose:
+- Instructions on how the church should operate
+- Instructions on how one should live
 
-#### Verses
-- `Titus 3:5` he saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit
-- `Titus 3:7` so that, having been justified by his grace, we might become heirs having the hope of eternal life.
+#### Chapters (3):
+- `1` Elder qualification, False teachers
+- `2` How to Live, God's Grace changes us
+- `3` How to behave, He saved us, Avoid foolish discussions
 
 ### [Philemon (1)](Paul%20to%20People/philemon)
-- A letter was written by Paul to Philemon (only individual letter written by Paul in NT)
-- Philemon is a believer and a slave owner
-- One of his slaves, Onesimus (O.nes.a.mus), stole from him and ran away.
+
+#### Background
+
+- Paul writes a letter to a wealthy Christian named Philemon who is a slave owner
+- Written during Paul's house arrest in Rome, ~ 62 AD
+- One of Philemon slaves, Onesimus (O.nes.a.mus), stole from him and ran away.
 - This is punishable by death
-- Paul meets Onesimus, who becomes a Christian
+- Onesimus meets Paul while visiting him in prison and becomes a believer
+
+#### Purpose
+
+- Paul asks Philemon to accept Onesimus as a brother
+
+#### Chapters (1)
+- `1` Accept Onesimus as a brother
+
 
 ## [General Letters (8)](/category/general-letters)
 
