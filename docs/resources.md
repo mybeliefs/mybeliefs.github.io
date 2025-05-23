@@ -10,11 +10,13 @@ The following is list of resources used in my study of scripture and apologetics
 ## Sites
 
 - https://bibleproject.com/
-  - [How To Read the Bible podcast](https://bibleproject.com/podcast/series/how-to-read-the-bible-series/)
+  - [How To Read the Bible podcast](https://bibleproject.com/podcast/series/)
+  - [New Testament Overview](https://bibleproject.com/videos/new-testament-overview/)
 - https://www.gotquestions.org/
   - [66 books summary](https://www.gotquestions.org/66-books-of-the-Bible.html)
 - https://www.bibleref.com/ - Online Bible Commentary
   - [Books summaries](https://www.bibleref.com/Book-Summaries.html)
+  - [What is the Gospel](https://www.bibleref.com/The-Gospel.html)
 - https://www.reasonablefaith.org/
 
 ### Misc
