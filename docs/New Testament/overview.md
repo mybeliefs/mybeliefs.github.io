@@ -343,15 +343,49 @@ New:
 
 
 ### [1 Peter (5)](General%20Letters/1%20peter)
-- Peter the author; might have used Silas to record the letter (i.e. better grammar)
-- Writing to those dispersed throughout modern-day Turkey
-- Series of exhortations
+
+#### Background:
+
+- Peter wrote this letter to Christians who had been dispersed throughout Asia Minor (modern-day Turkey)
+- Wrote from Rome in the early 60s AD
+- Fled Jerusalem, after escaping from King Herod in the early 40s AD
+- He was martyred in Rome under Emperor Nero in the mid 60s AD
+- Written to both Jews and Gentiles, although his ministry focus was primarily on Jews
+
+#### Purpose:
+
+- Writes to encourage Christians **suffering persecution**
+
+#### Chapters (5):
+
+1. We have Hope, Be Holy, Love one another
+2. Live holy lives, Submit to authority, Suffering for doing good
+3. Wives' behavior, Husband's behavior, Don't repay evil with evil, Always ready to share hope with gentleness
+4. Expect suffering, Be self-controlled, Love each other, Use gifts to serve
+5. Elders are to shepherd, Cast our anxiety on him
+
 
 ### [2 Peter (3)](General%20Letters/2%20peter)
-- Peter the author
-- Written near the end of his life
-- Some similarities with Jude (maybe Jude borrow some of the content, or used the same source)
-- 1st letter dealt with opposition from the outside. This 2nd letter focuses on opposition from within -- false teachers
+
+#### Background:
+
+- Peter wrote this letter to the churches in Asia Minor
+- Wrote from Rome in the mid 60s AD, not long before his death by execution
+- Likely wrote the letter from prison
+- He was aware that he was going to die soon
+- Written to both Jews and Gentiles
+- The letter had a different style than 1st Peter
+
+#### Purpose:
+
+- Writes to encourages followers to live **holy lives**
+- Addresses **false teachers**
+
+#### Chapters (3):
+
+1. Live with Godliness, Supplement your faith with Holiness
+2. False Teachers, God will judge
+3. Scoffers will come, God is patient not wanting anyone to perish, Live holy
 
 
 ### [1 John (5)](General%20Letters/1%20john)
