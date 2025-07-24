@@ -137,7 +137,7 @@ None.
 
 ### Ch 2
 
-> Live holy lives, Submit to authority, Can suffer for doing good
+> Live holy lives, Submit to authority, Suffering for doing good
 
 - `Summary`:
   - Put away all sin
@@ -156,7 +156,7 @@ None.
   - committed no sin `22`
   - continued entrusting himself to him who judges justly `23`
   - He himself bore our sins in his body on the tree, so that we might die to sins and live for righteousness `24`
-  - We were straying like sheepy `25`
+  - We were straying like sheep `25`
 
 ### Ch 3
 
@@ -185,7 +185,7 @@ None.
   - Should always love one another, using our gifts to serve
 - Like Christ who **suffered**, we must be ready to suffer `1`
   - ... living for the will of God `2`
-  - For the time is pasted for doing what the Gentiles want to do, living in sensuality, passions, drunkenness, orgies,... `3`
+  - For the time is past for doing what the Gentiles want to do, living in sensuality, passions, drunkenness, orgies,... `3`
 - .. therefore be **self-controlled** and sober-minded for the sake of your prayers `7`
 - Keep **loving each other**, love covers over a multitude of sins `8`
   - Show hospitality to one another without grumbling `9`

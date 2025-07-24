@@ -9,9 +9,6 @@ title: 2nd Peter
 - https://www.esv.org/2peter/
 - https://www.bibleref.com/2-peter/
 
-TODO:
-- [ ] Update overview
--
 ## Overview
 
 ### Outline

@@ -109,7 +109,7 @@ None.
 
 - `Elders (5-9)`:
     - appointing elders `5`
-    - bove reproach, husband of 1 wife, children are believers and not open to the charge of debauchery or insubordination `6`
+    - above reproach, husband of 1 wife, children are believers and not open to the charge of debauchery or insubordination `6`
     - Not arrogant or quick-tempered or a drunkard or violent or greedy for gain `7`
     - hospitable, lover of good, self-controlled, upright, holy, and disciplined `8`
     - Hold firm to the trustworthy word as taught, so that he may be able to give instruction in sound doctrine and rebuke those who contradict it `9`
@@ -148,10 +148,10 @@ None.
 - `How to behave (1-3)`:
   - Be subject to rulers and authorities `1`
   - Speak evil of no one, avoid quarreling, be gentle, and show perfect courtesy to all people `2`
-  - We once were foolish, disobedient, etc. enslaved `3`
+  - We once were foolish, disobedient, enslaved, etc. `3`
 - `He saved us (5-7)`:
    - He saved us, not because of the righteous things we had done, but because of <ins>his mercy</ins>. `5`
-   - so that, having been justified by his grace, we might become heirs having the <ins>hope of eternal life</ins>. `7`
+   - So that, having been justified by his grace, we might become heirs having the <ins>hope of eternal life</ins>. `7`
 - `Avoid foolish discussions (9-10)`:
   - Avoid foolish controversies. `9`
   - Warn a divisive person `10`
