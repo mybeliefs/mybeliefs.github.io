@@ -325,21 +325,29 @@ New:
 
 
 ### [James (5)](General%20Letters/james)
-- Mostly likely the oldest brother of Jesus (not the apostle); Jesus had many brothers
-- Did not believe in Jesus at first
-- James was an important leader of the early Church
-- Still mostly Jews as believers
-- Might be the earliest(40-50 A.D.) of all the NT writing (except for Galatians)
-- Jewish in nature
-- Similar to OT wisdom writings such as Proverbs
 
-#### Verses
+#### Background:
 
-- `James 1:19-20` Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger; 20 for the anger of man does not produce the righteousness of God. (ESV)
-- `James 3:8-10` but no human being can tame the tongue. It is a restless evil, full of deadly poison. 9 With it we bless our Lord and Father, and with it we curse people who are made in the likeness of God. 10 From the same mouth come blessing and cursing. My brothers, these things ought not to be so. (ESV)
+- Written by James (aka Jacob), the half-brother of Jesus.
+- Written to Christians (mostly Jewish) living outside of Palestine.
+- Written around 40-50 AD (might be the earleist book, or Galatians).
+- Similar to OT wisdom writings such as Proverbs.
+- James
+  - did not believe in Jesus at first
+  - was an important leader of the early Church
+  - died in 62 AD as a martyr for the faith
 
-New:
-- `James 1:26-27` If anyone considers himself religious and yet does not keep a tight rein on his tongue, he deceives himself and his religion is worthless. 27 Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself from being polluted by the world
+#### Purpose:
+
+- Provide instructions on how to live out the Christian faith
+
+#### Chapters (5):
+
+- `1` Ask for wisdom, quick to listen and slow to speak, be doers of the word, control your tongue
+- `2` Faith apart from works is dead
+- `3` Controlling the Tongue, Wisdom from above
+- `4` Ask with wrong motives, Draw near to God, Do not speak evil of other believers, All boasting is evil
+- `5` Let your yes be yes, Trouble pray, Happy sing
 
 
 ### [1 Peter (5)](General%20Letters/1%20peter)
