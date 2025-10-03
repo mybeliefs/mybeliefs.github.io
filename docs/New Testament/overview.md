@@ -398,34 +398,61 @@ New:
 
 ### [1 John (5)](General%20Letters/1%20john)
 
-- John (son of Zebedee); also wrote 2 & 3 John, the gospel of John, and Revelations
-- Was an apostle; previously was a fisherman
-- The letter is directed toward believers
-- Addressing the early form of Gnostic teaching
-    - Spirit is good; matter is entirely evil (i.e. the body)
-    - Salvation is to escape the body, through special knowledge
-    - Christ was not really a man
-    - Lead to throwing off all moral restraints
+#### Background:
+
+- John the apostle wrote this letter; he also wrote 2 & 3 John, the gospel of John, and Revelation
+- Written sometime between 80 and 95 AD
+- Addressing false teachers
+
+#### Purpose:
+
+- Instructions for believers to keep his commands and love one another
+
+#### Chapters (5):
+
+1. Can not walk in the dark; Jesus cleanses us from sin; If we confess he forgives
+2. If we know him then we keep his commands; Do not love the world
+3. Do not sin; Love one another
+4. Always test the Spirits; God is Love; Whoever loves God must also love his brother
+5. Keep his commandments; Ask according to his will; Anyone born of God does not keep sinning
+
 
 #### Verses
 
 - `1 John 1:9-10` If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. 10 If we say we have not sinned, we make him a liar, and his word is not in us. (ESV)
 - `1 John 3:18` Little children, let us not love in word or talk but in deed and in truth. (ESV)
 - `1 John  3: 23` And this is his commandment, that we believe in the name of his Son Jesus Christ and love one another, just as he has commanded us. (ESV)
-
-New:
 - `1 John 2:15-17` Don’t love the world’s ways. Don’t love the world’s goods. Love of the world squeezes out love for the Father. Practically everything that goes on in the world—wanting your own way, wanting everything for yourself, wanting to appear important—has nothing to do with the Father. It just isolates you from him. The world and all its wanting, wanting, wanting is on the way out—but whoever does what God wants is set for eternity. (The Message)
 
 ### [2 John (1)](General%20Letters/2%20john)
 
-- John the author
-- Do not abide in the teachings of Christ do not have God
+#### Background:
+
+- John is the author
+- Addressing conflicts between followers of Jesus and those denying that he rose from the dead
+
+
+#### Purpose:
+- Instructions not to support "deceivers" of the gospel
+
+#### Chapters (1):
+
+- `1` Love one another, Walk according to His commands, Many deceivers have gone out into the world
 
 ### [3 John (1)](General%20Letters/3%20john)
 
+#### Background:
+
 - John the author
-- Teachers sent out by John were rejected by a dictatorial leader named Diotrephes (Die.ot.tra.phe)
-- The letter is written to encourage Gaius a supporter of John
+- Encourages Gaius (guy.us) in his walk and acceptance of traveling teachers
+- Speaks against Diotrephes (Die.ot.tra.phee), a prideful leader of one of the house churches
+
+#### Purpose:
+- Praises Gaius as a leader and speaks against Diotrephes for rejecting teachers
+
+#### Chapters (1):
+
+- `1` Support people in ministry, Do not imitate what is evil but what is good
 
 ### [Jude (1)](General%20Letters/jude)
 
@@ -436,7 +463,7 @@ New:
 - Uses OT and other Jewish literature to demonstrate how rebellious people/leaders receive divine judgment
 
 ## [Prophecy (1)](/category/prophecy)
-### [Relations (22)](Prophecy/revelation#overview)
+### [Revelation (22)](Prophecy/revelation#overview)
 
 - John the Apostle
 - Written when Christians were entering a time of persecution

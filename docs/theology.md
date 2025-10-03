@@ -12,6 +12,17 @@ TBD.
   - *"Fully loving God and obeying the Great Commandment requires actively engaging the mind in the pursuit of truth."*
 - https://www.gotquestions.org/Christian-theology.html
 
+## Bible Books based on Difficulty
+
+![Books ordered based on difficulty](./_assets/BooksOfTheBible.png "Books ordered based on difficulty")
+
+| Difficulty | Books (Top Row) | Books (Bottom Row) |
+|---|---|---|
+| **Easy**<br/>read in one sitting! | Titus, Philemon, James, 1 Peter, 2 Peter, 2 John, 3 John, Jude | Mark, Proverbs, Galatians, Ephesians, Philippians, Colossians, 1 Timothy, 2 Timothy |
+| **Medium**<br/>lots of info but makes sense | John, Acts, Romans, 1 Corinth., 2 Corinth., 1 Thess., 2 Thess., Habak., 1 John | Genesis, Exodus, Psalms, Ecclesiastes, SOS, Obadiah, Jonah, Matthew, Luke |
+| **Hard**<br/>difficult to understand | Hosea, Joel, Amos, Micah, Nahum, Zeph., Haggai, Zech., Malachi | Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, Esther, Job, Isaiah, Lament., Daniel |
+| **Expert**<br/>long, full of hidden meaning | Jeremiah, Ezekiel, Hebrews, Revelation | Leviticus, Numbers, Deut., 1 Kings, 2 Kings, 1 Chron., 2 Chron., Ezra, Nehemiah |
+
 ## Questions
 Capture theology based questions.
 
