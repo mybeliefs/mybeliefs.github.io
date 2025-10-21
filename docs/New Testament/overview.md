@@ -99,24 +99,57 @@ New:
 ## [History (1)](/category/early-church)
 
 ### [Acts (28)](History/acts)
+
+> **Covers** the first 30 years of the church — from Jesus’s ascension (33 AD) to Paul’s first imprisonment in Rome (62 AD)
+
+- `1-7`: Ascension, Holy Spirit, Signs and Wonders, New Believers, Stephen death
+> message spreading in Jerusalem
+
+  - `1` Witnesses ... to the ends of the earth, ascension of Jesus
+  - `2` They are filled with the Holy Spirit
+  - `3` Heals a lame man, tells the crowd to repent
+  - `4` Preach with authority, share everything in common
+  - `5` Signs and Wonders, preach that the Christ is Jesus
+  - `6` Accuse Stephen of false charges
+  - `7` Stephen presents the history of Israel, is stoned to death
+- `8-12`: Conversion of Paul, Peter healings, Acceptance of Gentiles, Peter freed from prison
+> message spreading in regions of Judea and Samaria full of non-Jewish people
+
+  - `8` Philip preaches to the Samaritans, Simon the Magician believes, Philip and the Eunuch
+  - `9` Conversion of Saul, Peter performs many healings
+  - `10` Cornelius and Peter, the gospel now spreads to Gentiles and they also receive the Holy Spirit
+  - `11` Acceptance of Gentile believers, Paul begins his work
+  - `12` Persecution, Angle frees Peter from prison, Herod struck down by an Angle
+
+- `13-20`: Paul's 3 missionary trips, the Jesusalem Council
+> message now spreading out to the nations
+
+  - `13` 1st missionary trip, Paul and Barnabas set apart, Speaking in the Synagogue, Focus on Gentiles going forward
+  - `14` 1st missionary trip continues, Paul and Barnabas preaching, Locals think they are gods, Paul stoned, continue preaching
+  - `15` The Jerusalem Council
+  - `16` 2nd missionary trip, Timothy joins Paul, Expels a demon from a girl and then gets thrown in Prison, Jailer converts
+  - `17` 2nd missionary trip continues - Thessalonica, Berea, Athens
+  - `18` 2nd missionary trip continues - goes to Corinth, Apollos becomes a powerful preacher
+  - `19` 3rd Missionary trip, lots of miracles, a disturbance from a silversmith
+  - `20` 3rd missinary trip continues, traveling while facing hardship
+
+- `21-28`: Paul's arrest and trip to Rome
+> was in prison for 5 years, 2 of those years in Rome
+
+  - `21` Paul goes to Jerusalem, Visits James, Riot breaks out, Arrested
+  - `22` Paul retells his story, tells the crowd sent to the Gentiles, they want to kill him
+  - `23` Plot to kill Paul, sent at night to the safety of Governor Felix
+  - `24` Paul's trial before Governor Felix in Caesarea, left in prison for 2 years
+  - `25` Paul before new Governor Festus, Paul requests to appeal to Cesear
+  - `26` Paul tells his story to King Agrippa
+  - `27` Paul sails for Rome and is shipwrecked
+  - `28` Paul in Malta for 3 months, Paul in Rome under house arrest
+
 #### Background:
   - The author is Luke, a non-Jewish doctor
   - Written before Paul's death, Mid-60 AD
   - Luke traveled with Paul
   - Written for Theophilus (thee.aw.p.lus)
-
-#### Purpose:
-  - Captures the first 30 years of the church (Jesus's ascension in 33 AD to Paul's 1st imprisonment in Rome in 62 AD)
-
-#### Chapters (28):
-  - `1-7` Ascension, Holy Spirit, Signs and Wonders, New Believers, Stephen death
-     - message spreading in Jerusalem
-  - `8-12` Conversion of Paul, Peter healings, Acceptance of Gentiles, Peter freed from prison
-     - message spreading in regions of Judea and Samaria full of non-Jewish people
-  - `13-20` Paul's 3 missionary trips, the Jerusalem Council (`15`)
-     - message now spreading out to the nations
-  - `21-28` Paul's arrest and trip to Rome
-     - was in prison for 5 years, 2 of those years in Rome
 
 ## [Paul's Letters to Churches (9)](/category/pauls-letters-to-churches)
 
@@ -231,42 +264,43 @@ New:
 ## [Paul's Letters to People (4)](/category/pauls-letters-to-people)
 
 ### [1 Timothy (6)](Paul%20to%20People/1%20timothy)
+
+> **Instructs** Timothy to address false teachers and how the church should operate
+
+- `1` Fight false doctrine, Law for the disobedient, Christ came to save sinners
+- `2` Pray for all people, God wants all men to be saved, Women's roles and behavior
+- `3` Requirements for Elders and Deacons
+- `4` Some will be deceived, train yourself to be godly
+- `5` Provide for your family, Honor Elders
+- `6` Warning about bad teachers, Pursue righteousness, Rich ready to share
+
 #### Background:
   - Paul writes a personal letter to Timothy
   - Written after Paul's 3rd missionary trip, mid-60 AD
   - Timothy traveled with Paul on some of his missionary trips
   - Timothy was with Paul during his 1st imprisonment
 
-#### Purpose:
-  - Addressing false teachers in the church
-  - Instructions on how a church should operate
-
-#### Chapters (6):
-  - `1` Fight false doctrine, Law for the disobedient, Christ came to save sinners
-  - `2` Pray for all people, God wants all men to be saved, Women's roles and behavior
-  - `3` Requirements for Elders and Deacons
-  - `4` Some will be deceived, train yourself to be godly
-  - `5` Provide for your family, Honor Elders
-  - `6` Warning about bad teachers, Pursue righteousness, Rich ready to share
-
 ### [2 Timothy (4)](Paul%20to%20People/2%20timothy)
 
-#### Background:
-- Paul writes a 2nd and his most personal letter to Timothy
-- Wrote letter during his 2nd imprisonment in Rome, ~ 64-65 AD,
-- Paul knew his work and life were coming to an end
-
-#### Purpose:
-- Encouraging Timothy to continue in faithfulness
-
-#### Chapters (4):
+> **Encourages** Timothy to remain faithful in ministry
 
 - `1` Spirit not of fear, Saved for a Holy Life
 - `2` Avoid foolish discussion, able to teach, not quarrelsome, always be kind
 - `3` Godless people, Godly life will be persecuted, Scripture is God-breathed
 - `4` Bad doctrine
 
+#### Background:
+- Paul writes a 2nd and his most personal letter to Timothy
+- Wrote letter during his 2nd imprisonment in Rome, ~ 64-65 AD,
+- Paul knew his work and life were coming to an end
+
 ### [Titus (3)](Paul%20to%20People/titus)
+
+> **Instructs** Titus on proper church order and conduct
+
+- `1` Elder qualification, False teachers
+- `2` How to Live, God's Grace changes us
+- `3` How to behave, He saved us, Avoid foolish discussions
 
 #### Background:
 - Paul wrote this pastoral letter to Titus, a co-worker who was a Gentile
@@ -274,16 +308,11 @@ New:
 - Crete was an island that Paul introduced Christianity to, along with Titus
 - Titus stayed behind to continue working at Crete
 
-#### Purpose:
-- Instructions on how the church should operate
-- Instructions on how one should live
-
-#### Chapters (3):
-- `1` Elder qualification, False teachers
-- `2` How to Live, God's Grace changes us
-- `3` How to behave, He saved us, Avoid foolish discussions
-
 ### [Philemon (1)](Paul%20to%20People/philemon)
+
+> **Encourages** Philemon to receive Onesimus as a brother
+
+- `1` Accept Onesimus as a brother
 
 #### Background
 
@@ -292,14 +321,6 @@ New:
 - One of Philemon slaves, Onesimus (O.nes.a.mus), stole from him and ran away.
 - This is punishable by death
 - Onesimus meets Paul while visiting him in prison and becomes a believer
-
-#### Purpose
-
-- Paul asks Philemon to accept Onesimus as a brother
-
-#### Chapters (1)
-- `1` Accept Onesimus as a brother
-
 
 ## [General Letters (8)](/category/general-letters)
 
@@ -326,6 +347,14 @@ New:
 
 ### [James (5)](General%20Letters/james)
 
+> **Instructs** believers on how to live out the Christian faith
+
+- `1` Ask for wisdom, quick to listen and slow to speak, be doers of the word, control your tongue
+- `2` Faith apart from works is dead
+- `3` Controlling the Tongue, Wisdom from above
+- `4` Ask with wrong motives, Draw near to God, Do not speak evil of other believers, All boasting is evil
+- `5` Let your yes be yes, Trouble pray, Happy sing
+
 #### Background:
 
 - Written by James (aka Jacob), the half-brother of Jesus.
@@ -337,11 +366,10 @@ New:
   - was an important leader of the early Church
   - died in 62 AD as a martyr for the faith
 
-#### Purpose:
 
-- Provide instructions on how to live out the Christian faith
+### [1 Peter (5)](General%20Letters/1%20peter)
 
-#### Chapters (5):
+> **Instructs** believers on how to live out the Christian faith
 
 - `1` Ask for wisdom, quick to listen and slow to speak, be doers of the word, control your tongue
 - `2` Faith apart from works is dead
@@ -349,31 +377,25 @@ New:
 - `4` Ask with wrong motives, Draw near to God, Do not speak evil of other believers, All boasting is evil
 - `5` Let your yes be yes, Trouble pray, Happy sing
 
-
-### [1 Peter (5)](General%20Letters/1%20peter)
-
 #### Background:
 
-- Peter wrote this letter to Christians who had been dispersed throughout Asia Minor (modern-day Turkey)
-- Wrote from Rome in the early 60s AD
-- Fled Jerusalem, after escaping from King Herod in the early 40s AD
-- He was martyred in Rome under Emperor Nero in the mid 60s AD
-- Written to both Jews and Gentiles, although his ministry focus was primarily on Jews
-
-#### Purpose:
-
-- Writes to encourage Christians **suffering persecution**
-
-#### Chapters (5):
-
-1. We have Hope, Be Holy, Love one another
-2. Live holy lives, Submit to authority, Suffering for doing good
-3. Wives' behavior, Husband's behavior, Don't repay evil with evil, Always ready to share hope with gentleness
-4. Expect suffering, Be self-controlled, Love each other, Use gifts to serve
-5. Elders are to shepherd, Cast our anxiety on him
+- Written by James (aka Jacob), the half-brother of Jesus.
+- Written to Christians (mostly Jewish) living outside of Palestine.
+- Written around 40-50 AD (might be the earleist book, or Galatians).
+- Similar to OT wisdom writings such as Proverbs.
+- James
+  - did not believe in Jesus at first
+  - was an important leader of the early Church
+  - died in 62 AD as a martyr for the faith
 
 
 ### [2 Peter (3)](General%20Letters/2%20peter)
+
+> **Encourages** Christians to pursue holy living
+
+- `1` Live with Godliness, Supplement your faith with Holiness
+- `2` False Teachers, God will judge
+- `3` Scoffers will come, God is patient not wanting anyone to perish, Live holy
 
 #### Background:
 
@@ -384,38 +406,22 @@ New:
 - Written to both Jews and Gentiles
 - The letter had a different style than 1st Peter
 
-#### Purpose:
-
-- Writes to encourages followers to live **holy lives**
-- Addresses **false teachers**
-
-#### Chapters (3):
-
-1. Live with Godliness, Supplement your faith with Holiness
-2. False Teachers, God will judge
-3. Scoffers will come, God is patient not wanting anyone to perish, Live holy
-
 
 ### [1 John (5)](General%20Letters/1%20john)
+
+> **Instructs** believers to keep God’s commands and love one another
+
+- `1` Can not walk in the dark; Jesus cleanses us from sin; If we confess he forgives
+- `2` If we know him then we keep his commands; Do not love the world
+- `3` Do not sin; Love one another
+- `4` Always test the Spirits; God is Love; Whoever loves God must also love his brother
+- `5` Keep his commandments; Ask according to his will; Anyone born of God does not keep sinning
 
 #### Background:
 
 - John the apostle wrote this letter; he also wrote 2 & 3 John, the gospel of John, and Revelation
 - Written sometime between 80 and 95 AD
 - Addressing false teachers
-
-#### Purpose:
-
-- Instructions for believers to keep his commands and love one another
-
-#### Chapters (5):
-
-1. Can not walk in the dark; Jesus cleanses us from sin; If we confess he forgives
-2. If we know him then we keep his commands; Do not love the world
-3. Do not sin; Love one another
-4. Always test the Spirits; God is Love; Whoever loves God must also love his brother
-5. Keep his commandments; Ask according to his will; Anyone born of God does not keep sinning
-
 
 #### Verses
 
@@ -426,33 +432,26 @@ New:
 
 ### [2 John (1)](General%20Letters/2%20john)
 
+> **Instructs** believers not to support deceivers of the gospel
+
+- `1` Love one another, Walk according to His commands, Many deceivers have gone out into the world
+
 #### Background:
 
 - John is the author
 - Addressing conflicts between followers of Jesus and those denying that he rose from the dead
 
-
-#### Purpose:
-- Instructions not to support "deceivers" of the gospel
-
-#### Chapters (1):
-
-- `1` Love one another, Walk according to His commands, Many deceivers have gone out into the world
-
 ### [3 John (1)](General%20Letters/3%20john)
+
+> **Praises** Gaius for faithful leadership and speaks against Diotrephes a trouble maker
+
+- `1` Support people in ministry, Do not imitate what is evil but what is good
 
 #### Background:
 
 - John the author
 - Encourages Gaius (guy.us) in his walk and acceptance of traveling teachers
 - Speaks against Diotrephes (Die.ot.tra.phee), a prideful leader of one of the house churches
-
-#### Purpose:
-- Praises Gaius as a leader and speaks against Diotrephes for rejecting teachers
-
-#### Chapters (1):
-
-- `1` Support people in ministry, Do not imitate what is evil but what is good
 
 ### [Jude (1)](General%20Letters/jude)
 

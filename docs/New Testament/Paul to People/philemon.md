@@ -4,12 +4,13 @@ title: Philemon
 ---
 
 # Philemon
-- https://www.biblegateway.com/passage/?search=philemon&version=ESV
-- https://www.esv.org/philemon/
-- https://www.bibleref.com/philemon/
+https://www.esv.org/philemon/
 
 ## Overview
-### Outline
+
+> **Encourages** Philemon to receive Onesimus as a brother
+
+- `1` Accept Onesimus as a brother
 
 #### Background
 
@@ -19,12 +20,32 @@ title: Philemon
 - This is punishable by death
 - Onesimus meets Paul while visiting him in prison and becomes a believer
 
-#### Purpose
 
-- Paul asks Philemon to accept Onesimus as a brother
+## Chapters (1)
+https://www.biblegateway.com/passage/?search=philemon&version=ESV
 
-#### Chapters (1)
-- `1` Accept Onesimus as a brother
+### Ch 1
+
+> Accept Onesimus as a brother now
+
+- Philemon loves all of the saints `5`
+- Formerly Onesimus was useless to you `11`
+  - Sending him back to you `12`
+- Paul encourages Philemon to accept Onesimus as a brother now `16`
+- Paul tells Philemon to charge him if Onesimus owes him anything `18`
+
+
+## Observations
+
+- Accept all believers in spite of their background/past
+- The gospel changes lives
+    - Changes a thief
+    - Changes how different classes of people treat each other
+
+### Difficulties
+None.
+
+## Research
 
 ### ESV Introduction
 https://www.esv.org/resources/esv-global-study-bible/introduction-to-philemon/
@@ -65,27 +86,3 @@ https://www.bibleref.com/philemon
 - Considered 1 of the 4 Prison Epistles; includes Ephesians, Philippians, and Colossians
 - The church meet in Philemon's home
 - Runaway slaves could be put to death in the Roman Empire
-
-### Difficulties
-None.
-
-### Observations
-
-- Accept all believers in spite of their background/past
-- The gospel changes lives
-    - Changes a thief
-    - Changes how different classes of people treat each other
-
-
-## Chapters (1)
-
-
-### Ch 1
-
-> Accept Onesimus as a brother now
-
-- Philemon loves all of the saints `5`
-- Formerly Onesimus was useless to you `11`
-  - Sending him back to you `12`
-- Paul encourages Philemon to accept Onesimus as a brother now `16`
-- Paul tells Philemon to charge him if Onesimus owes him anything `18`

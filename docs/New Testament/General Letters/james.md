@@ -5,15 +5,18 @@ title: James
 
 # James
 
-
-- https://www.biblegateway.com/passage/?search=james&version=ESV
-- https://www.esv.org/james/
-- https://www.bibleref.com/james/
+https://www.esv.org/james/
 
 
 ## Overview
 
-### Outline
+> **Instructs** believers on how to live out the Christian faith
+
+- `1` Ask for wisdom, quick to listen and slow to speak, be doers of the word, control your tongue
+- `2` Faith apart from works is dead
+- `3` Controlling the Tongue, Wisdom from above
+- `4` Ask with wrong motives, Draw near to God, Do not speak evil of other believers, All boasting is evil
+- `5` Let your yes be yes, Trouble pray, Happy sing
 
 #### Background:
 
@@ -25,94 +28,6 @@ title: James
   - did not believe in Jesus at first
   - was an important leader of the early Church
   - died in 62 AD as a martyr for the faith
-
-#### Purpose:
-
-- Provide instructions on how to live out the Christian faith
-
-#### Chapters (5):
-
-- `1` Ask for wisdom, quick to listen and slow to speak, be doers of the word, control your tongue
-- `2` Faith apart from works is dead
-- `3` Controlling the Tongue, Wisdom from above
-- `4` Ask with wrong motives, Draw near to God, Do not speak evil of other believers, All boasting is evil
-- `5` Let your yes be yes, Trouble pray, Happy sing
-
-
-### ESV Introduction
-https://www.esv.org/resources/esv-global-study-bible/introduction-to-james/
-
-- Written by James, the brother of Jesus (Matt. 13:55)
-  - James was the leader of the Jerusalem church (Acts 15)
-- Written around 40-45 AD
-- To Christians living outside of Palestine
-  - Mostly Jewish Christians
-  - Suffering persecution and living in poverty
-  - Living in a worldly manner
-- The purpose was to be doers of God's word, not just hearers
-
-
-### Bible Project
-https://bibleproject.com/guides/book-of-james/
-
-**Background**
-- Written by Jesus' half-brother whose' name is Jacob.
-- Was a leader in the main church in Jerusalem, made up of messianic Jews.
-- The first Christian church.
-- The church experienced many difficulties (i.e., great poverty)
-- Was murdered about 62 AD
-- The book is a compilation of wisdom and proverbs-like sayings.
-- The book is influenced by the Sermon on the Mount (Matt. 5-7) and the book of Proverbs.
-
-**1: The Wisdom Jesus Offers**
-- God is on a mission to restore fractured people and make them whole.
-- God will give wisdom to people who ask for it in faith.
-- Hard times allow us to trust in the Father just as Jesus did.
-- Love our neighbor - speaking kindly, serving the poor, devoted to God.
-
-**2-5: Twelve Teachings on Devotion to Jesus**
-- Consists of short teachings
-- Don't show favoritism
-- Don't neglect the needs of the poor
-- Don't talk about people behind their backs
-- Don't have arrogance about wealth
-
-
-### Bible Ref
-https://www.bibleref.com/james
-
-- Tradition says James died in AD 62 as a martyr for the faith.
-- Written to Jewish Christians throughout the Roman Empire and beyond.
-- Written between 44 and 49 AD (might be the earliest-written book).
-- Contains many smaller teaching sections:
-  - enduring trails
-  - understand the power of temptation
-  - be doers of God's words
-  - faith by righteous actions
-  - wisdom and controlling one's words
-  - humility
-  - patience and pray
-
-#### Key Verses (ESV)
-
-- `James 1:2–3`: "Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness."
-- `James 1:19`: "Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger."
-- `James 2:17–18`: "So also faith by itself, if it does not have works, is dead. But someone will say, 'You have faith and I have works.' Show me your faith apart from your works, and I will show you my faith by my works."
-- `James 3:5`: "So also the tongue is a small member, yet it boasts of great things. How great a forest is set ablaze by such a small fire!"
-- `James 5:16`: "Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working."
-
-### Difficulties
-None.
-
-### Observations
-
-
-- Faith is not just a mental belief, an acceptance of the existence of a God.
-- God’s mercy toward us is reflected in our character, who we are, and what we do. His mercy and forgiveness show themselves in our actions.
-  - We control our tongue!
-  - We care about others who are less fortunate.
-- Spirituality/Wisdom is shown by how we live: peaceful, considerate, humble, etc.
-- Pray when we have trouble, and sing praise when we are happy.
 
 
 ## Chapters (5)
@@ -228,3 +143,83 @@ None.
   - The prayer of faith will save the one who is sick `15`
 - Confess your sins to one another and pray for each other. The prayer of a righteous person has great power `16`
 
+
+
+## Observations
+
+- Faith is not just a mental belief, an acceptance of the existence of a God.
+- God’s mercy toward us is reflected in our character, who we are, and what we do. His mercy and forgiveness show themselves in our actions.
+  - We control our tongue!
+  - We care about others who are less fortunate.
+- Spirituality/Wisdom is shown by how we live: peaceful, considerate, humble, etc.
+- Pray when we have trouble, and sing praise when we are happy.
+
+
+### Difficulties
+None.
+
+## Research
+https://www.biblegateway.com/passage/?search=james&version=ESV
+
+
+### ESV Introduction
+https://www.esv.org/resources/esv-global-study-bible/introduction-to-james/
+
+- Written by James, the brother of Jesus (Matt. 13:55)
+  - James was the leader of the Jerusalem church (Acts 15)
+- Written around 40-45 AD
+- To Christians living outside of Palestine
+  - Mostly Jewish Christians
+  - Suffering persecution and living in poverty
+  - Living in a worldly manner
+- The purpose was to be doers of God's word, not just hearers
+
+
+### Bible Project
+https://bibleproject.com/guides/book-of-james/
+
+**Background**
+- Written by Jesus' half-brother whose' name is Jacob.
+- Was a leader in the main church in Jerusalem, made up of messianic Jews.
+- The first Christian church.
+- The church experienced many difficulties (i.e., great poverty)
+- Was murdered about 62 AD
+- The book is a compilation of wisdom and proverbs-like sayings.
+- The book is influenced by the Sermon on the Mount (Matt. 5-7) and the book of Proverbs.
+
+**1: The Wisdom Jesus Offers**
+- God is on a mission to restore fractured people and make them whole.
+- God will give wisdom to people who ask for it in faith.
+- Hard times allow us to trust in the Father just as Jesus did.
+- Love our neighbor - speaking kindly, serving the poor, devoted to God.
+
+**2-5: Twelve Teachings on Devotion to Jesus**
+- Consists of short teachings
+- Don't show favoritism
+- Don't neglect the needs of the poor
+- Don't talk about people behind their backs
+- Don't have arrogance about wealth
+
+
+### Bible Ref
+https://www.bibleref.com/james
+
+- Tradition says James died in AD 62 as a martyr for the faith.
+- Written to Jewish Christians throughout the Roman Empire and beyond.
+- Written between 44 and 49 AD (might be the earliest-written book).
+- Contains many smaller teaching sections:
+  - enduring trails
+  - understand the power of temptation
+  - be doers of God's words
+  - faith by righteous actions
+  - wisdom and controlling one's words
+  - humility
+  - patience and pray
+
+#### Key Verses (ESV)
+
+- `James 1:2–3`: "Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness."
+- `James 1:19`: "Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger."
+- `James 2:17–18`: "So also faith by itself, if it does not have works, is dead. But someone will say, 'You have faith and I have works.' Show me your faith apart from your works, and I will show you my faith by my works."
+- `James 3:5`: "So also the tongue is a small member, yet it boasts of great things. How great a forest is set ablaze by such a small fire!"
+- `James 5:16`: "Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working."

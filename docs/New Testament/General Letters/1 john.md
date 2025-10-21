@@ -5,129 +5,23 @@ title: 1st John
 
 # 1st John
 
-- https://www.biblegateway.com/passage/?search=1john&version=ESV
-- https://www.esv.org/1john/
-- https://www.bibleref.com/1-john/
+https://www.esv.org/1john/
 
 ## Overview
 
-### Outline
+> **Instructs** believers to keep God’s commands and love one another
+
+- `1` Can not walk in the dark; Jesus cleanses us from sin; If we confess he forgives
+- `2` If we know him then we keep his commands; Do not love the world
+- `3` Do not sin; Love one another
+- `4` Always test the Spirits; God is Love; Whoever loves God must also love his brother
+- `5` Keep his commandments; Ask according to his will; Anyone born of God does not keep sinning
 
 #### Background:
 
 - John the apostle wrote this letter; he also wrote 2 & 3 John, the gospel of John, and Revelation
 - Written sometime between 80 and 95 AD
 - Addressing false teachers
-
-#### Purpose:
-
-- Instructions for believers to keep his commands and love one another
-
-#### Chapters (5):
-
-1. Can not walk in the dark; Jesus cleanses us from sin; If we confess he forgives
-2. If we know him then we keep his commands; Do not love the world
-3. Do not sin; Love one another
-4. Always test the Spirits; God is Love; Whoever loves God must also love his brother
-5. Keep his commandments; Ask according to his will; Anyone born of God does not keep sinning
-
-### ESV Introduction
-https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-3-john/
-
-- Written by John, son of Zebedee, also wrote the gospel of John and Revelation
-- Date written no later than the 90s AD
-- Wrote most likely from Ephesus (Ephesus was an important port city in the Roman province of Asia)
-- Theme: True doctrine, Obedient living, and Faithful devotion
-
-### Bible Project
-https://bibleproject.com/guides/books-of-1-3-john/
-
-**Background**
-
-- Same person who wrote the Gospel and the other letters. The style is identical.
-  - Could be John, son of Zebedee, one of the 12 twelve, or another John later known as the "Elder"
-- Is now old and overseeing a network of house churches
-- House churches made up mostly of Jewish followers
-- A group of people has broken off from these churches and no longer acknowledges Jesus as Israel's Messiah
-
-**1:1-4: The Word of Life**
-
-- Introduction similar to John 1:1-18
-- Themes of Genesis 1 and Proverbs 8
-
-**1:5-3:10: Walking in the Light of Jesus**
-
-- Jesus is light
-- Thus, we need to walk in the light, meaning that we are to keep His commands
-- We are to love one another
-- Are told not to love this world
-- Warns about the people who have left and are denying Jesus as the Messiah
-
-**3:11-5:17: God Is Love**
-- We should love each other and avoid hate
-- If anyone claims to speak for God but doesn't focus on Jesus, they don't speak for him
-- God's love should ground our whole life
-
-**5:18-21: God and Jesus as One**
-
-- To know Jesus is to know God.
-
-**Video**
-
-https://thebibleproject.com/explore/1-3-john/
-
-- Overseeing house churches
-    - Made up of Jewish followers
-    - Going through a crisis
-- Not a letter, more of a sermon
-- Based on the teachings from the gospel of John
-- Lots of hyperbole
-- God is LIGHT. God is LOVE
-- GOD = FATHER and the SON
-- (1) GOD is LIGHT
-    - Keep Jesus' commands
-    - When we fail, He forgives us
-    - Love one another
-    - Don’t love the world; pride and sexual sin
-    - We show in the family by doing righteousness
-- (2) GOD is LOVE
-    - Does away with fear
-    - Comes by trusting God
-    - Jesus is GOD
-    - Keep away from Idols
-
-### Bible Ref
-https://www.bibleref.com/1-john
-
-- The apostle John is the author. External evidence from early church fathers
-- Dealing with problems of false teachers
-- Develops the themes of fellowship
-- Written sometime between 80 and 95 AD
-
-#### Key Verses
-- `1 John 1:9`: “If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.”
-- `1 John 3:6`: “No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him.”
-- `1 John 4:4`: “Little children, you are from God and have overcome them, for he who is in you is greater than he who is in the world.”
-- `1 John 5:13`: “I write these things to you who believe in the name of the Son of God that you may know that you have eternal life.”
-
-### Difficulties
-- Ch `2 v27`. "and you have no need that anyone should teach you." [ESV]. The NLT states "But you have received the Holy Spirit, and he lives within you, so you don’t need anyone to teach you what is true."
-  - Talks about not needing a teacher because anointed by Christ. How does this apply to pastors in a church preaching on Sunday?
-  - Maybe referring to the ability to know right from wrong. John himself is being a teacher.
-
-## Observations
-
-- Knowing Christ, a person will not keep on sinning, making a practice of it. A real believer will seek righteousness ... to be like Christ.
-- We all sin, but he will forgive us if we confess. But we can not continue walking in the dark and have fellowship with God.
-- We are not to love this world ... sinning, lusting, boasting of what we have accomplished, have, etc. But we are to love our brothers.
-- Loving our brothers is shown by actions (i.e., providing physical needs `3:17-18`).
-- I can not hate my brother and say that I love God ... this does not work.
-- In `summary`:
-    - We are changed
-    - We do not continue in sinning
-    - We love our brothers
-    - We are not of this world ... lust, boasting, etc.
-
 
 ## Chapters (5)
 
@@ -222,3 +116,105 @@ https://www.bibleref.com/1-john
   - Everyone who has been born of God does not **keep sinning** `18`
   - Keep yourselves from idols `21`
 
+
+## Observations
+
+- Knowing Christ, a person will not keep on sinning, making a practice of it. A real believer will seek righteousness ... to be like Christ.
+- We all sin, but he will forgive us if we confess. But we can not continue walking in the dark and have fellowship with God.
+- We are not to love this world ... sinning, lusting, boasting of what we have accomplished, have, etc. But we are to love our brothers.
+- Loving our brothers is shown by actions (i.e., providing physical needs `3:17-18`).
+- I can not hate my brother and say that I love God ... this does not work.
+- In `summary`:
+    - We are changed
+    - We do not continue in sinning
+    - We love our brothers
+    - We are not of this world ... lust, boasting, etc.
+
+
+### Difficulties
+- Ch `2 v27`. "and you have no need that anyone should teach you." [ESV]. The NLT states "But you have received the Holy Spirit, and he lives within you, so you don’t need anyone to teach you what is true."
+  - Talks about not needing a teacher because anointed by Christ. How does this apply to pastors in a church preaching on Sunday?
+  - Maybe referring to the ability to know right from wrong. John himself is being a teacher.
+
+## Research
+https://www.biblegateway.com/passage/?search=1john&version=ESV
+
+
+### ESV Introduction
+https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-3-john/
+
+- Written by John, son of Zebedee, also wrote the gospel of John and Revelation
+- Date written no later than the 90s AD
+- Wrote most likely from Ephesus (Ephesus was an important port city in the Roman province of Asia)
+- Theme: True doctrine, Obedient living, and Faithful devotion
+
+### Bible Project
+https://bibleproject.com/guides/books-of-1-3-john/
+
+**Background**
+
+- Same person who wrote the Gospel and the other letters. The style is identical.
+  - Could be John, son of Zebedee, one of the 12 twelve, or another John later known as the "Elder"
+- Is now old and overseeing a network of house churches
+- House churches made up mostly of Jewish followers
+- A group of people has broken off from these churches and no longer acknowledges Jesus as Israel's Messiah
+
+**1:1-4: The Word of Life**
+
+- Introduction similar to John 1:1-18
+- Themes of Genesis 1 and Proverbs 8
+
+**1:5-3:10: Walking in the Light of Jesus**
+
+- Jesus is light
+- Thus, we need to walk in the light, meaning that we are to keep His commands
+- We are to love one another
+- Are told not to love this world
+- Warns about the people who have left and are denying Jesus as the Messiah
+
+**3:11-5:17: God Is Love**
+- We should love each other and avoid hate
+- If anyone claims to speak for God but doesn't focus on Jesus, they don't speak for him
+- God's love should ground our whole life
+
+**5:18-21: God and Jesus as One**
+
+- To know Jesus is to know God.
+
+**Video**
+
+https://thebibleproject.com/explore/1-3-john/
+
+- Overseeing house churches
+    - Made up of Jewish followers
+    - Going through a crisis
+- Not a letter, more of a sermon
+- Based on the teachings from the gospel of John
+- Lots of hyperbole
+- God is LIGHT. God is LOVE
+- GOD = FATHER and the SON
+- (1) GOD is LIGHT
+    - Keep Jesus' commands
+    - When we fail, He forgives us
+    - Love one another
+    - Don’t love the world; pride and sexual sin
+    - We show in the family by doing righteousness
+- (2) GOD is LOVE
+    - Does away with fear
+    - Comes by trusting God
+    - Jesus is GOD
+    - Keep away from Idols
+
+### Bible Ref
+https://www.bibleref.com/1-john
+
+- The apostle John is the author. External evidence from early church fathers
+- Dealing with problems of false teachers
+- Develops the themes of fellowship
+- Written sometime between 80 and 95 AD
+
+#### Key Verses
+- `1 John 1:9`: “If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.”
+- `1 John 3:6`: “No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him.”
+- `1 John 4:4`: “Little children, you are from God and have overcome them, for he who is in you is greater than he who is in the world.”
+- `1 John 5:13`: “I write these things to you who believe in the name of the Son of God that you may know that you have eternal life.”

@@ -5,151 +5,65 @@ title: Acts
 
 # Acts
 
-- https://www.biblegateway.com/passage/?search=Acts+1&version=ESV
-- https://www.esv.org/acts
-- https://www.bibleref.com/Acts
+https://www.esv.org/acts
 
 ## Overview
-### Outline
+
+> **Covers** the first 30 years of the church — from Jesus’s ascension (33 AD) to Paul’s first imprisonment in Rome (62 AD)
+
+- `1-7`: Ascension, Holy Spirit, Signs and Wonders, New Believers, Stephen death
+> message spreading in Jerusalem
+
+  - `1` Witnesses ... to the ends of the earth, ascension of Jesus
+  - `2` They are filled with the Holy Spirit
+  - `3` Heals a lame man, tells the crowd to repent
+  - `4` Preach with authority, share everything in common
+  - `5` Signs and Wonders, preach that the Christ is Jesus
+  - `6` Accuse Stephen of false charges
+  - `7` Stephen presents the history of Israel, is stoned to death
+- `8-12`: Conversion of Paul, Peter healings, Acceptance of Gentiles, Peter freed from prison
+> message spreading in regions of Judea and Samaria full of non-Jewish people
+
+  - `8` Philip preaches to the Samaritans, Simon the Magician believes, Philip and the Eunuch
+  - `9` Conversion of Saul, Peter performs many healings
+  - `10` Cornelius and Peter, the gospel now spreads to Gentiles and they also receive the Holy Spirit
+  - `11` Acceptance of Gentile believers, Paul begins his work
+  - `12` Persecution, Angle frees Peter from prison, Herod struck down by an Angle
+
+- `13-20`: Paul's 3 missionary trips, the Jesusalem Council
+> message now spreading out to the nations
+
+  - `13` 1st missionary trip, Paul and Barnabas set apart, Speaking in the Synagogue, Focus on Gentiles going forward
+  - `14` 1st missionary trip continues, Paul and Barnabas preaching, Locals think they are gods, Paul stoned, continue preaching
+  - `15` The Jerusalem Council
+  - `16` 2nd missionary trip, Timothy joins Paul, Expels a demon from a girl and then gets thrown in Prison, Jailer converts
+  - `17` 2nd missionary trip continues - Thessalonica, Berea, Athens
+  - `18` 2nd missionary trip continues - goes to Corinth, Apollos becomes a powerful preacher
+  - `19` 3rd Missionary trip, lots of miracles, a disturbance from a silversmith
+  - `20` 3rd missinary trip continues, traveling while facing hardship
+
+- `21-28`: Paul's arrest and trip to Rome
+> was in prison for 5 years, 2 of those years in Rome
+
+  - `21` Paul goes to Jerusalem, Visits James, Riot breaks out, Arrested
+  - `22` Paul retells his story, tells the crowd sent to the Gentiles, they want to kill him
+  - `23` Plot to kill Paul, sent at night to the safety of Governor Felix
+  - `24` Paul's trial before Governor Felix in Caesarea, left in prison for 2 years
+  - `25` Paul before new Governor Festus, Paul requests to appeal to Cesear
+  - `26` Paul tells his story to King Agrippa
+  - `27` Paul sails for Rome and is shipwrecked
+  - `28` Paul in Malta for 3 months, Paul in Rome under house arrest
+
 #### Background:
   - The author is Luke, a non-Jewish doctor
   - Written before Paul's death, Mid-60 AD
   - Luke traveled with Paul
   - Written for Theophilus (thee.aw.p.lus)
 
-#### Purpose:
-  - Captures the first 30 years of the church (Jesus's ascension in 33 AD to Paul's 1st imprisonment in Rome in 62 AD)
-
-#### Chapters (28):
-  - `1-7` Ascension, Holy Spirit, Signs and Wonders, New Believers, Stephen death
-     - message spreading in Jerusalem
-  - `8-12` Conversion of Paul, Peter healings, Acceptance of Gentiles, Peter freed from prison
-     - message spreading in regions of Judea and Samaria full of non-Jewish people
-  - `13-20` Paul's 3 missionary trips, the Jerusalem Council (`15`)
-     - message now spreading out to the nations
-  - `21-28` Paul's arrest and trip to Rome
-     - was in prison for 5 years, 2 of those years in Rome
+## Chapters (28)
+https://www.biblegateway.com/passage/?search=Acts+1&version=ESV
 
 ![Mediterranean during Acts](./mediterranean-acts.png "Mediterranean World during Acts")
-
-### EVS Introduction
-https://www.esv.org/resources/esv-global-study-bible/introduction-to-acts
-
-- Purpose is to give an "orderly" account of the "early" church after the resurrection
-- Traveled with Paul
-- Only non-Jewish writer of the NT
-- Ends with Paul's 1st Roman imprisonment, awaiting trial before Caesar ~ 62 AD
-- Date of the book is before Paul's death in the mid-AD 60s
-- Does not cover Paul's defense, release, and further preaching
-
-### BibleProject Guide
-https://bibleproject.com/guides/book-of-acts
-
-
-#### 1: Jesus Commissions His Disciples and Ascends to Heaven
-- Begins with the risen King Jesus instructing the disciples about life in his Kingdom.
-- The Spirit will empower his disciples to be witnesses throughout the world
-- Jesus is taken up from their sight in a cloud
-
-#### 2-7: Pentecost in Jerusalem and the Birth of the Church
-- Followers wait in the city for Pentecost, receive the Holy Spirit, and begin speaking in other tongues
-- The new temple spoken of by the prophets is Jesus's new convent family
-- This new temple is generous, donating property and possessions to a common fund to help the poor (how it was originally supposed to be)
-- There is hostility between the old temple and the new temple
-- Stephen gives a long speech, showing how Israel's leaders have rejected the messengers God sent, including Jesus and the disciples
-- The Jerusalem leaders become enraged and murder Stephen, launching a wave of persecution
-- This persecution resulted in his followers spreading out into Judea and Samaria
-
-#### 8-12: The Jesus Community Becomes an International Movement
-- The church becomes a multiethnic, international movement
-- Philip's mission into Samaria
-- Paul is converted
-- Peter has a dream vision. Led to a house of a Roman soldier, full of non-Jews. All respond to the gospel
-- A church at Antioch is established
-- First called Christians at Antioch
-- Missionaries are sent out
-
-#### 13-20: Mission to Israel and Clashes with Roman Culture
-- Paul and coworkers travel around the Roman empire to announce the good news
-- The first journey starts in the interior of Asia Minor (Turkey). Ends with an important meeting (Jerusalem Council)
-- The second journey is through Asia Minor and ancient Greece
-- The third trip through the same territory once again, ending back in Jerusalem
-- The main theme is Paul visits the Jewish synagogue, and shares how Jesus is risen, now forming a new multiethnic people of God
-- Some believe, others oppose
-- The next theme is a clash of cultures between Christians and the Greek and Roman world
-
-#### 21-28: Paul Arrested in Jerusalem and Imprisoned in Rome
-- Paul is attacked by Jewish people who think he has betrayed Israel, attracting the attention of Roman soldiers
-- Some soldiers think he is a terrorist from Egypt
-- Paul was put on trial before the Sanhedrin and Roman leaders in Caesarea
-- Governor Felix waits for the next governor, Fetus, who brings King Agrippa to examine Paul
-- Paul transferred to Rome, experiencing a near-death voyage across the Mediterranean
-- This time in prison Paul writes - Ephesians, Philippians, Colossians, and Philemon
-
-### Purpose
-
-- Captures the apostle's activities leading people to faith, locally, regionally, and throughout the Roman empire.
-
-### Chapters (28)
-
-#### 1-7: Ascension, Holy Spirit, Signs and Wonders, New Believers, Stephen death
-
-- `1` Witnesses ... to the ends of the earth, ascension of Jesus
-- `2` They are filled with the Holy Spirit
-- `3` Heals a lame man, tells the crowd to repent
-- `4` Preach with authority, share everything in common
-- `5` Signs and Wonders, preach that the Christ is Jesus
-- `6` Accuse Stephen of false charges
-- `7` Stephen presents the history of Israel, is stoned to death
-
-#### 8-12: Conversion of Paul, Peter healings, Acceptance of Gentiles, Peter freed from prison
-
-- `8` Philip preaches to the Samaritans, Simon the Magician believes, Philip and the Eunuch
-- `9` Conversion of Saul, Peter performs many healings
-- `10` Cornelius and Peter, the gospel now spreads to Gentiles and they also receive the Holy Spirit
-- `11` Acceptance of Gentile believers, Paul begins his work
-- `12` Persecution, Angle frees Peter from prison, Herod struck down by an Angle
-
-#### 13-20: Paul's 3 missionary trips, the Jesusalem Council
-
-- `13` 1st missionary trip, Paul and Barnabas set apart, Speaking in the Synagogue, Focus on Gentiles going forward
-- `14` 1st missionary trip continues, Paul and Barnabas preaching, Locals think they are gods, Paul stoned, continue preaching
-- `15` The Jerusalem Council
-- `16` 2nd missionary trip, Timothy joins Paul, Expels a demon from a girl and then gets thrown in Prison, Jailer converts
-- `17` 2nd missionary trip continues - Thessalonica, Berea, Athens
-- `18` 2nd missionary trip continues - goes to Corinth, Apollos becomes a powerful preacher
-- `19` 3rd Missionary trip, lots of miracles, a disturbance from a silversmith
-- `20` 3rd missinary trip continues, traveling while facing hardship
-
-#### 21-28: Paul's arrest and trip to Rome
-
-- `21` Paul goes to Jerusalem, Visits James, Riot breaks out, Arrested
-- `22` Paul retells his story, tells the crowd sent to the Gentiles, they want to kill him
-- `23` Plot to kill Paul, sent at night to the safety of Governor Felix
-- `24` Paul's trial before Governor Felix in Caesarea, left in prison for 2 years
-- `25` Paul before new Governor Festus, Paul requests to appeal to Cesear
-- `26` Paul tells his story to King Agrippa
-- `27` Paul sails for Rome and is shipwrecked
-- `28` Paul in Malta for 3 months, Paul in Rome under house arrest
-
-### Difficulties
-None
-
-
-### Observations
-
-- The Holy Spirit's arrival empowered the group to spread the message of Christ dying for their sins.
-- Because of persecution, the gospel spread through the region and beyond.
-- Things did not always go smoothly. Paul is performing miracles, people are converting and then he is stoned and left for dead.
-- Jews would always get very upset when it was stated that the Gentiles were included.
-- There is confusion over accepting Gentiles and if so what are their requirements? They define these requirements - no idols, sexual immorality, etc.
-- There were disputes among the Christian leaders. Paul and Barnabas parted ways over bringing Mark or not.
-- Many miracles were performed. For example, when Paul was shipwrecked on an Island he was bitten by a snake and nothing happened. Next, the people of the Island bring their sick and are healed. Peter prays for a Lady who has died, she is brought back to life.
-- Paul would always argue that Jesus fulfilled the Old Testament.
-
----
-
-## Chapters (28)
 
 ### Ch 1
 > Witnesses ... to the ends of the earth, ascension of Jesus
@@ -597,3 +511,82 @@ Notes:
 - Using https://www.knowingthebible.net/bible-maps for maps of Paul's trips
 
 ![Paul's trip to Rome](paul's%20trip%20to%20rome.png "Paul's Trip to Rome")
+
+
+## Observations
+
+- The Holy Spirit's arrival empowered the group to spread the message of Christ dying for their sins.
+- Because of persecution, the gospel spread through the region and beyond.
+- Things did not always go smoothly. Paul is performing miracles, people are converting and then he is stoned and left for dead.
+- Jews would always get very upset when it was stated that the Gentiles were included.
+- There is confusion over accepting Gentiles and if so what are their requirements? They define these requirements - no idols, sexual immorality, etc.
+- There were disputes among the Christian leaders. Paul and Barnabas parted ways over bringing Mark or not.
+- Many miracles were performed. For example, when Paul was shipwrecked on an Island he was bitten by a snake and nothing happened. Next, the people of the Island bring their sick and are healed. Peter prays for a Lady who has died, she is brought back to life.
+- Paul would always argue that Jesus fulfilled the Old Testament.
+
+
+### Difficulties
+None
+
+
+## Research
+
+### EVS Introduction
+https://www.esv.org/resources/esv-global-study-bible/introduction-to-acts
+
+- Purpose is to give an "orderly" account of the "early" church after the resurrection
+- Traveled with Paul
+- Only non-Jewish writer of the NT
+- Ends with Paul's 1st Roman imprisonment, awaiting trial before Caesar ~ 62 AD
+- Date of the book is before Paul's death in the mid-AD 60s
+- Does not cover Paul's defense, release, and further preaching
+
+### BibleProject Guide
+https://bibleproject.com/guides/book-of-acts
+
+
+#### 1: Jesus Commissions His Disciples and Ascends to Heaven
+- Begins with the risen King Jesus instructing the disciples about life in his Kingdom.
+- The Spirit will empower his disciples to be witnesses throughout the world
+- Jesus is taken up from their sight in a cloud
+
+#### 2-7: Pentecost in Jerusalem and the Birth of the Church
+- Followers wait in the city for Pentecost, receive the Holy Spirit, and begin speaking in other tongues
+- The new temple spoken of by the prophets is Jesus's new convent family
+- This new temple is generous, donating property and possessions to a common fund to help the poor (how it was originally supposed to be)
+- There is hostility between the old temple and the new temple
+- Stephen gives a long speech, showing how Israel's leaders have rejected the messengers God sent, including Jesus and the disciples
+- The Jerusalem leaders become enraged and murder Stephen, launching a wave of persecution
+- This persecution resulted in his followers spreading out into Judea and Samaria
+
+#### 8-12: The Jesus Community Becomes an International Movement
+- The church becomes a multiethnic, international movement
+- Philip's mission into Samaria
+- Paul is converted
+- Peter has a dream vision. Led to a house of a Roman soldier, full of non-Jews. All respond to the gospel
+- A church at Antioch is established
+- First called Christians at Antioch
+- Missionaries are sent out
+
+#### 13-20: Mission to Israel and Clashes with Roman Culture
+- Paul and coworkers travel around the Roman empire to announce the good news
+- The first journey starts in the interior of Asia Minor (Turkey). Ends with an important meeting (Jerusalem Council)
+- The second journey is through Asia Minor and ancient Greece
+- The third trip through the same territory once again, ending back in Jerusalem
+- The main theme is Paul visits the Jewish synagogue, and shares how Jesus is risen, now forming a new multiethnic people of God
+- Some believe, others oppose
+- The next theme is a clash of cultures between Christians and the Greek and Roman world
+
+#### 21-28: Paul Arrested in Jerusalem and Imprisoned in Rome
+- Paul is attacked by Jewish people who think he has betrayed Israel, attracting the attention of Roman soldiers
+- Some soldiers think he is a terrorist from Egypt
+- Paul was put on trial before the Sanhedrin and Roman leaders in Caesarea
+- Governor Felix waits for the next governor, Fetus, who brings King Agrippa to examine Paul
+- Paul transferred to Rome, experiencing a near-death voyage across the Mediterranean
+- This time in prison Paul writes - Ephesians, Philippians, Colossians, and Philemon
+
+
+### Bible Ref
+- https://www.bibleref.com/Acts
+
+TBD

@@ -5,112 +5,28 @@ title: 1st Timothy
 
 # 1st Timothy
 
-- https://www.biblegateway.com/passage/?search=1timothy+1&version=ESV
-- https://www.esv.org/1+Timothy/
-- https://www.bibleref.com/1-Timothy/
-
+https://www.esv.org/1+Timothy/
 
 ## Overview
+> **Instructs** Timothy to address false teachers and how the church should operate
 
-### Outline
+- `1` Fight false doctrine, Law for the disobedient, Christ came to save sinners
+- `2` Pray for all people, God wants all men to be saved, Women's roles and behavior
+- `3` Requirements for Elders and Deacons
+- `4` Some will be deceived, train yourself to be godly
+- `5` Provide for your family, Honor Elders
+- `6` Warning about bad teachers, Pursue righteousness, Rich ready to share
+
 #### Background:
   - Paul writes a personal letter to Timothy
   - Written after Paul's 3rd missionary trip, mid-60 AD
   - Timothy traveled with Paul on some of his missionary trips
   - Timothy was with Paul during his 1st imprisonment
 
-#### Purpose:
-  - Addressing false teachers in the church
-  - Instructions on how a church should operate
-
-#### Chapters (6):
-  - `1` Fight false doctrine, Law for the disobedient, Christ came to save sinners
-  - `2` Pray for all people, God wants all men to be saved, Women's roles and behavior
-  - `3` Requirements for Elders and Deacons
-  - `4` Some will be deceived, train yourself to be godly
-  - `5` Provide for your family, Honor Elders
-  - `6` Warning about bad teachers, Pursue righteousness, Rich ready to share
-
-
-### ESV Introduction
-https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-timothy/
-
-- Wrote in mid-60 AD, after his 3rd missionary trip described in Acts.
-- The Gospel leads to practical changes in a believer's life that are visible.
-- A main purpose of the letter is to address false teachers (promoting "theories" over solid truths).
-
-### Bible Project Guide
-https://bibleproject.com/guides/book-of-1-timothy/
-
-**Background**
-- Timothy was a co-work of Paul
-- Paul met Timothy when he visited Timothy's mother and grandmother
-- Paul mentored Timothy for many years
-- Paul heard about a group in Ephesus spreading incorrect views on Jesus
-- Paul sends Timothy to address these incorrect views
-
-**1: The True Purpose of the Torah**
-- Sends Timothy to address the strange teaching of the Torah.
-- Teaching is generating controversy, not love and genuine faith.
-- The purpose of the Torah is to expose the sinful human condition.
-- Calls Timothy to confront these men and shut down their teaching.
-
-**2-3: Problems Caused by Corrupt Teachers**
-- Paul addresses specific problems caused by corrupt teachers.
-- Reminds Timothy that God desires to rescue the whole world.
-- Calls out men getting into angry theological disputes
-- Calls out women treating the Sunday gathering as a fashion show
-- Also calls out women inserting themselves into leadership and teaching bad theology.
-- Address leadership by telling Timothy to select elders and overseers for the church.
-
-**4-6a: More Problems Related to False Teaching**
-
-- Corrects the wrong teaching about not eating certain foods and not getting married. All is given by our Creator.
-- Corrects the abuse by younger wealthy widows, getting church support. Only older widows with no family support should qualify.
-- Addresses the relationship between slaves and their owners
-
-**6b: Rich in Generosity**
-- Exposes false teachers whose motives are to make a lot of money.
-- This betrays Jesus' message of contentment and simple living.
-- Instructs the wealthy Ephesian Christians to be rich in good works and act generously.
-
-**Overview:**
-
-Provides a holistic vision of the nature and mission of the Church. What the church believes will directly
-shape the lives of the members. Thus, theology and beliefs
-must be directly formed by the Scriptures. Christians should be people of integrity known for
-good works, serving the poor and the most vulnerable out of their devotion to the risen King Jesus.
-
-### Bible Ref
-https://www.bibleref.com/1-Timothy
-
-- Timothy was from Lystra, in modern-day Turkey, the son of a Greek father and a Jewish mother.
-- His mother and grandmother were believers. They taught him the Old Testament.
-- Converted to Christianity by Paul.
-- He was with Paul during his first Roman imprisonment.
-- When the letter was written Timothy was in Ephesus serving as a leader among many house churches.
-
-#### Key Verses
-
-- `6:7-8` - brought into the world with nothing, will leave with nothing. 6:8 - If we have food and clothing be content
-- `6:11` But as for you, man of God, flee these things. Pursue righteousness, godliness, faith, love, steadfastness, gentleness.
-
-
-### Difficulties
-None.
-
-### Observations
-- We are to pray for others in authority.
-- God wants all to be saved ... came to save sinners!
-- The leaders in the Church have requirements.
-- Be wary of weird doctrines (ch. 4).
-- Train yourself to be Godly, just like going to the gym.
-- We always need to take care of our <ins>immediate family</ins>.
-- We need to be content with what we have. Pursuing riches leads to trouble. Love of money is the root of all types of evil. Pursue righteousness, godliness, faith, love, endurance, and gentleness.
-- Our hope is in God who richly provides us with everything for our enjoyment.
-- Be generous and willing to share.
 
 ## Chapters (6)
+
+https://www.biblegateway.com/passage/?search=1timothy+1&version=ESV
 
 ### Ch 1
 > Fight false doctrine, Law for the disobedient, Christ came to save sinners
@@ -216,6 +132,89 @@ None.
 - Those who are rich should not put their hope in wealth, which is uncertain. *Put our hope in God who richly provides us with everything for our enjoyment* `17`
   - Be rich in good deeds, and generous and ready to share `18`
   - Storing up treasure .. for the future `19`
+
+
+## Observations
+- We are to pray for others in authority.
+- God wants all to be saved ... came to save sinners!
+- The leaders in the Church have requirements.
+- Be wary of weird doctrines (ch. 4).
+- Train yourself to be Godly, just like going to the gym.
+- We always need to take care of our <ins>immediate family</ins>.
+- We need to be content with what we have. Pursuing riches leads to trouble. Love of money is the root of all types of evil. Pursue righteousness, godliness, faith, love, endurance, and gentleness.
+- Our hope is in God who richly provides us with everything for our enjoyment.
+- Be generous and willing to share.
+
+### Difficulties
+None.
+
+
+## Research
+
+### ESV Introduction
+https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-timothy/
+
+- Wrote in mid-60 AD, after his 3rd missionary trip described in Acts.
+- The Gospel leads to practical changes in a believer's life that are visible.
+- A main purpose of the letter is to address false teachers (promoting "theories" over solid truths).
+
+### Bible Project Guide
+https://bibleproject.com/guides/book-of-1-timothy/
+
+**Background**
+- Timothy was a co-work of Paul
+- Paul met Timothy when he visited Timothy's mother and grandmother
+- Paul mentored Timothy for many years
+- Paul heard about a group in Ephesus spreading incorrect views on Jesus
+- Paul sends Timothy to address these incorrect views
+
+**1: The True Purpose of the Torah**
+- Sends Timothy to address the strange teaching of the Torah.
+- Teaching is generating controversy, not love and genuine faith.
+- The purpose of the Torah is to expose the sinful human condition.
+- Calls Timothy to confront these men and shut down their teaching.
+
+**2-3: Problems Caused by Corrupt Teachers**
+- Paul addresses specific problems caused by corrupt teachers.
+- Reminds Timothy that God desires to rescue the whole world.
+- Calls out men getting into angry theological disputes
+- Calls out women treating the Sunday gathering as a fashion show
+- Also calls out women inserting themselves into leadership and teaching bad theology.
+- Address leadership by telling Timothy to select elders and overseers for the church.
+
+**4-6a: More Problems Related to False Teaching**
+
+- Corrects the wrong teaching about not eating certain foods and not getting married. All is given by our Creator.
+- Corrects the abuse by younger wealthy widows, getting church support. Only older widows with no family support should qualify.
+- Addresses the relationship between slaves and their owners
+
+**6b: Rich in Generosity**
+- Exposes false teachers whose motives are to make a lot of money.
+- This betrays Jesus' message of contentment and simple living.
+- Instructs the wealthy Ephesian Christians to be rich in good works and act generously.
+
+**Overview:**
+
+Provides a holistic vision of the nature and mission of the Church. What the church believes will directly
+shape the lives of the members. Thus, theology and beliefs
+must be directly formed by the Scriptures. Christians should be people of integrity known for
+good works, serving the poor and the most vulnerable out of their devotion to the risen King Jesus.
+
+### Bible Ref
+https://www.bibleref.com/1-Timothy
+
+- Timothy was from Lystra, in modern-day Turkey, the son of a Greek father and a Jewish mother.
+- His mother and grandmother were believers. They taught him the Old Testament.
+- Converted to Christianity by Paul.
+- He was with Paul during his first Roman imprisonment.
+- When the letter was written Timothy was in Ephesus serving as a leader among many house churches.
+
+#### Key Verses
+
+- `6:7-8` - brought into the world with nothing, will leave with nothing. 6:8 - If we have food and clothing be content
+- `6:11` But as for you, man of God, flee these things. Pursue righteousness, godliness, faith, love, steadfastness, gentleness.
+
+
 
 
 

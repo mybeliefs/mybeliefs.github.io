@@ -5,90 +5,25 @@ title: 2nd Timothy
 
 # 2nd Timothy
 
-- https://www.biblegateway.com/passage/?search=2timothy+1&version=ESV
-- https://www.esv.org/2+Timothy+1/
-- https://www.bibleref.com/2-Timothy/
-
+https://www.esv.org/2+Timothy+1/
 
 ## Overview
-### Outline
 
-#### Background:
-- Paul writes a 2nd and his most personal letter to Timothy
-- Wrote letter during his 2nd imprisonment in Rome, ~ 64-65 AD,
-- Paul knew his work and life were coming to an end
-
-#### Purpose:
-- Encouraging Timothy to continue in faithfulness
-
-#### Chapters (4):
+> **Encourages** Timothy to remain faithful in ministry
 
 - `1` Spirit not of fear, Saved for a Holy Life
 - `2` Avoid foolish discussion, able to teach, not quarrelsome, always be kind
 - `3` Godless people, Godly life will be persecuted, Scripture is God-breathed
 - `4` Bad doctrine
 
+#### Background:
+- Paul writes a 2nd and his most personal letter to Timothy
+- Wrote letter during his 2nd imprisonment in Rome, ~ 64-65 AD,
+- Paul knew his work and life were coming to an end
 
-### ESV Introduction
-https://www.esv.org/resources/esv-global-study-bible/introduction-to-2-timothy/
-
-
-- Paul wrote this letter around 64-65 AD, during 2nd imprisonment in Rome, shortly before his death
-- He believes he will die soon, so he is writing his final message to Timothy. This is a very personal letter.
-- Encourages Timothy to continue in faithfulness.
-
-### Bible Project Guide
-https://bibleproject.com/guides/book-of-2-timothy/
-
-**Background**
-- Paul's final and most personal letter.
-- It is in the middle of a court trial, and it's not going well.
-- He wants Timothy to visit him to pass on his plans for the church-planting mission.
-
-**1:1-2:13: Paul Challenges Timothy to Accept Leadership**
-
-- He tells Timothy to reject any temptation to be ashamed of Jesus or Paul's suffering.
-- Jesus's grace provides power, and it is not easy to follow Jesus.
-- Hardship and sacrifice are inherent to the Christian life.
-
-**2:14-4:5: Paul Encourages Timothy to Confront Corruption**
-
-- He asks Timothy to confront the corrupt teachers in Ephesus. They teach that the resurrection has already taken place.
-- Tells Timothy to raise faithful leaders who will teach the real good news about Jesus.
-- States that "All Scripture is divinely breathed". By reading the Scriptures, God's people will be prepared to do good.
-
-**4:6-22: Paul’s Final Plea**
-
-- Tells Timothy that he probably not going to make it out of prison alive.
-- States that everyone has abandoned him to his fate.
-
-### Bible Ref
-https://www.bibleref.com/2-Timothy
-
-- Believed to be Paul's final New Testament letter.
-- Timothy was raised by his mother, Eunice, and grandmother, Lois, who taught him the Old Testament.
-- Timothy's father was Greek. At some point Paul had Timothy circumcised.
-- Timothy was converted to Christianity by Paul.
-- With Paul in his first imprisonment.
-- Paul wants Timothy to leave Ephesus and come to Paul in Rome.
-- Tells Timothy to persevere in the faith, continue with sound doctrine, and preach the Word.
-
-#### Key Verses
-
-- `2 Timothy 1:7` - "For God gave us a spirit not of fear but of power and love and self-control."
-- `2 Timothy 3:16–17` - "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
-
-### Difficulties
-None.
-
-### Observations
-- There will be a cost to following Christ.
-- Our life and focus should be different than the world’s focus. Pursuing righteousness (faith, love, peace, etc.)  and being kind to everyone.
-- Don’t pursue weird theories and doctrines.
-- There will be teaching contrary to the sound doctrine ... it is what people want to hear.
-- All scripture is inspired by God and useful for teaching, correcting, and training in righteousness.
 
 ## Chapters (4)
+https://www.biblegateway.com/passage/?search=2timothy+1&version=ESV
 
 ### Ch 1
 > Spirit not of fear, Saved for a Holy Life
@@ -152,6 +87,66 @@ None.
   - always be of sober mind `5`
 - {Paul} fought the good fight, finished the race, kept the faith `7`
 
+## Observations
+- There will be a cost to following Christ.
+- Our life and focus should be different than the world’s focus. Pursuing righteousness (faith, love, peace, etc.)  and being kind to everyone.
+- Don’t pursue weird theories and doctrines.
+- There will be teaching contrary to the sound doctrine ... it is what people want to hear.
+- All scripture is inspired by God and useful for teaching, correcting, and training in righteousness.
+
+### Difficulties
+None.
+
+## Research
+
+### ESV Introduction
+https://www.esv.org/resources/esv-global-study-bible/introduction-to-2-timothy/
+
+
+- Paul wrote this letter around 64-65 AD, during 2nd imprisonment in Rome, shortly before his death
+- He believes he will die soon, so he is writing his final message to Timothy. This is a very personal letter.
+- Encourages Timothy to continue in faithfulness.
+
+### Bible Project Guide
+https://bibleproject.com/guides/book-of-2-timothy/
+
+**Background**
+- Paul's final and most personal letter.
+- It is in the middle of a court trial, and it's not going well.
+- He wants Timothy to visit him to pass on his plans for the church-planting mission.
+
+**1:1-2:13: Paul Challenges Timothy to Accept Leadership**
+
+- He tells Timothy to reject any temptation to be ashamed of Jesus or Paul's suffering.
+- Jesus's grace provides power, and it is not easy to follow Jesus.
+- Hardship and sacrifice are inherent to the Christian life.
+
+**2:14-4:5: Paul Encourages Timothy to Confront Corruption**
+
+- He asks Timothy to confront the corrupt teachers in Ephesus. They teach that the resurrection has already taken place.
+- Tells Timothy to raise faithful leaders who will teach the real good news about Jesus.
+- States that "All Scripture is divinely breathed". By reading the Scriptures, God's people will be prepared to do good.
+
+**4:6-22: Paul’s Final Plea**
+
+- Tells Timothy that he probably not going to make it out of prison alive.
+- States that everyone has abandoned him to his fate.
+
+### Bible Ref
+https://www.bibleref.com/2-Timothy
+
+- Believed to be Paul's final New Testament letter.
+- Timothy was raised by his mother, Eunice, and grandmother, Lois, who taught him the Old Testament.
+- Timothy's father was Greek. At some point Paul had Timothy circumcised.
+- Timothy was converted to Christianity by Paul.
+- With Paul in his first imprisonment.
+- Paul wants Timothy to leave Ephesus and come to Paul in Rome.
+- Tells Timothy to persevere in the faith, continue with sound doctrine, and preach the Word.
+
+#### Key Verses
+
+- `2 Timothy 1:7` - "For God gave us a spirit not of fear but of power and love and self-control."
+- `2 Timothy 3:16–17` - "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
 
 
 

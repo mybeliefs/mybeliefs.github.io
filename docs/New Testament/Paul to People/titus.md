@@ -5,14 +5,14 @@ title: Titus
 
 # Titus
 
-- https://www.biblegateway.com/passage/?search=titus&version=ESV
-- https://www.esv.org/titus/
-- https://www.bibleref.com/titus/
-
+https://www.esv.org/titus/
 
 ## Overview
+> **Instructs** Titus on proper church order and conduct
 
-### Outline
+- `1` Elder qualification, False teachers
+- `2` How to Live, God's Grace changes us
+- `3` How to behave, He saved us, Avoid foolish discussions
 
 #### Background:
 - Paul wrote this pastoral letter to Titus, a co-worker who was a Gentile
@@ -20,14 +20,74 @@ title: Titus
 - Crete was an island that Paul introduced Christianity to, along with Titus
 - Titus stayed behind to continue working at Crete
 
-#### Purpose:
-- Instructions on how the church should operate
-- Instructions on how one should live
+## Chapters (3)
+https://www.biblegateway.com/passage/?search=titus&version=ESV
 
-#### Chapters (3):
-- `1` Elder qualification, False teachers
-- `2` How to Live, God's Grace changes us
-- `3` How to behave, He saved us, Avoid foolish discussions
+### Ch 1
+> Elder qualification, False teachers
+
+- `Elders (5-9)`:
+    - appointing elders `5`
+    - above reproach, husband of 1 wife, children are believers and not open to the charge of debauchery or insubordination `6`
+    - Not arrogant or quick-tempered or a drunkard or violent or greedy for gain `7`
+    - hospitable, lover of good, self-controlled, upright, holy, and disciplined `8`
+    - Hold firm to the trustworthy word as taught, so that he may be able to give instruction in sound doctrine and rebuke those who contradict it `9`
+- `False teachers (10,16)`:
+  - They are insubordinate, empty talkers and deceivers `10`
+  - They profess to know God, but they deny him by their works.`16`
+
+### Ch 2
+
+> How to Live, God's Grace changes us
+
+- `Summary`:
+    - Each age range of people instructed
+    - Evidence of acceptance of God’s offer is a sober, holy, and righteous lifestyle
+- `How to live (1-9)`:
+  - Teach how they should live based on sound doctrine `1`
+  - Older men with dignity, sound in faith, sound in love, etc. `2`
+  - Older women live in reverence, not slanderers, teach what is good. `3`
+  - Young women to love their husbands and children `4`, self-controlled, pure, working at home, kind and submissive to their husband `5`
+  - Younger men self-control. `6` a model of good works, integrity, dignity `7` sound speech `8`
+  - Slaves subject to their master ... loyal workers `9`
+- `God's Grace changes us (11-14)`:
+  - Say “No” to ungodliness and worldly passions, and live self-controlled, upright and godly lives in this present age `12`
+  - We wait for the blessed hope -- the glorious appearing of our Saviour `13`
+  - Who gave himself for us to *redeem us from all wickedness* and to purify his people `14`
+
+### Ch 3
+
+> How to behave, He saved us, Avoid foolish discussions
+
+- `Summary`:
+    - Speak no evil and show humility to all men
+    - We all have been justified sinners through Christ
+    - Don’t let people cause division
+    - The church must maintain good works
+- `How to behave (1-3)`:
+  - Be subject to rulers and authorities `1`
+  - Speak evil of no one, avoid quarreling, be gentle, and show perfect courtesy to all people `2`
+  - We once were foolish, disobedient, enslaved, etc. `3`
+- `He saved us (5-7)`:
+   - He saved us, not because of the righteous things we had done, but because of <ins>his mercy</ins>. `5`
+   - So that, having been justified by his grace, we might become heirs having the <ins>hope of eternal life</ins>. `7`
+- `Avoid foolish discussions (9-10)`:
+  - Avoid foolish controversies. `9`
+  - Warn a divisive person `10`
+
+
+## Observations
+
+- Leaders in a church must have good character
+- There are always people/rebels working against the harmony/unity of the church
+- A godly life is important .. dignity, wisdom, self-control, loyalty, etc.
+- Slander no one; show humility to everyone
+- We are saved by <ins>His</ins> mercy, <ins>His</ins> grace.
+
+### Difficulties
+None.
+
+## Research
 
 ### ESV Introduction
 https://www.esv.org/resources/esv-global-study-bible/introduction-to-titus/
@@ -89,70 +149,3 @@ https://www.bibleref.com/titus
 #### Key Verses:
 - `Titus 1:16` - “They profess to know God, but they deny him by their works. They are detestable, disobedient, unfit for any good work."
 - `Titus 3:3–6` - “For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another. But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior”
-
-### Difficulties
-None.
-
-### Observations
-
-- Leaders in a church must have good character
-- There are always people/rebels working against the harmony/unity of the church
-- A godly life is important .. dignity, wisdom, self-control, loyalty, etc.
-- Slander no one; show humility to everyone
-- We are saved by <ins>His</ins> mercy, <ins>His</ins> grace.
-
-## Chapters (3)
-
-
-### Ch 1
-> Elder qualification, False teachers
-
-- `Elders (5-9)`:
-    - appointing elders `5`
-    - above reproach, husband of 1 wife, children are believers and not open to the charge of debauchery or insubordination `6`
-    - Not arrogant or quick-tempered or a drunkard or violent or greedy for gain `7`
-    - hospitable, lover of good, self-controlled, upright, holy, and disciplined `8`
-    - Hold firm to the trustworthy word as taught, so that he may be able to give instruction in sound doctrine and rebuke those who contradict it `9`
-- `False teachers (10,16)`:
-  - They are insubordinate, empty talkers and deceivers `10`
-  - They profess to know God, but they deny him by their works.`16`
-
-### Ch 2
-
-> How to Live, God's Grace changes us
-
-- `Summary`:
-    - Each age range of people instructed
-    - Evidence of acceptance of God’s offer is a sober, holy, and righteous lifestyle
-- `How to live (1-9)`:
-  - Teach how they should live based on sound doctrine `1`
-  - Older men with dignity, sound in faith, sound in love, etc. `2`
-  - Older women live in reverence, not slanderers, teach what is good. `3`
-  - Young women to love their husbands and children `4`, self-controlled, pure, working at home, kind and submissive to their husband `5`
-  - Younger men self-control. `6` a model of good works, integrity, dignity `7` sound speech `8`
-  - Slaves subject to their master ... loyal workers `9`
-- `God's Grace changes us (11-14)`:
-  - Say “No” to ungodliness and worldly passions, and live self-controlled, upright and godly lives in this present age `12`
-  - We wait for the blessed hope -- the glorious appearing of our Saviour `13`
-  - Who gave himself for us to *redeem us from all wickedness* and to purify his people `14`
-
-### Ch 3
-
-> How to behave, He saved us, Avoid foolish discussions
-
-- `Summary`:
-    - Speak no evil and show humility to all men
-    - We all have been justified sinners through Christ
-    - Don’t let people cause division
-    - The church must maintain good works
-- `How to behave (1-3)`:
-  - Be subject to rulers and authorities `1`
-  - Speak evil of no one, avoid quarreling, be gentle, and show perfect courtesy to all people `2`
-  - We once were foolish, disobedient, enslaved, etc. `3`
-- `He saved us (5-7)`:
-   - He saved us, not because of the righteous things we had done, but because of <ins>his mercy</ins>. `5`
-   - So that, having been justified by his grace, we might become heirs having the <ins>hope of eternal life</ins>. `7`
-- `Avoid foolish discussions (9-10)`:
-  - Avoid foolish controversies. `9`
-  - Warn a divisive person `10`
-
