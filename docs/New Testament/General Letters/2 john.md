@@ -5,27 +5,41 @@ title: 2nd John
 
 # 2nd John
 
-
-- https://www.biblegateway.com/passage/?search=2john&version=ESV
-- https://www.esv.org/2john/
-- https://www.bibleref.com/2-john/
-
+https://www.esv.org/2john/
 
 ## Overview
 
-### Outline
+> **Instructs** believers not to support deceivers of the gospel
+
+- `1` Love one another, Walk according to His commands, Many deceivers have gone out into the world
 
 #### Background:
 
 - John is the author
 - Addressing conflicts between followers of Jesus and those denying that he rose from the dead
 
-#### Purpose:
-- Instructions not to support "deceivers" of the gospel
+## Chapters (1)
 
-#### Chapters (1):
+### Ch 1
 
-- `1` Love one another, Walk according to His commands, Many deceivers have gone out into the world
+> Love one another, Walk according to His commands, Many deceivers have gone out into the world
+
+- ... that we love one another `5`
+- walk according to His commandments `6`
+- many deceivers have gone out into the world, those who do not confess the coming of Jesus Christ in the flesh `7`
+- Whoever goes on ahead and does not abide in the teaching of Christ `9`
+  - does not have God, do not bring him into your home `10`
+  - whoever greets him takes part in his wicked works `11`
+
+## Observations
+
+- There will be many false teachers. We are not to accept or support them in any way.
+
+### Difficulties
+None.
+
+## Research
+https://www.biblegateway.com/passage/?search=2john&version=ESV
 
 ### ESV Introduction
 https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-3-john/
@@ -51,23 +65,3 @@ https://www.bibleref.com/2-john
 - Most likely writing to a church vs a specific lady
 - Watch out for deceivers who taught that Jesus rose spiritually but not physically
 - Told to have "nothing" to do with these people
-
-### Difficulties
-None.
-
-## Observations
-
-- There will be many false teachers. We are not to accept or support them in any way.
-
-## Chapters (1)
-
-### Ch 1
-
-> Love one another, Walk according to His commands, Many deceivers have gone out into the world
-
-- ... that we love one another `5`
-- walk according to His commandments `6`
-- many deceivers have gone out into the world, those who do not confess the coming of Jesus Christ in the flesh `7`
-- Whoever goes on ahead and does not abide in the teaching of Christ `9`
-  - does not have God, do not bring him into your home `10`
-  - whoever greets him takes part in his wicked works `11`

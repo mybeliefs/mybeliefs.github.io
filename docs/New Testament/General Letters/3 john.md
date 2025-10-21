@@ -5,14 +5,13 @@ title: 3rd John
 
 # 3rd John
 
-- https://www.biblegateway.com/passage/?search=3john&version=ESV
-- https://www.esv.org/3john/
-- https://www.bibleref.com/3-john/
-
+https://www.esv.org/3john/
 
 ## Overview
 
-### Outline
+> **Praises** Gaius for faithful leadership and speaks against Diotrephes’s a trouble maker
+
+- `1` Support people in ministry, Do not imitate what is evil but what is good
 
 #### Background:
 
@@ -20,13 +19,26 @@ title: 3rd John
 - Encourages Gaius (guy.us) in his walk and acceptance of traveling teachers
 - Speaks against Diotrephes (Die.ot.tra.phee), a prideful leader of one of the house churches
 
+## Chapters (1)
 
-#### Purpose:
-- Praises Gaius as a leader and speaks against Diotrephes for rejecting teachers
+### Ch 1
+> Support people in ministry, Do not imitate what is evil but what is good
 
-#### Chapters (1):
+- Support people in ministry `8`
+- Diotrephes does not acknowledge John’s authority `9`
+- Talking wicked nonsense against them (John and others) `10`
+- Do not imitate what is evil but what is good.`11`
 
-- `1` Support people in ministry, Do not imitate what is evil but what is good
+## Observations
+
+- There can be bad people in a church community
+
+### Difficulties
+None.
+
+
+## Research
+https://www.biblegateway.com/passage/?search=3john&version=ESV
 
 ### ESV Introduction
 https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-3-john/
@@ -50,22 +62,4 @@ https://www.bibleref.com/3-john
 
 - Encourages Gaius in his hospitality towards teachers traveling to share the gospel.
 - Speaks against Diotrephes, a prideful leader of one of the churches in Asia Minor.
-
-### Difficulties
-None.
-
-## Observations
-
-- There can be bad people in a church community
-
-## Chapters (1)
-
-### Ch 1
-> Support people in ministry, Do not imitate what is evil but what is good
-
-- Support people in ministry `8`
-- Diotrephes does not acknowledge John’s authority `9`
-- Talking wicked nonsense against them (John and others) `10`
-- Do not imitate what is evil but what is good.`11`
-
 
