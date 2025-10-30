@@ -369,24 +369,21 @@ New:
 
 ### [1 Peter (5)](General%20Letters/1%20peter)
 
-> **Instructs** believers on how to live out the Christian faith
+> **Encourages** Christians enduring persecution
 
-- `1` Ask for wisdom, quick to listen and slow to speak, be doers of the word, control your tongue
-- `2` Faith apart from works is dead
-- `3` Controlling the Tongue, Wisdom from above
-- `4` Ask with wrong motives, Draw near to God, Do not speak evil of other believers, All boasting is evil
-- `5` Let your yes be yes, Trouble pray, Happy sing
+- `1` We have Hope, Be Holy, Love one another
+- `2` Live holy lives, Submit to authority, Suffering for doing good
+- `3` Wives' behavior, Husband's behavior, Don't repay evil with evil, Always ready to share hope with gentleness
+- `4` Expect suffering, Be self-controlled, Love each other, Use gifts to serve
+- `5` Elders are to shepherd, Cast our anxiety on him
 
 #### Background:
 
-- Written by James (aka Jacob), the half-brother of Jesus.
-- Written to Christians (mostly Jewish) living outside of Palestine.
-- Written around 40-50 AD (might be the earleist book, or Galatians).
-- Similar to OT wisdom writings such as Proverbs.
-- James
-  - did not believe in Jesus at first
-  - was an important leader of the early Church
-  - died in 62 AD as a martyr for the faith
+- Peter wrote this letter to Christians who had been dispersed throughout Asia Minor (modern-day Turkey)
+- Wrote from Rome in the early 60s AD
+- Fled Jerusalem, after escaping from King Herod in the early 40s AD
+- He was martyred in Rome under Emperor Nero in the mid 60s AD
+- Written to both Jews and Gentiles, although his ministry focus was primarily on Jews
 
 
 ### [2 Peter (3)](General%20Letters/2%20peter)
