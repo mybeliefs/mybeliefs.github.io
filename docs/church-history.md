@@ -9,6 +9,7 @@ WIP
 TODO:
 - [ ] Capture the early creeds (i.e. Nicene, Chalcedonian)
 - [ ] Expand the description of the early Church Fathers
+- [ ] Timeframe and differences between `Puritans` and the `Quakers`
 - [ ] Resources
    - https://www.gotquestions.org/questions_church-history.html
    - https://www.ligonier.org/learn/topics/church-history

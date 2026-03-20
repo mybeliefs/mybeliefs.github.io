@@ -23,6 +23,13 @@ https://www.esv.org/1john/
 - Written sometime between 80 and 95 AD
 - Addressing false teachers
 
+#### Verses
+
+- `1 John 1:9-10` If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. 10 If we say we have not sinned, we make him a liar, and his word is not in us. (ESV)
+- `1 John 3:18` Little children, let us not love in word or talk but in deed and in truth. (ESV)
+- `1 John  3: 23` And this is his commandment, that we believe in the name of his Son Jesus Christ and love one another, just as he has commanded us. (ESV)
+- `1 John 2:15-17` Don’t love the world’s ways. Don’t love the world’s goods. Love of the world squeezes out love for the Father. Practically everything that goes on in the world—wanting your own way, wanting everything for yourself, wanting to appear important—has nothing to do with the Father. It just isolates you from him. The world and all its wanting, wanting, wanting is on the way out—but whoever does what God wants is set for eternity. (The Message)
+
 ## Chapters (5)
 
 ### Ch 1
