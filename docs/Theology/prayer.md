@@ -4,11 +4,12 @@ title: Prayer
 ---
 
 ## Overview
-Praying can be difficult. Probably the biggest challenge for me is setting realistic expectations of God in response to my prayers. Should my primary focus be on praising God, asking for forgiveness, thanking Him, and seeking guidance to follow His commands? Or is my primary focus on asking for situations/things/etc to “make my life better/easier”?
 
 ### Purpose
 
 I think the primary purpose of prayer is to **know God better**:
+
+> **Reorient our focus on God, rather than self**
 
 - Our way of communicating with God.
 - Develops our relationship with God.
@@ -18,12 +19,17 @@ I think the primary purpose of prayer is to **know God better**:
 - Ask for our "daily bread" (petitions).
 
 ### Difficulties
-Does praying change something that was going to happen not to happen? Is this God intervening with existing matters? I am not even sure how to ask this question. So, does God change the outcome if I pray? Is prayer a deep mystery that we can't really fully understand? Is this where faith comes in? The issue we praying for the sick is more binary - either happens or does not. Other types of prayer you can look back and say, "It turned out better this way". So how can you assess if the prayer changed anything? I understand praying to commune with God, to ask for forgiveness, wisdom, etc. But petitions to "change outcome" are difficult to understand.
+Praying can be difficult. Probably the biggest challenge for me is setting realistic expectations of God in response to my prayers. Should my primary focus be on praising God, asking for forgiveness, thanking Him, and seeking guidance to follow His commands? Or is my primary focus on asking for situations/things/etc to “make my life better/easier”?
 
+Does praying change something that was going to happen not to happen? Is this God intervening with existing matters? I am not even sure how to ask this question. So, does God change the outcome if I pray? Where does sovereignty come in?
+
+Prayer is a profound mystery that we cannot fully understand. This is where faith comes in.
+
+The issue with praying for the sick is more binary - either it happens, or it does not. Other types of prayer you can look back and say, "I think it turned out better this way". So, how can you assess whether the prayer really changed anything? I understand praying as a means to commune with God, to ask for forgiveness, wisdom, and so on. But praying to "change outcome" is an area I struggle with to fully understand.
 
 Some of the questions that I wrestle with concerning prayer:
 
-- Why do everyday prayer requests - like “my trip goes well next week” bother me? It's possible that I expect prayer to focus on “bigger” or more spiritual issues—things like growth, salvation, forgiveness, etc.? When the focus remains on daily inconveniences or minor issues, it can seem shallow or self-centered.
+- Why in bible studies/community groups do prayer requests like “my trip goes well next week” or "my neighbor sister has a problem" bother me? It's possible that I expect prayer to focus on “bigger” or more spiritual issues—things like growth, salvation, forgiveness, etc.? When the focus remains on daily inconveniences or minor issues, it can seem shallow or self-centered.
 
  But the bible does show that God cares about all aspects of our lives:
    - [Matthew 6:25-34](https://www.biblegateway.com/passage/?search=Matthew%206%3A25-34&version=ESV) - "do not be anxious about your life ... seek first the kingdom ... and all these things will be added to you".
@@ -205,9 +211,9 @@ So what is prayer? [^4]
 #### Encountering God
 We want to **know God**, not just facts about him. We want seek his face and presence. [^6]
 
-- Romans 8:34 (ESV): Who is to condemn? Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed is interceding for us.
+- `Romans 8:34` (ESV): Who is to condemn? Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed is interceding for us.
 - Prayer is our **confidence** in God. That God is taking care of everything. That bad things will work out for good, and our good things can not be taken away. And the best things are yet to come.
-- We seldom take the time to praise God. We don't really want to pray unless there is a need, something we want from God. We see God as a means to get things, to make us happy. *"For most of us, he has not become our happiness. We therefore pray to procure things, not to know him better"*. When we truly understand what Christ has done for us and transfer our trust and hopes from other things to Christ, then we begin to want to know God for himself.
+- We seldom take the time to praise God. We don't really want to pray unless there is a need, something we want from God. We see God as a means to get things, to make us happy. ***"For most of us, he has not become our happiness. We therefore pray to procure things, <u>not to know him better</u>"***. When we truly understand what Christ has done for us and transfer our trust and hopes from other things to Christ, then we begin to want to know God for himself.
 
 
 ### Learning Prayer
@@ -281,8 +287,8 @@ The Touchstones of Prayer: [^11]
 |----------------|----------------------|
 | **What It Is**  &nbsp;&nbsp;&nbsp;&nbsp;          | <ul><li>It is talking with God.</li><li>It requires work and discipline.</li><li>Includes adoration, confession, thanks, and supplication.</li></ul>
 | **What It Requires**  &nbsp;&nbsp;&nbsp;&nbsp;    | <ul><li>Heart engaged in fear and awe.</li><li>Being helpless. Accepting one's weakness and dependence.</li><li>Praying in "Jesus' name".</li></ul>
-| **What It Gives**  &nbsp;&nbsp;&nbsp;&nbsp;        | <ul><li>Perspective. Reorients our view toward God. </li><li>Strength. Spiritual union with God.</li><li>God's presence.</li></ul>
-| **Where It Takes Us**  &nbsp;&nbsp;&nbsp;&nbsp;    | <ul><li>Creates honesty and self-knowledge. </li><li>Creates restful trust and confident hope. </li><li>Surrender.</li></ul>
+| **What It Gives**  &nbsp;&nbsp;&nbsp;&nbsp;        | <ul><li>Perspective. **Reorients our view toward God**. </li><li>Strength. Spiritual union with God.</li><li>God's presence.</li></ul>
+| **Where It Takes Us**  &nbsp;&nbsp;&nbsp;&nbsp;    | <ul><li>Creates honesty and self-knowledge. </li><li>Creates **restful trust** and confident hope. </li><li>Surrender.</li></ul>
 
 
 ### Deepening Prayer
