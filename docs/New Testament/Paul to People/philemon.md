@@ -22,11 +22,10 @@ https://www.esv.org/philemon/
 
 
 ## Chapters (1)
-https://www.biblegateway.com/passage/?search=philemon&version=ESV
 
 ### Ch 1
 
-> Accept Onesimus as a brother now
+> Accept Onesimus as a brother
 
 - Philemon loves all of the saints `5`
 - Formerly Onesimus was useless to you `11`
