@@ -23,7 +23,6 @@ https://www.esv.org/2+Timothy+1/
 
 
 ## Chapters (4)
-https://www.biblegateway.com/passage/?search=2timothy+1&version=ESV
 
 ### Ch 1
 > Spirit not of fear, Saved for a Holy Life

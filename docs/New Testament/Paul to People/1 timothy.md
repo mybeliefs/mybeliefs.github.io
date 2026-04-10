@@ -5,7 +5,7 @@ title: 1st Timothy
 
 # 1st Timothy
 
-https://www.esv.org/1+Timothy/
+https://www.esv.org/1+Timothy+1/
 
 ## Overview
 > **Instructs** Timothy to address false teachers and how the church should operate
@@ -25,8 +25,6 @@ https://www.esv.org/1+Timothy/
 
 
 ## Chapters (6)
-
-https://www.biblegateway.com/passage/?search=1timothy+1&version=ESV
 
 ### Ch 1
 > Fight false doctrine, Law for the disobedient, Christ came to save sinners
@@ -112,9 +110,9 @@ https://www.biblegateway.com/passage/?search=1timothy+1&version=ESV
 > Warning about bad teachers, Pursue righteousness, Rich ready to share
 
 - Summary:
-  - Told to honor master (if slave)
+  - Told to honor master (if slave).
   - Some are selfish, stir up a problem, and are in it for money.
-  - Godliness brings its contentment.
+  - Godliness brings with it contentment.
   - Seek to be kept spotless.
   - Rich Christians should share and put their hope in eternal life.
 - Those in control (boss, slave owner) regard them with honor, so God and the teachings are not looked down on `1`

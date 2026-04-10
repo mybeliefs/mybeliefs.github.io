@@ -21,7 +21,6 @@ https://www.esv.org/titus/
 - Titus stayed behind to continue working at Crete
 
 ## Chapters (3)
-https://www.biblegateway.com/passage/?search=titus&version=ESV
 
 ### Ch 1
 > Elder qualification, False teachers
