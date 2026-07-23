@@ -11,26 +11,32 @@ TODO:
 WIP
 
 ## Introduction
-What is Theology?
 
-> **Theology** - the study of the nature of God and religious belief
+> **Theology** - the <u>study</u> of the nature of God and religious belief
 
 - https://www.crossway.org/articles/what-is-theology
   - *"Good theology is based in the belief that God exists, is personal, can be known, and has revealed himself. These presuppositions motivate theologians to devote themselves to a passionate pursuit of knowledge from God’s Word."*
   - *"Fully loving God and obeying the Great Commandment requires actively engaging the mind in the pursuit of truth."*
 - https://www.gotquestions.org/Christian-theology.html
+  - *"Christian theology is the study of what the Bible teaches and what Christians believe."*
 
+What is Doctrine?
 
+> **Doctrine** - are <u>teachings</u> (instructions) that are based on an authoriative source such as the Bible.
 
 ## Terms
 
-- `Cessationism` - The belief that certain spiritual gifts, such as prophecy, healing, and speaking in tongues, ceased to be give by God after the Apostolic age.
+- `Cessationism` - The belief that certain spiritual gifts, such as prophecy, healing, and speaking in tongues, ceased to be given by God after the Apostolic age.
   - https://www.gotquestions.org/cessationism.html
-  - Calvinists believe the "gifts" were required to authenticate Jesus and the apostles' ministry.
+  -   * Calvinists believe the "gifts" were required to authenticate the ministry of Jesus and the apostles.
 - `Doctrine` - Set of beliefs held and taught by a Church
-- `Inspiration` -
-- `Infallibility` -
-- `Inerrancy` -
+- `Credobaptism` - Practice of baptizing only individuals who profess faith in Jesus Christ
+- `Paedobaptism` (pay.doo) - Infant baptism. Reform based on OT circumcision.
+- `Eschatological` - view of “end times” prophecies of the Bible
+- Biblical authority:
+  - `Inspiration` -
+  - `Infallibility` -
+  - `Inerrancy` -
 
 
 ## Areas
@@ -98,6 +104,24 @@ References:
 - https://www.ligonier.org/learn/articles/dispensationalism
 - https://www.gotquestions.org/dispensationalism.html
 
+### Eschatology
+The theological study of "last things". Includes the end of history, Christ's return, resurrection, final judgment, and the creation of a new heaven and earth.
+
+[Millennialism](https://www.gotquestions.org/millennialism.html) - Millennialism is the belief in a literal reign of Christ on earth for 1,000 years in the future.
+
+`Premillennialism`: Believes Christ returns before a literal 1,000-year reign on Earth. It is often divided into Dispensational (involving a rapture) and Historic (focusing on the church) views. Common in Baptist and Pentecostal circles.
+
+`Postmillennialism`: Argues Christ returns after the world is Christianized through the Gospel. This view emphasizes gradual societal improvement and was popular in the 19th century; it remains a minority view in some Reformed traditions.
+
+`Amillennialism`: Interprets the 1,000 years symbolically as the current church age where Christ reigns from heaven. Held by Roman Catholic, Eastern Orthodox, and many Reformed (Presbyterian/Lutheran) denominations.
+
+`Preterism` (pret.er.ism) - view that the “end times” prophecies of the Bible have already been fulfilled.
+
+[Partial preterists](https://www.gotquestions.org/partial-preterism.html) - Those who hold to partial preterism believe that the prophecies in Daniel, Matthew 24, and Revelation (with the exception of the last two or three chapters) have already been fulfilled and were fulfilled no later than the first century AD. According to partial preterism, there is no rapture, and passages describing the tribulation and the Antichrist are actually referring to the destruction of Jerusalem in AD 70 and the Roman emperor Titus. Partial preterists do believe in the return of Christ to earth and a future resurrection and judgment, but they do not teach a millennial kingdom or that Israel as a nation has a place in God’s future plan. According to partial preterists, the Bible’s references to “the last days” are speaking of the last days of the Old Jewish Covenant, not the last days of the earth itself. Note that partial preterists believe that full preterism is heresy.
+
+#### Preterism
+https://www.gotquestions.org/search-results.html?q=preterist#gsc.tab=0&gsc.q=preterist&gsc.page=1
+
 
 ### Other
 
@@ -111,7 +135,7 @@ References:
   - A number of explanations, but primary is that God is speaking as a **Trinity**, of Father, Son, and Holy Spirit.
   - Gen 1:2 describes the Spirit of God hovering over the waters.
   - Jone 1:1-3 revelas that the Word, Christ, was active in the  creation of all things.
-
+- `Anabaptists` - a 16th-century Radical Reformation movement originating in Zurich (c. 1525) that emphasizes believers' baptism (Credo), strict separation of church and state, and biblical pacifism. Core beliefs include adult baptism, communal living, non-resistance, and separation from society, with modern branches including Mennonites, Amish, and Hutterites.
 
 
 ## Bible Books based on Difficulty
