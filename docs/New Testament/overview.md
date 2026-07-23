@@ -326,23 +326,32 @@ New:
 
 ### [Hebrews (13)](General%20Letters/hebrews#overview)
 
-- Author unknown - maybe Barnabas or Apollos
+> **Instructs** believers on how Jesus replaces the old convenent and how we should live
+
+- `1` The Son is God
+- `2` Warning to Pay Attention, Faithful High Priest
+- `3` Jesus greater than Moses, Do not harden your heart
+- `4` God’s rest, God’s word is living and active, Jesus is our High Priest
+- `5` Jesus is our High Priest
+- `6` Move beyond the basics, Continue helping other believers
+- `7` Perfect Priest
+- `8` New covenant
+- `9` Christ replaces the Tabernacle
+- `10`Christ’s Sacrifice Once for All
+- `11` Can’t please God without Faith
+- `12` Remove sin, Be holy, Acceptable Worship
+- `13` Show love to others, Avoid strange teachings, Share with others
+
+
+#### Background:
+
+- Author unknown - maybe Barnabas, Apollos, or Paul
 - The author was a Jewish Christian, well versed in the OT (Greek translation)
 - Written before 70 AD - no mention of the destruction of the temple
-- `Theme`: Jesus Christ is greater than any angel, priest, or old covenant practice (sacrificial system) or old testament hero (Moses).
-- Teaches Christians to endure and not abandon their faith
 - The audience was facing persecution
-- Also addressing Jewish converts being tempted to Judaize the gospel
-- Christ is superior to the old covenant
-- 8 expositions (background) of passages in the OT:
+- Addressing Jewish converts being tempted to Judaize the gospel
 
 
-#### Verses
-
-- `Hebrews 12:28-29` Therefore let us be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to God acceptable worship, with reverence and awe, 29 for our God is a consuming fire. (ESV)
-
-New:
-- `Hebrew 11:6` And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him. (ESV)
 
 
 ### [James (5)](General%20Letters/james)
