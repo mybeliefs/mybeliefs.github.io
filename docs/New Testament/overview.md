@@ -455,10 +455,15 @@ New:
 
 ### [Jude (1)](General%20Letters/jude)
 
-- The author half brother of Jesus (had 4 brothers)
-- Neither James nor Jude ever describes themselves as a brother to Jesus, others do
-- Written to believers very familiar with the Old Testament scriptures and “other” literature
-- References other material outside the bible (i.e. the book of Moses)
+> **Instructs** believers to beware of corrupt teachers
+
+- `1` These men follow their own evil desires, keep yourselves in the love of God
+
+#### Background:
+
+- Brother of James; Jesus had 4 brothers (James, Jude, Joseph, Simon)
+- Neither James nor Jude ever describes themselves as a brother to Jesus
+- Written mid-60 AD
 - Uses OT and other Jewish literature to demonstrate how rebellious people/leaders receive divine judgment
 
 ## [Prophecy (1)](/category/prophecy)
