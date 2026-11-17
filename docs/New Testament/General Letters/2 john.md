@@ -24,6 +24,8 @@ https://www.esv.org/2john/
 
 > Love one another, Walk according to His commands, Many deceivers have gone out into the world
 
+- `Summary`:
+  - There are many false teachers
 - ... that we love one another `5`
 - walk according to His commandments `6`
 - many deceivers have gone out into the world, those who do not confess the coming of Jesus Christ in the flesh `7`

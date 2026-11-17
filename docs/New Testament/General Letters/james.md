@@ -29,6 +29,13 @@ https://www.esv.org/james/
   - was an important leader of the early Church
   - died in 62 AD as a martyr for the faith
 
+#### Key Verses
+
+- `James 1:2–3`: "Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness."
+- `James 1:19`: "Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger."
+- `James 2:17–18`: "So also faith by itself, if it does not have works, is dead. But someone will say, 'You have faith and I have works.' Show me your faith apart from your works, and I will show you my faith by my works."
+- `James 3:5`: "So also the tongue is a small member, yet it boasts of great things. How great a forest is set ablaze by such a small fire!"
+- `James 5:16`: "Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working."
 
 ## Chapters (5)
 
@@ -80,7 +87,7 @@ https://www.esv.org/james/
 - `Notes` (BibleRef - What does James chapter 2 mean?):
   - *However, while Paul emphasizes the "cause," which is trusting faith, James emphasizes the "effect," which is good works.*
   - *James stresses that so-called "faith", which is merely mental agreement and does not produce good and loving works, is not a genuine, saving faith.*
-  - *"James refers to good works as an expected outcome of salvation, not the source of it."* (Chapter Context)
+  - *James refers to good works as an expected outcome of salvation, not the source of it.* (Chapter Context)
 
 ### Ch 3
 
@@ -215,11 +222,3 @@ https://www.bibleref.com/james
   - wisdom and controlling one's words
   - humility
   - patience and pray
-
-#### Key Verses (ESV)
-
-- `James 1:2–3`: "Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness."
-- `James 1:19`: "Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger."
-- `James 2:17–18`: "So also faith by itself, if it does not have works, is dead. But someone will say, 'You have faith and I have works.' Show me your faith apart from your works, and I will show you my faith by my works."
-- `James 3:5`: "So also the tongue is a small member, yet it boasts of great things. How great a forest is set ablaze by such a small fire!"
-- `James 5:16`: "Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working."

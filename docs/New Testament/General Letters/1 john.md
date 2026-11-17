@@ -20,21 +20,25 @@ https://www.esv.org/1john/
 #### Background:
 
 - John the apostle wrote this letter; he also wrote 2 & 3 John, the gospel of John, and Revelation
-- Written sometime between 80 and 95 AD
+- Written sometime between 80 and 95 AD; maybe even earlier
 - Addressing false teachers
 
 #### Verses
 
-- `1 John 1:9-10` If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. 10 If we say we have not sinned, we make him a liar, and his word is not in us. (ESV)
-- `1 John 3:18` Little children, let us not love in word or talk but in deed and in truth. (ESV)
-- `1 John  3: 23` And this is his commandment, that we believe in the name of his Son Jesus Christ and love one another, just as he has commanded us. (ESV)
-- `1 John 2:15-17` Don’t love the world’s ways. Don’t love the world’s goods. Love of the world squeezes out love for the Father. Practically everything that goes on in the world—wanting your own way, wanting everything for yourself, wanting to appear important—has nothing to do with the Father. It just isolates you from him. The world and all its wanting, wanting, wanting is on the way out—but whoever does what God wants is set for eternity. (The Message)
+- `1 John 1:9-10` If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. 10 If we say we have not sinned, we make him a liar, and his word is not in us.
+- `1 John 2:15-17` Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. 16 For all that is in the world — the desires of the flesh and the desires of the eyes and pride of life — is not from the Father but is from the world. 17 And the world is passing away along with its desires, but whoever does the will of God abides forever.
+- `1 John 3:18` Little children, let us not love in word or talk but in deed and in truth.
+- `1 John  3:23` And this is his commandment, that we believe in the name of his Son Jesus Christ and love one another, just as he has commanded us.
+
 
 ## Chapters (5)
 
 ### Ch 1
 > Can not walk in the dark; Jesus cleanses us from sin; If we confess he forgives
 
+- `Summary`:
+  - Walk in the light
+  - If we confess he forgives
 - Writing that your “joy may be complete” `4`
 - Can not have fellowship with God and still walk in the dark `6`
 - If we walk in the light, Jesus **cleanses us** from all sin `7`
@@ -46,8 +50,11 @@ https://www.esv.org/1john/
 
 > If we know him then we keep his commands; Do not love the world
 
+- `Summary`:
+  - Keep his commands
+  - Do not love the world
 - We should not sin, but if we do, Jesus advocates with the Father on our behalf `1`
-  - He is the propitiation {repaid the debt} for our sins `2`
+  - He is the propitiation (repaid the debt) for our sins `2`
 - We know him if we keep his commands `3`
   -  Say "I know him", but does not keep his commands is a liar `4`
   -  Ought to walk in the same way in which he walked `6`
@@ -66,6 +73,9 @@ https://www.esv.org/1john/
 
 > Do not sin, Love one another
 
+- `Summary`:
+  - Do not sin
+  - Love one another, not in talk but in deed
 - *His children* `1-3`
   - God calls us his children `1`
   - when he appears, we shall be like him `2`
@@ -74,7 +84,7 @@ https://www.esv.org/1john/
   - practice of sinning also practices lawlessness `4`
   - Appeared in order to take away sins `5`
   - No one who abides in him keeps on sinning `6`
-  - No one born of God {born again} makes a practice of sinning, for God’s seed abides in him; he can not keep on sinning `9`
+  - No one born of God (born again) makes a practice of sinning, for God’s seed abides in him; he can not keep on sinning `9`
   - whoever does not practice righteousness is not of God, nor is the one who does not love his brother `10`
 - *Love one another* `11-18`
   - Love one another `11`
@@ -88,6 +98,10 @@ https://www.esv.org/1john/
 
 > Always test the Spirits, God is Love; Whoever loves God must also love his brother
 
+- `Summary`:
+   - There are false teachers
+   - Love one another
+   - Can't love God and also hate your brother
 - *Always test the Spirits* `1-7`
   - ... many false prophets `1`
   - Spirit of God: *confesses that Jesus Christ has come in the flesh is from God*. `2`
@@ -109,6 +123,9 @@ https://www.esv.org/1john/
 
 > Keep his commandments; Ask according to his will; Anyone born of God does not keep sinning
 
+- `Summary`:
+  - We show our love of God by keeping his commandments
+  - We can not keep on sinning
 - *Overcomming the World* `1-5`
   - We love God by **keeping his commandments**. They are not burdensome. `3`
   - Everyone born of God has overcome the world. `4`
@@ -219,9 +236,3 @@ https://www.bibleref.com/1-john
 - Dealing with problems of false teachers
 - Develops the themes of fellowship
 - Written sometime between 80 and 95 AD
-
-#### Key Verses
-- `1 John 1:9`: “If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.”
-- `1 John 3:6`: “No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him.”
-- `1 John 4:4`: “Little children, you are from God and have overcome them, for he who is in you is greater than he who is in the world.”
-- `1 John 5:13`: “I write these things to you who believe in the name of the Son of God that you may know that you have eternal life.”

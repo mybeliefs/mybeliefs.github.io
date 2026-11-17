@@ -24,6 +24,10 @@ https://www.esv.org/2peter/
 - Written to both Jews and Gentiles
 - The letter had a different style than 1st Peter
 
+#### Key Verses
+
+- `2 Peter 3:9`: "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance."
+
 
 ## Chapters (3)
 
@@ -31,6 +35,8 @@ https://www.esv.org/2peter/
 
 > Live with Godliness, Supplement your faith with Holiness
 
+- `Summary`:
+  - We need to be holy
 - His divine power has given us everything we need for **godliness** `3`
   - ... escape the corruption of this world `4`
   - Make every effort to **supplement your faith with (Holiness)**: `5-7`
@@ -43,14 +49,17 @@ https://www.esv.org/2peter/
     - love
   - These qualities will keep us from being ineffective `8`
   - ... whoever lacks these qualities is so nearsighted that he is blind, having forgotten that he was cleansed from his former sin `9`
-- Eyewitnesses (Peter) of his majesty {not made up} `16`
-  - Received honor and glory from God the Father ... "This is my beloved Son, with whom I am well pleased" `17` {transfiguration}
+- Eyewitnesses (Peter) of his majesty (not made up) `16`
+  - Received honor and glory from God the Father ... "This is my beloved Son, with whom I am well pleased" `17` (transfiguration)
 - Prophecy comes from God ... men spoke from God as they were carried along by the Holy Spirit `20-21`
 
 ### Ch 2
 
 > False Teachers, God will judge
 
+- `Summary`:
+  - There are false teachers
+  - They wll be judged
 - ... **false teachers** among them, who will secretly bring in destructive heresies `1`
 - **God judged** `4-7`
     - angles, cast them into hell `4`
@@ -58,7 +67,7 @@ https://www.esv.org/2peter/
     - Sodom and Gomorrah to ashes `6`
     - rescued Lot `7`
 - Lord knows how to rescue the godly from trials, and to keep the unrighteous under punishment until the day of judgment `9`
-- {**false teachers**} `12-14`:
+- (**false teachers**) `12-14`:
   - blaspheme about the matter of which they are ignorant `12`
   - eyes full of adultery seduce the unstable, hearts trained in greed `14`
   - promise them freedom, but they themselves are slaves of corruption - sensual passions of the flesh `18`
@@ -151,7 +160,7 @@ https://thebibleproject.com/explore/2-peter/
 - Always continue growing; love, godliness, endurance, etc.
 - Address 3 main <ins>objections</ins> from corrupt teachers:
     - He and the apostles made up all of this stuff
-    - Denies there is a final judgment {thus everyone can sin}. They even know Jesus’s teachings
+    - Denies there is a final judgment (thus everyone can sin). They even know Jesus’s teachings
     - Where is the promised return?
 - God’s love must confront & deal with sin
 
@@ -168,8 +177,4 @@ https://www.bibleref.com/2-Peter
 - Likely written in the early 60s AD (he died during Nero's persecution around 65 AD)
 - The focus of the letter was on false teaching
 - Note that he refers to Paul's writings as "Scripture" (3:14-18)
-
-#### Key Verses
-
-- `2 Peter 3:9`: "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance."
 

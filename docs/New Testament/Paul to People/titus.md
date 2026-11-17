@@ -20,12 +20,21 @@ https://www.esv.org/titus/
 - Crete was an island that Paul introduced Christianity to, along with Titus
 - Titus stayed behind to continue working at Crete
 
+
+#### Key Verses:
+- `Titus 1:16` - “They profess to know God, but they deny him by their works. They are detestable, disobedient, unfit for any good work."
+- `Titus 3:3–6` - “For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another. But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior”
+
+
 ## Chapters (3)
 
 ### Ch 1
 > Elder qualification, False teachers
 
-- `Elders (5-9)`:
+- `Summary`:
+  - Describes requirements for elders
+  - Describes false teachers
+- `Elders qualification (5-9)`:
     - appointing elders `5`
     - above reproach, husband of 1 wife, children are believers and not open to the charge of debauchery or insubordination `6`
     - Not arrogant or quick-tempered or a drunkard or violent or greedy for gain `7`
@@ -79,7 +88,7 @@ https://www.esv.org/titus/
 
 - Leaders in a church must have good character
 - There are always people/rebels working against the harmony/unity of the church
-- A godly life is important .. dignity, wisdom, self-control, loyalty, etc.
+- A godly life is important ... dignity, wisdom, self-control, loyalty, etc.
 - Slander no one; show humility to everyone
 - We are saved by <ins>His</ins> mercy, <ins>His</ins> grace.
 
@@ -144,7 +153,3 @@ https://www.bibleref.com/titus
   - select elders for local house churches
   - deal with offenders in the church
   - gives directions on church practices
-
-#### Key Verses:
-- `Titus 1:16` - “They profess to know God, but they deny him by their works. They are detestable, disobedient, unfit for any good work."
-- `Titus 3:3–6` - “For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another. But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior”

@@ -22,6 +22,11 @@ https://www.esv.org/2+Timothy+1/
 - Paul knew his work and life were coming to an end
 
 
+#### Key Verses
+
+- `2 Timothy 1:7` - "For God gave us a spirit not of fear but of power and love and self-control."
+- `2 Timothy 3:16–17` - "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
+
 ## Chapters (4)
 
 ### Ch 1
@@ -51,7 +56,7 @@ https://www.esv.org/2+Timothy+1/
   - An athlete is not crowned unless he competes according to the rules `5`
 - Paul suffered because he was stating that Jesus rose from the dead `8-9`
 - “if we died with him, we will also live with him” `11`
-  - “If we are faithless, he remains faithful `13`
+  - “If we are faithless, he remains faithful" `13`
 - Avoid irreverent babble, that leads people into ungodliness. `16`
 - Flee the evil desires of youth. Pursue righteousness, faith, love, and peace `22`
   - Don’t have anything to do with foolish and stupid arguments, able to teach `23`
@@ -84,7 +89,7 @@ https://www.esv.org/2+Timothy+1/
 - A time will come when men will *not put up with sound doctrine*, but rather teach what they want to hear `3`
   - turn away from listening to the truth and wander off into myths `4`
   - always be of sober mind `5`
-- {Paul} fought the good fight, finished the race, kept the faith `7`
+- (Paul) fought the good fight, finished the race, kept the faith `7`
 
 ## Observations
 - There will be a cost to following Christ.
@@ -141,11 +146,6 @@ https://www.bibleref.com/2-Timothy
 - With Paul in his first imprisonment.
 - Paul wants Timothy to leave Ephesus and come to Paul in Rome.
 - Tells Timothy to persevere in the faith, continue with sound doctrine, and preach the Word.
-
-#### Key Verses
-
-- `2 Timothy 1:7` - "For God gave us a spirit not of fear but of power and love and self-control."
-- `2 Timothy 3:16–17` - "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
 
 
 

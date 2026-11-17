@@ -8,7 +8,7 @@ https://www.esv.org/philemon/
 
 ## Overview
 
-> **Encourages** Philemon to receive Onesimus as a brother
+> **Encourages** Philemon to accept Onesimus as a brother
 
 - `1` Accept Onesimus as a brother
 

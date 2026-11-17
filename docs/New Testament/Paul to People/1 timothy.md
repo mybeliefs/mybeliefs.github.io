@@ -24,6 +24,12 @@ https://www.esv.org/1+Timothy+1/
   - Timothy was with Paul during his 1st imprisonment
 
 
+#### Key Verses
+
+- `6:7-8` - brought into the world with nothing, will leave with nothing. 6:8 - If we have food and clothing be content
+- `6:11` But as for you, man of God, flee these things. Pursue righteousness, godliness, faith, love, steadfastness, gentleness.
+
+
 ## Chapters (6)
 
 ### Ch 1
@@ -109,7 +115,7 @@ https://www.esv.org/1+Timothy+1/
 ### Ch 6
 > Warning about bad teachers, Pursue righteousness, Rich ready to share
 
-- Summary:
+- `Summary`:
   - Told to honor master (if slave).
   - Some are selfish, stir up a problem, and are in it for money.
   - Godliness brings with it contentment.
@@ -119,7 +125,7 @@ https://www.esv.org/1+Timothy+1/
   - Serve believers (master) in control even better `2`
 - Teaches a different doctrine `3`
   - Unhealthy craving for controversy ... produce envy, dissension `4`
-  - Believe that godliness is a means of gain {i.e. money} `5`
+  - Believe that godliness is a means of gain (i.e. money) `5`
 - Godliness with contentment is a great gain `6`
   - We brought nothing into this world, we can take nothing out of it `7`
   - If we have food and clothing we are content with that `8`
@@ -160,11 +166,11 @@ https://www.esv.org/resources/esv-global-study-bible/introduction-to-1-timothy/
 https://bibleproject.com/guides/book-of-1-timothy/
 
 **Background**
-- Timothy was a co-work of Paul
-- Paul met Timothy when he visited Timothy's mother and grandmother
-- Paul mentored Timothy for many years
-- Paul heard about a group in Ephesus spreading incorrect views on Jesus
-- Paul sends Timothy to address these incorrect views
+- Timothy was a coworker of Paul.
+- Paul met Timothy when he visited Timothy's mother and grandmother.
+- Paul mentored Timothy for many years.
+- Paul heard about a group in Ephesus spreading incorrect views on Jesus.
+- Paul sends Timothy to address these incorrect views.
 
 **1: The True Purpose of the Torah**
 - Sends Timothy to address the strange teaching of the Torah.
@@ -175,16 +181,16 @@ https://bibleproject.com/guides/book-of-1-timothy/
 **2-3: Problems Caused by Corrupt Teachers**
 - Paul addresses specific problems caused by corrupt teachers.
 - Reminds Timothy that God desires to rescue the whole world.
-- Calls out men getting into angry theological disputes
-- Calls out women treating the Sunday gathering as a fashion show
+- Calls out men getting into angry theological disputes.
+- Calls out women treating the Sunday gathering as a fashion show.
 - Also calls out women inserting themselves into leadership and teaching bad theology.
-- Address leadership by telling Timothy to select elders and overseers for the church.
+- Addresses leadership by telling Timothy to select elders and overseers for the church.
 
 **4-6a: More Problems Related to False Teaching**
 
 - Corrects the wrong teaching about not eating certain foods and not getting married. All is given by our Creator.
 - Corrects the abuse by younger wealthy widows, getting church support. Only older widows with no family support should qualify.
-- Addresses the relationship between slaves and their owners
+- Addresses the relationship between slaves and their owners.
 
 **6b: Rich in Generosity**
 - Exposes false teachers whose motives are to make a lot of money.
@@ -194,9 +200,7 @@ https://bibleproject.com/guides/book-of-1-timothy/
 **Overview:**
 
 Provides a holistic vision of the nature and mission of the Church. What the church believes will directly
-shape the lives of the members. Thus, theology and beliefs
-must be directly formed by the Scriptures. Christians should be people of integrity known for
-good works, serving the poor and the most vulnerable out of their devotion to the risen King Jesus.
+shape the lives of the members. Thus, theology and beliefs must be directly formed by the Scriptures. Christians should be people of integrity known for good works, serving the poor and the most vulnerable out of their devotion to the risen King Jesus.
 
 ### Bible Ref
 https://www.bibleref.com/1-Timothy
@@ -206,13 +210,6 @@ https://www.bibleref.com/1-Timothy
 - Converted to Christianity by Paul.
 - He was with Paul during his first Roman imprisonment.
 - When the letter was written Timothy was in Ephesus serving as a leader among many house churches.
-
-#### Key Verses
-
-- `6:7-8` - brought into the world with nothing, will leave with nothing. 6:8 - If we have food and clothing be content
-- `6:11` But as for you, man of God, flee these things. Pursue righteousness, godliness, faith, love, steadfastness, gentleness.
-
-
 
 
 

@@ -310,7 +310,7 @@ New:
 
 ### [Philemon (1)](Paul%20to%20People/philemon)
 
-> **Encourages** Philemon to receive Onesimus as a brother
+> **Encourages** Philemon to accept Onesimus as a brother
 
 - `1` Accept Onesimus as a brother
 
@@ -443,9 +443,9 @@ New:
 
 ### [3 John (1)](General%20Letters/3%20john)
 
-> **Praises** Gaius for faithful leadership and speaks against Diotrephes a trouble maker
+> **Instructs** believers to support people in ministry
 
-- `1` Support people in ministry, Do not imitate what is evil but what is good
+- `1` Do not imitate what is evil but what is good
 
 #### Background:
 
