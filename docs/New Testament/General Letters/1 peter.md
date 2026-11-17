@@ -26,6 +26,13 @@ https://www.esv.org/1peter/
 - He was martyred in Rome under Emperor Nero in the mid 60s AD
 - Written to both Jews and Gentiles, although his ministry focus was primarily on Jews
 
+
+#### Key Verses
+
+- `1 Peter 1:3`: "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead."
+- `1 Peter 2:24`: "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed."
+- `1 Peter 5:8–9`: "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. Resist him, firm in your faith, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world."
+
 ## Chapters (5)
 
 ### Ch 1
@@ -73,6 +80,10 @@ https://www.esv.org/1peter/
 
 > Wives' behavior, Husband's behavior, Don't repay evil with evil, Always ready to share hope with gentleness
 
+- `Summary`:
+  - Wives internal beauty, submit to husband
+  - Husbands respect wife or prayers hindered
+  - Always be prepared to share faith with respect
 - **Wives** are subject to their husbands, even if they are not believers `1`
   - with respect and pure conduct `2`
   - beauty not external - braiding hair, gold jewelry, etc. `3`
@@ -201,9 +212,3 @@ https://www.bibleref.com/1-Peter
   - Belivers are saved and preserved by God's power
   - Discusses Christian living before others
   - Discusses the future and how Christians are called to live in light of it
-
-#### Key Verses (ESV)
-- `1 Peter 1:3`: "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead."
-- `1 Peter 2:9`: "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light."
-- `1 Peter 2:24`: "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed."
-- `1 Peter 5:8–9`: "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. Resist him, firm in your faith, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world."

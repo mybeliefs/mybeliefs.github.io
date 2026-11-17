@@ -20,8 +20,12 @@ title: Jude
 - Written mid-60 AD
 - Uses OT and other Jewish literature to demonstrate how rebellious people/leaders receive divine judgment
 
+#### Key Verses:
+
+- `1:17–18`: "But you must remember, beloved, the predictions of the apostles of our Lord Jesus Christ. They said to you, 'In the last time there will be scoffers, following their own ungodly passions."
+
+
 ## Chapters (1)
-https://www.bibleref.com/Jude/1/Jude-chapter-1.html
 
 ### Ch 1
 
@@ -29,7 +33,7 @@ https://www.bibleref.com/Jude/1/Jude-chapter-1.html
 
 - people have crept in ... who pervert the grace of our God into sensuality `4`
 - people saved out of the land of Egypt were destroyed who did not believe `5`
-- Sodom and Gomorrah indulged in sexual immorality, unnatural desire, and the punishment of external file `7`
+- Sodom and Gomorrah indulged in sexual immorality, unnatural desire, and the punishment of external fire `7`
 - These men follow their own evil desires; boast about themselves `16`
 - In the last time, there will be scoffers, following their own ungodly passions `18`
 - keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ that leads to eternal life `21`
@@ -65,7 +69,7 @@ https://www.esv.org/resources/esv-global-study-bible/introduction-to-jude/
 - Jewish perspective
 - Might have used 2 Peter as a resource, similar situation
 - Warns against following false teachers
-- Refers to Jewish apocalyptic traditions- 1 [Enoch](https://www.gotquestions.org/book-of-Enoch.html) and the [Testament of Moses](https://www.gotquestions.org/Assumption-of-Moses.html)
+- Refers to Jewish apocalyptic traditions- [1 Enoch](https://www.gotquestions.org/book-of-Enoch.html) and the [Testament of Moses](https://www.gotquestions.org/Assumption-of-Moses.html)
 - Contains a Doxology (benediction)
 
 ### Bible Project
@@ -106,7 +110,3 @@ https://www.bibleref.com/jude
 - Date between 67 and 80
 - Shares a common theme with 2 Peter
 - Emphasis is on the dangers of false teachings.
-
-#### Key Verses (ESV):
-
-- `1:17–18`: "But you must remember, beloved, the predictions of the apostles of our Lord Jesus Christ. They said to you, 'In the last time there will be scoffers, following their own ungodly passions."

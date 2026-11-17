@@ -36,6 +36,14 @@ title: Hebrews
 - Addressing Jewish converts being tempted to Judaize the gospel
 
 
+#### Key Verses
+- `Hebrews 1:1–2`: "Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world."
+- `Hebrews 2:3`: "How shall we escape if we neglect such a great salvation? It was declared at first by the Lord, and it was attested to us by those who heard, while God also bore witness by signs and wonders and various miracles and by gifts of the Holy Spirit distributed according to his will."
+- `Hebrews 4:12`: "For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart."
+- `Hebrews 4:14–16`: "Since then we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast our confession. For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need."
+- `Hebrews 11:1`: "Now faith is the assurance of things hoped for, the conviction of things not seen."
+- `Hebrews 12:1–2`: "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God."
+
 ## Chapters (13)
 
 ### Ch 1
@@ -114,7 +122,7 @@ https://www.bibleref.com/Hebrews/4/Hebrews-chapter-4.html
 
 > God’s rest, God’s word is living and active, Jesus is our High Priest
 
-- `Observations`:
+- `Summary`:
     - Christ offers rest for believers.
     - The Word of God is alive and judges even thoughts and attitudes.
     - Nothing can be hidden from Him.
@@ -446,11 +454,3 @@ https://www.gotquestions.org/Melchizedek.html
 - Abraham presented a tithe of all items he had gathered.
 - Some propose that Melchizedek was actually a pre-incarnate appearance of Jesus Christ.
 - Hebrews 7:3 says that Melchizedek was “without father or mother, without genealogy, without beginning of days or end of life, resembling the Son of God, he remains a priest forever.” The question is whether the author of Hebrews means this actually or figuratively.
-
-#### Key Verses (ESV)
-- `Hebrews 1:1–2`: "Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world."
-- `Hebrews 2:3`: "How shall we escape if we neglect such a great salvation? It was declared at first by the Lord, and it was attested to us by those who heard, while God also bore witness by signs and wonders and various miracles and by gifts of the Holy Spirit distributed according to his will."
-- `Hebrews 4:12`: "For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart."
-- `Hebrews 4:14–16`: "Since then we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast our confession. For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need."
-- `Hebrews 11:1`: "Now faith is the assurance of things hoped for, the conviction of things not seen."
-- `Hebrews 12:1–2`: "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God."

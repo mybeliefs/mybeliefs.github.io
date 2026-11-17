@@ -9,9 +9,9 @@ https://www.esv.org/3john/
 
 ## Overview
 
-> **Praises** Gaius for faithful leadership and speaks against Diotrephes’s a trouble maker
+> **Instructs** believers to support people in ministry
 
-- `1` Support people in ministry, Do not imitate what is evil but what is good
+- `1` Do not imitate what is evil but what is good
 
 #### Background:
 
@@ -24,6 +24,7 @@ https://www.esv.org/3john/
 ### Ch 1
 > Support people in ministry, Do not imitate what is evil but what is good
 
+- Beloved Gaius `1`
 - Support people in ministry `8`
 - Diotrephes does not acknowledge John’s authority `9`
 - Talking wicked nonsense against them (John and others) `10`
